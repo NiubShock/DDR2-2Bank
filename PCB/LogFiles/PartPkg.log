@@ -1,0 +1,176 @@
+
+                                    Packager
+                                    --------
+
+                         09:06 AM Friday, July 31, 2020
+          Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\Project2.prj
+
+
+     Packager     Version: 020806.00
+
+        Commandline is: ""C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\wg\win64\bin\package.exe"  -jD:\OneDrive\Personal\Mentor\ALLPCB_v1\Project2.prj -nBoard1 -Add -NoFill"
+
+     The Common Database is at "D:\OneDrive\Personal\Mentor\ALLPCB_v1\database".
+
+     The Root of this design is "Schematic1".
+
+     The Front End Snapshot of this design is "DxD".
+
+     The PCB Design Path of this design is at "D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb".
+
+     The Central Library is at "C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\standard\examples\StarterLibrary\StarterLibrary.lmc".
+
+     Unable to determine the Disable Repackage status.
+     !Repackaging will be allowed!
+
+     The PDBs listed in the project file will be searched to satisfy the parts
+      requirements of the iCDB only for parts not already found in the
+      Target PDB.
+
+     The AllowAlphaRefDes status indicates that reference
+      designators containing all alpha characters should be deleted
+      and the relevant symbols repackaged.
+
+     The cross mapping of symbol pin names to Part Number pin
+      numbers will be checked for packaged symbols and mapped correctly
+      for unpackaged symbols.
+
+     Properties that have been checked off in the Property Definition Editor
+      found at Library Manager/Common Properties will be checked for value
+      differences between the PartsDB and the non-null properties on symbols.
+     Those properties checked off (other than Part Number)
+      will not be transferred from the PartsDB to symbols.
+     The following properties were checked off in the Property Definition Editor:
+       "Maximum Latency"
+       "Action_Hyperlink"
+       "Refinement Parent"
+       "Refinement Group"
+       "PinLabel"
+       "System Component"
+       "Pkg Group"
+       "Connector Mating Part"
+       "Connector Gender"
+       "Term"
+       "SIM_MODEL"
+       "SIM_MODEL_FILE"
+       "Array Component"
+       "Use Verilog"
+       "Order"
+       "Parametric"
+       "Value2"
+       "Tech"
+       "DFT.Nail Number"
+       "DFT.Nail Diameter"
+       "Rated Voltage"
+       "PowerGround"
+       "DFT.Nail Count Per Net"
+       "UNIT"
+       "SYMTAG"
+       "HyperLynx.Library"
+       "ROTATION"
+       "QUAD_MODEL"
+       "PKG_LOCK"
+       "NC"
+       "Manufacturer #2"
+       "Manufacturer #1"
+       "HyperLynx.Model"
+       "GLUE"
+       "Geometry.Height"
+       "Drawing Title"
+       "Drawing Revision"
+       "RatedPower"
+       "SupplierPN"
+       "IBIS"
+       "Part Label"
+       "VHDL Model"
+       "Verilog Model"
+       "Tolerance"
+       "Part Number"
+       "Value"
+       "Part Name"
+
+	Checking for errors in the ICDB...
+
+	No errors found.  Proceeding with packaging...
+
+
+
+     Common Data Base has been read
+
+     Target PDB Name: Integration\LocalPartsDB.pdb
+
+     Number of Part Numbers: 18
+          Part Numb: ABRACONLLC_ABLS7M2-16_000MHZ-D2Y-T -> Vend Part: ABRACONLLC_ABLS7M2-16_000MHZ-D2Y-T 
+          Part Numb: ABRACONLLC_ABS25-32_768KHZ-T -> Vend Part: ABRACONLLC_ABS25-32_768KHZ-T 
+          Part Numb: ADESTOTECHNOLOGIES_AT45DB161E-SSHF-T -> Vend Part: ADESTOTECHNOLOGIES_AT45DB161E-SSHF-T 
+          Part Numb: CYPRESSSEMICONDUCTOR_S34ML04G200BHI000 -> Vend Part: CYPRESSSEMICONDUCTOR_S34ML04G200BHI000 
+          Part Numb: C0603-1R2-100-025 -> Vend Part: C0603-1R2-100-025 
+          Part Numb: C1206-010-50-025 -> Vend Part: C1206-010-50-025 
+          Part Numb: DIODESINCORPORATED_APX823-31W5G-7 -> Vend Part: DIODESINCORPORATED_APX823-31W5G-7 
+          Part Numb: DIODESINCORPORATED_AP7333-33SRG-7 -> Vend Part: DIODESINCORPORATED_AP7333-33SRG-7 
+          Part Numb: DIODESINCORPORATED_PAM2320BECADJR -> Vend Part: DIODESINCORPORATED_PAM2320BECADJR 
+          Part Numb: MICROCHIPTECHNOLOGY_AT91SAM9N12-CU -> Vend Part: MICROCHIPTECHNOLOGY_AT91SAM9N12-CU 
+          Part Numb: MURATAELECTRONICS_GRM155R71C103KA01J -> Vend Part: MURATAELECTRONICS_GRM155R71C103KA01J 
+          Part Numb: MURATAELECTRONICS_LQP03TN3N3B02D -> Vend Part: MURATAELECTRONICS_LQP03TN3N3B02D 
+          Part Numb: TDKCORPORATION_VLS201612ET-2R2M -> Vend Part: TDKCORPORATION_VLS201612ET-2R2M 
+          Part Numb: TECONNECTIVITYAMPCONNECTORS_292303-1 -> Vend Part: TECONNECTIVITYAMPCONNECTORS_292303-1 
+          Part Numb: TECONNECTIVITYAMPCONNECTORS_1734035-4 -> Vend Part: TECONNECTIVITYAMPCONNECTORS_1734035-4 
+          Part Numb: TEXASINSTRUMENTS_TLV71210DBVR -> Vend Part: TEXASINSTRUMENTS_TLV71210DBVR 
+          Part Numb: WINBONDELECTRONICS_W9751G6KB-25 -> Vend Part: WINBONDELECTRONICS_W9751G6KB-25 
+          Part Numb: YAGEO_RC0402JR-070RL -> Vend Part: YAGEO_RC0402JR-070RL 
+
+     Number of Part Names: 0
+
+     Number of Part Labels: 0
+
+
+     Checking for value differences between non-null symbol properties and PartsDB properties,
+      but only for those properties checked off in the Property Definition Editor
+
+     Checking the validity of the packaging of prepackaged schematic
+      symbols.  Only the first error in symbols having the same
+      Reference Designator will be reported.
+
+     The packaging of all prepackaged schematic symbols is consistent
+      with the Parts DataBase data for the cross mapping of
+      symbol pin names to Part Number pin numbers.
+      Symbols that were not prepackaged will now be packaged correctly.
+      
+     No errors in Existing Schematic Packaging.
+
+     The Common DataBase has been read and will be packaged.
+     Clustering 109 Symbols:
+             109  ********
+             100  **************************************************
+              50  **************************************************
+     Clustering is Complete
+
+     Packager Assignments successfully completed
+
+
+
+     102 nets were found containing 532 pins
+     109 components were found
+
+     Parsed netlist - Augmenting..
+
+     Augmented - Adding phantom pins....
+
+     Numbering Nets....
+
+     Checking Pins....
+
+     Packaging has been successfully tested with no errors or warnings.
+
+     Updating the Common DataBase
+
+     A BAM WasIs List: Integration\CDBBackAnno.bam has been created.
+
+The Common DataBase has been successfully updated.
+
+     Packager finished successfully.
+     !THE iCDB IS UP-TO-DATE!
+     
+     An unused pin and gate report has been written to Integration\UnusedPins.txt
+     An unused gate report for gates not in schematic has been written to Integration\UnusedGates.txt
+     An augmented pin report has been written to Integration\AugmentedPins.txt.

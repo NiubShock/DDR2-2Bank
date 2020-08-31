@@ -1,0 +1,177 @@
+[2020.07.31 09:34:51] [0000m.00s.018ms] [0] WELCOME
+[2020.07.31 09:34:51] [0000m.00s.018ms] [1] iCDB Server ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449115 created 2019-12-19 14:22:14, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2020.07.31 09:34:51] [0000m.00s.018ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2020.07.31 09:34:51] [0000m.00s.019ms] [1] Base flow version [VX.2.7]
+[2020.07.31 09:34:51] [0000m.00s.019ms] [1] Install Id [2125240], Flow Id [PADS Professional Student Edition VX.2.7], Full Flow Name [PADS Pro Tools SE VX.2.7], Exact Access Date [2020/02/01]
+[2020.07.31 09:34:51] [0000m.00s.027ms] [1] Machine [ALLEN]  IP [127.0.0.1,192.168.1.166,192.168.56.1]  User [alle9]  PID [16296]
+[2020.07.31 09:34:51] [0000m.00s.030ms] [1] Operating system [Microsoft Windows 10 Business Edition, 64-bit (build 18363)]
+[2020.07.31 09:34:51] [0000m.00s.030ms] [1] Current working dir [D:\OneDrive\Personal\Mentor\ALLPCB_v1]
+[2020.07.31 09:34:51] [0000m.00s.030ms] [1] PATH [C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\bin;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\jre\default\bin;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSProVX.2.7\MGC_HOME.ixw\bin;C:\MentorGraphics\PADSProVX.2.7\MGC_HOME.ixw\lib;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2020a\bin;D:\Programs\MPLABx\xc16\v1.50\bin;D:\Programs\MPLABx\xc8\v2.20\bin;C:\Program Files\Git\cmd;C:\Users\alle9\AppData\Local\Microsoft\WindowsApps;C:\texlive\2019\bin\win32;C:\Users\alle9\AppData\Local\Programs\Microsoft VS Code\bin;C:\cygwin64\bin;C:\Program Files\JetBrains\CLion 2020.1.1\bin;C:\MinGW\bin;]
+[2020.07.31 09:34:51] [0000m.00s.030ms] [1] SDD_HOME [C:\MentorGraphics\PADSProVX.2.7\SDD_HOME] on file system [NTFS]
+[2020.07.31 09:34:51] [0000m.00s.030ms] [1] SDD_PLATFORM [win64]
+[2020.07.31 09:34:51] [0000m.00s.030ms] [1] WDIR [C:\WDIR\PADSProVX.2.7;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\standard;]
+[2020.07.31 09:34:51] [0000m.00s.030ms] [1] Local iCDB working dir [C:\WDIR\PADSProVX.2.7\iCDB] on file system [NTFS]
+[2020.07.31 09:34:51] [0000m.00s.030ms] [2] S: Loading config files
+[2020.07.31 09:34:51] [0000m.00s.036ms] [1] Config file [D:\OneDrive\Personal\Mentor\ALLPCB_v1\database\cdbsvr\Server.cfg] not found
+[2020.07.31 09:34:51] [0000m.00s.039ms] [3] S: Config loaded
+[2020.07.31 09:34:51] [0000m.00s.043ms] [0] S: Project path [D:\OneDrive\Personal\Mentor\ALLPCB_v1\database] on file system [NTFS]
+[2020.07.31 09:34:51] [0000m.00s.043ms] [0] S: Project file (.prj) path [D:\OneDrive\Personal\Mentor\ALLPCB_v1\Project2.prj] on file system [NTFS]
+[2020.07.31 09:34:51] [0000m.00s.043ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2020.07.31 09:34:51] [0000m.00s.043ms] [0] S: Single-user mode (auto)
+[2020.07.31 09:34:51] [0000m.00s.043ms] [0] S: Event polling mode autodetection
+[2020.07.31 09:34:51] [0000m.00s.044ms] [0] S: Started up automatically by iCDB Client: ALLEN:alle9:16884
+[2020.07.31 09:34:51] [0000m.00s.044ms] [0] S: Auto close mode
+[2020.07.31 09:34:51] [0000m.00s.044ms] [0] S: Database ID [7019-9539-f7af-9f95-a317-6def-3176-de50-3aca-7675-73b9-0aa8]
+[2020.07.31 09:34:51] [0000m.00s.044ms] [0] PathTranslator: BEGIN dumping
+[2020.07.31 09:34:51] [0000m.00s.044ms] [0] PathTranslator: Local -> global path prefix list
+[2020.07.31 09:34:51] [0000m.00s.045ms] [0] PathTranslator: Global -> local path prefix list
+[2020.07.31 09:34:51] [0000m.00s.045ms] [0] PathTranslator: END dumping
+[2020.07.31 09:34:51] [0000m.00s.045ms] [0] S: START
+[2020.07.31 09:34:51] [0000m.00s.045ms] [0] S: Server startup lock file created
+[2020.07.31 09:34:51] [0000m.00s.045ms] [0] S: Listening for client connections on port [10000]
+[2020.07.31 09:34:51] [0000m.00s.048ms] [0] S: Server network ID [Allen:192.168.1.166,192.168.56.1,Allen:10000]
+[2020.07.31 09:34:51] [0000m.00s.048ms] [0] S: Server GUID [c39b-3cfe-3d0a-0807-b99c-32f0-a9c3-2f50-7b3d-7675-73b9-0aa8]
+[2020.07.31 09:34:51] [0000m.00s.048ms] [0] S: Project GUID [7019-9539-f7af-9f95-a317-6def-3176-de50-3aca-7675-73b9-0aa8]
+[2020.07.31 09:34:51] [0000m.00s.050ms] [0] S: Wrote data to server address file
+[2020.07.31 09:34:51] [0000m.00s.050ms] [0] S: Server startup lock file removed
+[2020.07.31 09:34:51] [0000m.00s.050ms] [1] ProjectBackupManager: Setting project file (.prj) path: [D:\OneDrive\Personal\Mentor\ALLPCB_v1\Project2.prj]
+[2020.07.31 09:34:51] [0000m.00s.111ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2020.07.31 09:34:51] [0000m.00s.111ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\iCDB\win64\bin]
+[2020.07.31 09:34:51] [0000m.00s.111ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\bin]
+[2020.07.31 09:34:51] [0000m.00s.112ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2020.07.31 09:34:51] [0000m.00s.112ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2020.07.31 09:34:51] [0000m.00s.112ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2020.07.31 09:34:51] [0000m.00s.112ms] [0] S: Local disc access time: 49 us
+[2020.07.31 09:34:51] [0000m.00s.112ms] [0] S: File server access time: 59 us
+[2020.07.31 09:34:51] [0000m.00s.113ms] [0] Single file [D:\OneDrive\Personal\Mentor\ALLPCB_v1\database\icdb.dat] size [242288 (236.6 kB)]
+[2020.07.31 09:34:51] [0000m.00s.113ms] [1] Single file [D:\OneDrive\Personal\Mentor\ALLPCB_v1\database\icdb.dat] opened in read-write mode
+[2020.07.31 09:34:51] [0000m.00s.113ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2020.07.31 09:34:51] [0000m.00s.113ms] [0] Database GUARD OK: [242288]
+[2020.07.31 09:34:51] [0000m.00s.114ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2020.07.31 09:34:51] [0000m.00s.114ms] [0] Database GUARD OK: [242288]
+[2020.07.31 09:34:51] [0000m.00s.115ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2020.07.31 09:34:51] [0000m.00s.115ms] [0] Database GUARD OK: [242288]
+[2020.07.31 09:34:51] [0000m.00s.115ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2020.07.31 09:34:51] [0000m.00s.115ms] [0] Database GUARD OK: [242288]
+[2020.07.31 09:34:51] [0000m.00s.115ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2020.07.31 09:34:51] [0000m.00s.115ms] [0] Database GUARD OK: [242288]
+[2020.07.31 09:34:51] [0000m.00s.115ms] [0] SingleFile: [4eea-799e-accf-78ae] SFI version check [1009] [1009]
+[2020.07.31 09:34:51] [0000m.00s.121ms] [0] SingleFile: [4eea-799e-accf-78ae] Database SFI header has been read in [5ms 518us]
+[2020.07.31 09:34:51] [0000m.00s.125ms] [0] iCDB Server PI: Server & plugin session [434]
+[2020.07.31 09:34:51] [0000m.00s.125ms] [0] iCDB Server PI: Opening database [D:\OneDrive\Personal\Mentor\ALLPCB_v1\database]
+[2020.07.31 09:34:51] [0000m.00s.125ms] [0] iCDB Server PI: Database [D:\OneDrive\Personal\Mentor\ALLPCB_v1\database] opened
+[2020.07.31 09:34:51] [0000m.00s.169ms] [0] iCDB Database: Checking existence of constraint definitions
+[2020.07.31 09:34:51] [0000m.00s.169ms] [0] iCDB Database: Checking constraint definitions version
+[2020.07.31 09:34:51] [0000m.00s.190ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.69] up to date
+[2020.07.31 09:34:51] [0000m.00s.194ms] [0] iCDB Server PI: Initializing plugins
+[2020.07.31 09:34:51] [0000m.00s.195ms] [0] iCDB Server PI: Plugins initialized
+[2020.07.31 09:34:51] [0000m.00s.195ms] [0] S: iCDB database loaded
+[2020.07.31 09:34:51] [0000m.00s.196ms] [0] S: Starting threads
+[2020.07.31 09:34:51] [0000m.00s.196ms] [0] BT: Listening for broadcast messages on port [10000]
+[2020.07.31 09:34:51] [0000m.00s.197ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2020.07.31 09:34:51] [0000m.00s.198ms] [0] IT: Session [435] for host [Allen] user [alle9] client type[0] clsvrPluginID[0] with process ID [16884] created
+[2020.07.31 09:34:51] [0000m.00s.200ms] [1] SC[435]: Registered sub-client [DxD] with ID [1] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:51] [0000m.00s.201ms] [0] MWT: WindowProc: WM_NCCREATE
+[2020.07.31 09:34:51] [0000m.00s.292ms] [1] SC[435]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:51] [0000m.00s.300ms] [1] SC[435]: Registered sub-client [SymbolEditor] with ID [3] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:51] [0000m.00s.306ms] [1] SC[435]: Registered sub-client [SelectionHolder] with ID [4] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:51] [0000m.00s.311ms] [1] CMT: There are [1] clients now: 435
+[2020.07.31 09:34:51] [0000m.00s.329ms] [1] SC[435]: Registered sub-client [EEVM_EEVM_651885984] with ID [5] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:51] [0000m.00s.329ms] [1] SC[435]: UnRegistered sub-client [EEVM_EEVM_651885984] with ID [5] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:51] [0000m.00s.333ms] [1] SC[435]: Registered sub-client [EEVM_EEVM_651885984] with ID [6] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:51] [0000m.00s.346ms] [1] SC[435]: UnRegistered sub-client [EEVM_EEVM_651885984] with ID [6] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:51] [0000m.00s.350ms] [1] SC[435]: Registered sub-client [EEVM_EEVM_651881200] with ID [7] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:51] [0000m.00s.351ms] [1] SC[435]: UnRegistered sub-client [EEVM_EEVM_651881200] with ID [7] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:51] [0000m.00s.354ms] [1] SC[435]: Registered sub-client [EEVM_EEVM_651881200] with ID [8] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:51] [0000m.00s.367ms] [1] SC[435]: UnRegistered sub-client [EEVM_EEVM_651881200] with ID [8] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:51] [0000m.00s.383ms] [1] SC[435]: Registered sub-client [Core::DesignListener-652466176-0] with ID [9] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:51] [0000m.00s.387ms] [1] SC[435]: Registered sub-client [BlockCacheDxD:652463376] with ID [10] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:51] [0000m.00s.391ms] [1] SC[435]: Registered sub-client [Core::NetFlatData-18404] with ID [11] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:51] [0000m.00s.412ms] [1] SC[435]: Registered sub-client [SystemDesignDll] with ID [12] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:51] [0000m.00s.417ms] [1] SC[435]: UnRegistered sub-client [SystemDesignDll] with ID [12] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:51] [0000m.00s.421ms] [1] SC[435]: Registered sub-client [SystemDesignDll] with ID [13] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:54] [0000m.02s.754ms] [1] SC[435]: Registered sub-client [DesignSearcher2] with ID [14] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:54] [0000m.02s.767ms] [1] SC[435]: Registered sub-client [HdlProject] with ID [15] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:54] [0000m.02s.773ms] [1] SC[435]: Registered sub-client [Navigator] with ID [16] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:54] [0000m.02s.786ms] [1] SC[435]: Registered sub-client [OutputWindow] with ID [17] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:54] [0000m.02s.791ms] [1] SC[435]: Registered sub-client [PlaceDevice] with ID [18] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:54] [0000m.02s.883ms] [1] SC[435]: Registered sub-client [FFSearch_RBHost] with ID [19] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:54] [0000m.02s.972ms] [1] SC[435]: Registered sub-client [LocalSymbolsDataProvider] with ID [20] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:56] [0000m.04s.829ms] [1] SC[435]: Registered sub-client [FFSSelListener] with ID [21] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:56] [0000m.04s.834ms] [1] SC[435]: Registered sub-client [SAE] with ID [22] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:56] [0000m.04s.839ms] [1] SC[435]: Registered sub-client [CCZAddin] with ID [23] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:56] [0000m.04s.843ms] [1] SC[435]: Registered sub-client [DxThumbnails] with ID [24] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:56] [0000m.04s.847ms] [1] SC[435]: Registered sub-client [MyParts] with ID [25] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:56] [0000m.04s.879ms] [1] SC[435]: Registered sub-client [PinsList] with ID [26] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:56] [0000m.04s.994ms] [1] SC[435]: Registered sub-client [toolboxes] with ID [27] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:56] [0000m.05s.078ms] [1] SC[435]: Registered sub-client [ProjectIntegrationIcdbCacheDxD:654408720] with ID [28] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:56] [0000m.05s.126ms] [1] SC[435]: Registered sub-client [SheetConnectorsCacheDxD:1596180896] with ID [29] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:56] [0000m.05s.155ms] [1] SC[435]: Registered sub-client [NetsNamesCollectorDxD:1596180896] with ID [30] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:56] [0000m.05s.171ms] [1] SC[435]: Registered sub-client [PartReplaceUtils] with ID [31] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:56] [0000m.05s.175ms] [1] SC[435]: Registered sub-client [PartReplaceUtilsSelectionListener] with ID [32] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:56] [0000m.05s.188ms] [1] SC[435]: Registered sub-client [xprob] with ID [33] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:56] [0000m.05s.236ms] [1] SC[435]: Registered sub-client [StartServerClient1958] with ID [34] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:56] [0000m.05s.237ms] [1] SC[435]: UnRegistered sub-client [StartServerClient1958] with ID [34] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:57] [0000m.05s.440ms] [1] SC[435]: Registered sub-client [SharedBlockDataProvider] with ID [35] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:57] [0000m.05s.441ms] [1] SC[435]: UnRegistered sub-client [SharedBlockDataProvider] with ID [35] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:57] [0000m.05s.445ms] [1] SC[435]: Registered sub-client [SharedBlockDataProvider] with ID [36] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:34:57] [0000m.05s.446ms] [1] SC[435]: UnRegistered sub-client [SharedBlockDataProvider] with ID [36] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:35:00] [0000m.09s.412ms] [1] SC[435]: Registered sub-client [ObjectHolder_404851136] with ID [37] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:35:00] [0000m.09s.417ms] [1] SC[435]: Registered sub-client [BlockCacheDxD:682698544] with ID [38] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:35:00] [0000m.09s.421ms] [1] SC[435]: Registered sub-client [GlobalNetAliasUpdater_683130016] with ID [39] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:35:00] [0000m.09s.425ms] [1] SC[435]: Registered sub-client [IcdbNetProcessorSubClientDxD:654772160] with ID [40] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:35:20] [0000m.29s.235ms] [0] DFAMT: File server access time: 94 us
+[2020.07.31 09:47:18] [0012m.26s.988ms] [1] SC[435]: UnRegistered sub-client [SystemDesignDll] with ID [13] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:47:18] [0012m.27s.131ms] [1] SC[435]: UnRegistered sub-client [DesignSearcher2] with ID [14] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:47:18] [0012m.27s.272ms] [1] SC[435]: UnRegistered sub-client [GlobalNetAliasUpdater_683130016] with ID [39] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:47:18] [0012m.27s.273ms] [1] SC[435]: UnRegistered sub-client [BlockCacheDxD:682698544] with ID [38] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:47:18] [0012m.27s.273ms] [1] SC[435]: UnRegistered sub-client [ObjectHolder_404851136] with ID [37] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:47:18] [0012m.27s.274ms] [1] SC[435]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:654772160] with ID [40] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:47:18] [0012m.27s.280ms] [1] SC[435]: UnRegistered sub-client [Navigator] with ID [16] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:47:18] [0012m.27s.280ms] [1] SC[435]: UnRegistered sub-client [FFSSelListener] with ID [21] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:47:18] [0012m.27s.339ms] [1] SC[435]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [20] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:47:19] [0012m.27s.480ms] [1] SC[435]: UnRegistered sub-client [FFSearch_RBHost] with ID [19] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:47:19] [0012m.27s.495ms] [1] SC[435]: UnRegistered sub-client [MyParts] with ID [25] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:47:19] [0012m.27s.497ms] [1] SC[435]: UnRegistered sub-client [toolboxes] with ID [27] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:47:19] [0012m.27s.552ms] [1] SC[435]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:47:19] [0012m.27s.553ms] [1] SC[435]: UnRegistered sub-client [PartReplaceUtils] with ID [31] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:47:19] [0012m.27s.553ms] [1] SC[435]: UnRegistered sub-client [PartReplaceUtilsSelectionListener] with ID [32] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:47:20] [0012m.28s.656ms] [1] SC[435]: UnRegistered sub-client [ProjectIntegrationIcdbCacheDxD:654408720] with ID [28] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:47:20] [0012m.28s.657ms] [1] SC[435]: UnRegistered sub-client [Core::NetFlatData-18404] with ID [11] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:47:20] [0012m.28s.658ms] [1] SC[435]: UnRegistered sub-client [BlockCacheDxD:652463376] with ID [10] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:47:20] [0012m.28s.659ms] [1] SC[435]: UnRegistered sub-client [Core::DesignListener-652466176-0] with ID [9] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:47:20] [0012m.28s.660ms] [1] SC[435]: UnRegistered sub-client [SheetConnectorsCacheDxD:1596180896] with ID [29] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:47:20] [0012m.28s.661ms] [1] SC[435]: UnRegistered sub-client [NetsNamesCollectorDxD:1596180896] with ID [30] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:47:20] [0012m.28s.664ms] [1] SC[435]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:47:20] [0012m.28s.665ms] [1] SC[435]: UnRegistered sub-client [DxD] with ID [1] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:47:20] [0012m.28s.669ms] [1] SC[435]: UnRegistered sub-client [xprob] with ID [33] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:47:20] [0012m.28s.670ms] [1] SC[435]: UnRegistered sub-client [SymbolEditor] with ID [3] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:47:20] [0012m.28s.675ms] [1] SC[435]: UnRegistered sub-client [OutputWindow] with ID [17] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:47:20] [0012m.28s.681ms] [1] SC[435]: UnRegistered sub-client [SAE] with ID [22] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:47:20] [0012m.28s.685ms] [1] SC[435]: UnRegistered sub-client [CCZAddin] with ID [23] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:47:20] [0012m.28s.687ms] [1] SC[435]: UnRegistered sub-client [DxThumbnails] with ID [24] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:47:20] [0012m.29s.057ms] [1] SC[435]: UnRegistered sub-client [PinsList] with ID [26] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:47:20] [0012m.29s.144ms] [1] SC[435]: UnRegistered sub-client [PlaceDevice] with ID [18] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:47:20] [0012m.29s.207ms] [1] SC[435]: UnRegistered sub-client [HdlProject] with ID [15] for session ID [435] host [Allen] user [alle9] process ID [16884]
+[2020.07.31 09:47:20] [0012m.29s.305ms] [1] CMT: Removed client [435]
+[2020.07.31 09:47:20] [0012m.29s.305ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2020.07.31 09:47:22] [0012m.30s.469ms] [0] CMT: Starting server auto-close
+[2020.07.31 09:47:22] [0012m.30s.563ms] [0] S: Closing server
+[2020.07.31 09:47:22] [0012m.30s.711ms] [0] iCDB Server PI: Closing plugins
+[2020.07.31 09:47:22] [0012m.30s.711ms] [0] iCDB Server PI: Plugins closed
+[2020.07.31 09:47:22] [0012m.30s.711ms] [0] iCDB Server PI: Unloading database
+[2020.07.31 09:47:22] [0012m.30s.711ms] [0] iCDB Server PI: Saving storage
+[2020.07.31 09:47:22] [0012m.30s.711ms] [0] iCDB Server PI: Closing database
+[2020.07.31 09:47:22] [0012m.30s.715ms] [1] iCDB Server PI: Stats: Database defragmentation: max[1] avg[1] holes[0%] data[99%]
+[2020.07.31 09:47:22] [0012m.30s.715ms] [1] iCDB Server PI: Stats: Database file size [268368 (262.1 kB)]
+[2020.07.31 09:47:22] [0012m.30s.720ms] [0] iCDB Server PI: Database closed
+[2020.07.31 09:47:22] [0012m.30s.720ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [19109] ticks
+[2020.07.31 09:47:22] [0012m.30s.720ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [1910] microseconds
+[2020.07.31 09:47:22] [0012m.30s.720ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [7]
+[2020.07.31 09:47:22] [0012m.30s.720ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [3663] commands per second
+[2020.07.31 09:47:22] [0012m.30s.720ms] [1] iCDB Server PI: Stats: Mem[13479936]
+[2020.07.31 09:47:22] [0012m.30s.720ms] [1] iCDB Server PI: Stats: MemPeak[35160064]
+[2020.07.31 09:47:22] [0012m.30s.720ms] [0] Single file [D:\OneDrive\Personal\Mentor\ALLPCB_v1\database\icdb.dat] closed with size [268368 (262.1 kB)]
+[2020.07.31 09:47:22] [0012m.30s.889ms] [0] MWT: Destroy the shutdown block reason.
+[2020.07.31 09:47:22] [0012m.30s.892ms] [0] MWT: STOP
+[2020.07.31 09:47:22] [0012m.30s.892ms] [0] S: STOP

@@ -1,0 +1,1132 @@
+
+;
+; The following is an extraction of the NetlistBackAnno.txt file limited
+; to those changes from the last forward annotation that involved changes
+; of reference designator regardless of pin or gate swap within the same part.
+; The exception being a local Common DataBase job which performs an implicit
+; forward annotation after every back annotation.
+; Changes could result from one or more runs of ECO/Renumber Ref Des
+; and/or one or more runs of Route/Swap/Gates and/or one or more runs of
+; Place/Automatic/Swap by Part Number.  If it is desired to document just
+; the changes from one or more runs of ECO/Renumber Ref Des, run Forward
+; Annotation to bring the schematic/netlist into sync with the board,
+; make the runs of ECO/Renumber Ref Des, and then run Back Annotation.
+; The first column represents the old reference designator.
+; The second represents the new reference designator using a tab as a separator
+; since references designators may have included spaces.  Leading spaces have
+; been added to reference designators in order to improve readability
+; NOTICE:
+;
+; 1. The file format is subject to change per product release.
+; 2. The information is valid until the user makes changes that require
+; back annotation.
+; 3. For more complete information on all changes the user should reference
+; the NetlistBackAnno.txt file.
+; 
+;  <Fwd Anno Ref><tab> <New Ref>
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         06:01 PM Tuesday, June 02, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        12:49 PM Thursday, June 04, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        01:20 PM Thursday, June 04, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        01:20 PM Thursday, June 04, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         06:21 PM Friday, June 12, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         06:23 PM Friday, June 12, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         02:31 PM Monday, June 15, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         02:33 PM Monday, June 15, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         05:31 PM Monday, June 15, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         05:32 PM Monday, June 15, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        07:38 PM Wednesday, June 17, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        07:43 PM Wednesday, June 17, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        07:44 PM Wednesday, June 17, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        07:44 PM Wednesday, June 17, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        12:07 PM Thursday, June 18, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        07:35 PM Wednesday, July 01, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        07:41 PM Wednesday, July 01, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        12:44 PM Thursday, July 02, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        12:46 PM Thursday, July 02, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        06:16 PM Thursday, July 02, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        06:16 PM Thursday, July 02, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        06:53 PM Thursday, July 02, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        06:53 PM Thursday, July 02, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        06:53 PM Thursday, July 02, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         08:28 AM Friday, July 03, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         12:39 PM Friday, July 03, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         12:39 PM Friday, July 03, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         12:43 PM Friday, July 03, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         12:43 PM Friday, July 03, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         12:43 PM Friday, July 03, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         06:17 PM Friday, July 03, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         06:19 PM Friday, July 03, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         06:19 PM Friday, July 03, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        08:36 AM Saturday, July 04, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        08:37 AM Saturday, July 04, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        08:52 AM Saturday, July 04, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        08:52 AM Saturday, July 04, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         08:15 AM Sunday, July 05, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         06:47 PM Tuesday, July 07, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         07:25 PM Tuesday, July 07, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         07:25 PM Tuesday, July 07, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         07:26 PM Tuesday, July 07, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         11:45 AM Friday, July 10, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         12:06 PM Friday, July 10, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        07:29 PM Wednesday, July 29, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        07:36 PM Wednesday, July 29, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        08:38 PM Wednesday, July 29, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        08:40 PM Wednesday, July 29, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        08:40 PM Wednesday, July 29, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        08:41 PM Wednesday, July 29, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        06:38 AM Thursday, July 30, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        07:24 AM Thursday, July 30, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        07:25 AM Thursday, July 30, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        07:25 AM Thursday, July 30, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        07:31 AM Thursday, July 30, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        07:31 AM Thursday, July 30, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        07:32 AM Thursday, July 30, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        07:32 AM Thursday, July 30, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        08:35 AM Thursday, July 30, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        12:28 PM Thursday, July 30, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         09:06 AM Friday, July 31, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         09:06 AM Friday, July 31, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         09:06 AM Friday, July 31, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         09:21 AM Friday, July 31, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         09:26 AM Friday, July 31, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         09:27 AM Friday, July 31, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         09:27 AM Friday, July 31, 2020
+        Job Name: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         09:55 AM Friday, July 31, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         10:04 AM Friday, July 31, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        01:28 PM Sunday, August 02, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        01:38 PM Sunday, August 02, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        02:41 PM Sunday, August 02, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        03:23 PM Sunday, August 02, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        03:28 PM Sunday, August 02, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        03:32 PM Sunday, August 02, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        05:29 PM Sunday, August 02, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        05:37 PM Sunday, August 02, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        06:03 PM Sunday, August 02, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        06:05 PM Sunday, August 02, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        06:08 PM Sunday, August 02, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        12:12 PM Monday, August 03, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        12:15 PM Monday, August 03, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        12:15 PM Monday, August 03, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        05:27 PM Monday, August 03, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        05:33 PM Monday, August 03, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        05:56 PM Monday, August 03, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        05:57 PM Monday, August 03, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        05:59 PM Monday, August 03, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        06:09 PM Monday, August 03, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        11:23 AM Tuesday, August 04, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        11:24 AM Tuesday, August 04, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        11:24 AM Tuesday, August 04, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        11:29 AM Tuesday, August 04, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        11:30 AM Tuesday, August 04, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        11:31 AM Tuesday, August 04, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        11:35 AM Tuesday, August 04, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:59 AM Wednesday, August 05, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:02 AM Wednesday, August 05, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:03 AM Wednesday, August 05, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------

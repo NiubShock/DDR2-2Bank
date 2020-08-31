@@ -1,0 +1,56 @@
+
+                ----------
+                EDX Import
+                ----------
+
+Start time: 2020-03-29 09:19:48
+
+
+    Validating Package
+        Settings
+            Package: pq_edx
+            Library: D:\OneDrive\Personal\Mentor\Project2\ProjLib\Project2.lmp
+            Overwrite: All
+            On Error: Continue
+
+    Completed.
+
+    Processing Package
+        Reading: edx/Content.xml
+            Reading: edx/_rels/Content.xml.rels
+        Reading: edx/LibraryArchiveContainer1.xml
+            Reading: edx/_rels/LibraryArchiveContainer1.xml.rels
+        Reading: edx/ArchiveFiles1.xml
+            Reading: edx/_rels/ArchiveFiles1.xml.rels
+        Reading: edx/ArchiveFiles2.xml
+            Reading: edx/_rels/ArchiveFiles2.xml.rels
+
+    Importing Package
+        Settings
+            Package: pq_edx
+            Library: D:\OneDrive\Personal\Mentor\Project2\ProjLib\Project2.lmp
+            Overwrite: All
+            On Error: Continue
+        
+        Importing Library
+            Importing Pad Partition: Partquest
+                Importing Pad: r152.5_65
+            Committing Partition: Partquest
+                INFO: Pad 'r152.5_65' overwritten.
+            Importing Padstack Partition: Partquest
+                Importing Padstack: r152.5_65
+            Committing Partition: Partquest
+                INFO: Padstack 'r152.5_65' overwritten.
+            Importing Cell Partition: Partquest
+                Importing Cell: SOIC127P600X175-8N
+            Committing Partition: Partquest
+            Importing Symbol Partition: Partquest
+                Importing Symbol: DIGIKEY_AT45DB161E-SSHF-TTR-ND
+            Committing Partition: Partquest
+            Importing Part Partition: Partquest
+                Importing Part: ADESTOTECHNOLOGIES_AT45DB161E-SSHF-T
+            Committing Partition: Partquest
+
+    Completed.
+
+End time: 2020-03-29 09:19:51

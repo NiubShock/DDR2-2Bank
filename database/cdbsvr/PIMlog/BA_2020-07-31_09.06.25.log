@@ -1,0 +1,290 @@
+--------------------------------------------------------------------------------
+ Project integration - START (2020-07-31 09:06:25) 
+--------------------------------------------------------------------------------
+FE snapshot name: DxD
+BE snapshot name: Board1_layout_temp
+Top level block: (2-1-5)
+Parameters: BAConnectivity,BAConstraints,FEWin,
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Connection synchronization - START (2020-07-31 09:06:25) 
+--------------------------------------------------------------------------------
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_A31726-ND.1,(4-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(18-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6728-2-ND.1,(20-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_AP7333-33SRG-7DITR-ND.1,(33-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_445-6620-2-ND.1,(16-2-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(18-2-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-2-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_APX823-31W5GDITR-ND.1,(33-2-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,A121554TR-ND.1,(4-3-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(14-3-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_311-0_0JRTR-ND.1,(16-3-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-3-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_311-0_0JRTR-ND.1,(22-3-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-3-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_AT45DB161E-SSHF-TTR-ND.1,(33-3-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_AT91SAM9N12-CU-ND.1,(2-4-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_296-29737-2-ND.1,(4-4-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_311-0_0JRTR-ND.1,(16-4-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_311-0_0JRTR-ND.1,(20-4-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_311-0_0JRTR-ND.1,(22-4-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-4-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_1274-1062-ND.1,(33-4-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(16-5-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(22-5-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-5-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_W9751G6KB-25-ND.1,(33-5-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(22-6-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_W9751G6KB-25-ND.1,(33-6-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(20-7-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(22-7-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-7-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-9-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-9-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(18-10-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-10-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_PAM2320BECADJRDITR-ND.1,(33-10-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(18-11-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6728-2-ND.1,(20-11-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(22-11-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-11-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_311-0_0JRTR-ND.1,(20-12-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_311-0_0JRTR-ND.1,(22-12-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-12-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(20-14-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-14-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-15-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-15-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-16-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(18-17-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-17-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(18-18-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(18-19-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(24-19-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(18-20-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6728-2-ND.1,(24-20-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_311-0_0JRTR-ND.1,(18-21-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-21-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_311-0_0JRTR-ND.1,(20-22-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_311-0_0JRTR-ND.1,(24-22-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_311-0_0JRTR-ND.1,(20-23-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_311-0_0JRTR-ND.1,(24-23-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_535-9166-2-ND.1,(20-26-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-26-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_535-12830-2-ND.1,(20-27-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-27-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-28-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_311-0_0JRTR-ND.1,(24-28-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-29-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-30-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-31-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-36-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-37-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-38-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-39-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-40-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-41-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-42-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-43-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-44-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-45-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-46-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-47-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-48-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-49-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-50-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-51-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-58-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-60-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-61-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-63-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-64-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-65-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-66-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-67-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-68-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-69-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-71-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-73-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-75-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-76-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-77-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-80-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-81-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_311-0_0JRTR-ND.1,(20-82-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_311-0_0JRTR-ND.1,(20-83-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(20-84-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6728-2-ND.1,(20-85-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_311-0_0JRTR-ND.1,(20-86-8)]
+	Property: Cell Name, Operation: Change
+--------------------------------------------------------------------------------
+ Connection synchronization - END (2020-07-31 09:06:25) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ CES synchronization - START (2020-07-31 09:06:25) 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ TOPOLOGY synchronization - START (2020-07-31 09:06:25) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ TOPOLOGY synchronization - END (2020-07-31 09:06:25) 
+--------------------------------------------------------------------------------
+[Ok][Deletion] - [BE->FE] [P: CesLayer,PLANE_1,(5-4-23)] [O: CesConstraint,PLANE_NETS,(301-55-22)]
+[Ok][Deletion] - [BE->FE] [P: CesLayer,PLANE_1,(5-4-23)] [O: CesConstraint,PNET_CLEARANCES,(301-56-22)]
+[Ok][Deletion] - [BE->FE] [P: CesLayer,PLANE_1,(5-4-23)] [O: CesConstraint,PNET_UBORDERS,(301-57-22)]
+[Ok][Deletion] - [BE->FE] [P: CesLayer,SIGNAL_3,(5-8-23)] [O: CesConstraint,PLANE_NETS,(301-58-22)]
+[Ok][Deletion] - [BE->FE] [P: CesLayer,SIGNAL_3,(5-8-23)] [O: CesConstraint,PNET_CLEARANCES,(301-59-22)]
+[Ok][Deletion] - [BE->FE] [P: CesLayer,SIGNAL_3,(5-8-23)] [O: CesConstraint,PNET_UBORDERS,(301-60-22)]
+[Ok][Deletion] - [BE->FE] [P: CesLayer,PLANE_2,(5-10-23)] [O: CesConstraint,PLANE_NETS,(301-61-22)]
+[Ok][Deletion] - [BE->FE] [P: CesLayer,PLANE_2,(5-10-23)] [O: CesConstraint,PNET_CLEARANCES,(301-62-22)]
+[Ok][Deletion] - [BE->FE] [P: CesLayer,PLANE_2,(5-10-23)] [O: CesConstraint,PNET_UBORDERS,(301-63-22)]
+[Ok][Deletion] - [BE->FE] [P: CesLayer,PLANE_3,(110-1-23)] [O: CesConstraint,PLANE_NETS,(301-64-22)]
+[Ok][Deletion] - [BE->FE] [P: CesLayer,PLANE_3,(110-1-23)] [O: CesConstraint,PNET_CLEARANCES,(301-65-22)]
+[Ok][Deletion] - [BE->FE] [P: CesLayer,PLANE_3,(110-1-23)] [O: CesConstraint,PNET_UBORDERS,(301-66-22)]
+[Ok][Deletion] - [BE->FE] [P: CesLayer,SIGNAL_4,(110-3-23)] [O: CesConstraint,PLANE_NETS,(301-67-22)]
+[Ok][Deletion] - [BE->FE] [P: CesLayer,SIGNAL_4,(110-3-23)] [O: CesConstraint,PNET_CLEARANCES,(301-68-22)]
+[Ok][Deletion] - [BE->FE] [P: CesLayer,SIGNAL_4,(110-3-23)] [O: CesConstraint,PNET_UBORDERS,(301-69-22)]
+[Ok][Deletion] - [BE->FE] [P: CesLayer,PLANE_4,(110-7-23)] [O: CesConstraint,PLANE_NETS,(301-70-22)]
+[Ok][Deletion] - [BE->FE] [P: CesLayer,PLANE_4,(110-7-23)] [O: CesConstraint,PNET_CLEARANCES,(301-71-22)]
+[Ok][Deletion] - [BE->FE] [P: CesLayer,PLANE_4,(110-7-23)] [O: CesConstraint,PNET_UBORDERS,(301-72-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,PLANE_1,(5-4-23)] [O: CesConstraint,PLANE_NETS,(392-19-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,PLANE_1,(5-4-23)] [O: CesConstraint,PNET_CLEARANCES,(392-20-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,PLANE_1,(5-4-23)] [O: CesConstraint,PNET_UBORDERS,(392-21-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_3,(5-8-23)] [O: CesConstraint,PLANE_NETS,(392-22-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_3,(5-8-23)] [O: CesConstraint,PNET_CLEARANCES,(392-23-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_3,(5-8-23)] [O: CesConstraint,PNET_UBORDERS,(392-24-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,PLANE_2,(5-10-23)] [O: CesConstraint,PLANE_NETS,(392-25-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,PLANE_2,(5-10-23)] [O: CesConstraint,PNET_CLEARANCES,(392-26-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,PLANE_2,(5-10-23)] [O: CesConstraint,PNET_UBORDERS,(392-27-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,PLANE_3,(110-1-23)] [O: CesConstraint,PLANE_NETS,(392-28-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,PLANE_3,(110-1-23)] [O: CesConstraint,PNET_CLEARANCES,(392-29-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,PLANE_3,(110-1-23)] [O: CesConstraint,PNET_UBORDERS,(392-30-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_4,(110-3-23)] [O: CesConstraint,PLANE_NETS,(392-31-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_4,(110-3-23)] [O: CesConstraint,PNET_CLEARANCES,(392-32-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_4,(110-3-23)] [O: CesConstraint,PNET_UBORDERS,(392-33-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,PLANE_4,(110-7-23)] [O: CesConstraint,PLANE_NETS,(392-34-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,PLANE_4,(110-7-23)] [O: CesConstraint,PNET_CLEARANCES,(392-35-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,PLANE_4,(110-7-23)] [O: CesConstraint,PNET_UBORDERS,(392-36-22)]
+--------------------------------------------------------------------------------
+ CES synchronization - END (2020-07-31 09:06:25) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ VMVariant synchronization - START (2020-07-31 09:06:25) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ VMVariant synchronization - END (2020-07-31 09:06:25) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Project integration - END (2020-07-31 09:06:25) 
+--------------------------------------------------------------------------------

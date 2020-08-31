@@ -1,0 +1,40 @@
+            ----------
+            CPDB Manager
+            ----------
+
+Start time: 2020-03-28 12:42:56
+
+    [Warning] Partition: "Resistor" Part Number: "YAGEO_RC0402JR-070RL" - cannot convert data "" of type "string" to "double" (column: "Value")
+
+End time: 2020-03-28 12:42:56
+
+            ----------
+            CPDB Manager
+            ----------
+
+Start time: 2020-03-28 12:44:55
+
+    [Warning] Partition: "Capacitor" Part Number: "MURATAELECTRONICS_GRM155R71C103KA01J" - cannot convert data "" of type "string" to "double" (column: "Value")
+
+End time: 2020-03-28 12:44:55
+
+            ----------
+            CPDB Manager
+            ----------
+
+Start time: 2020-03-28 12:45:57
+
+    [Warning] Partition: "Inductor" Part Number: "MURATAELECTRONICS_LQP03TN3N3B02D" - cannot convert data "" of type "string" to "double" (column: "Value")
+
+End time: 2020-03-28 12:45:58
+
+            ----------
+            CPDB Manager
+            ----------
+
+Start time: 2020-03-28 12:46:43
+
+    [Warning] Partition: "Inductor" Part Number: "TDKCORPORATION_VLS201612ET-2R2M" - cannot convert data "" of type "string" to "double" (column: "Value")
+
+End time: 2020-03-28 12:46:43
+

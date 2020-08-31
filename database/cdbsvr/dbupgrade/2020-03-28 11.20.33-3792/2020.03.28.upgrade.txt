@@ -1,0 +1,31 @@
+[2020.03.28 11:20:33] [0000m.00s.158ms] [0] WELCOME
+[2020.03.28 11:20:33] [0000m.00s.159ms] [1] iCDB Server ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449115 created 2019-12-19 14:22:14, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2020.03.28 11:20:33] [0000m.00s.159ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2020.03.28 11:20:33] [0000m.00s.159ms] [1] Base flow version [VX.2.7]
+[2020.03.28 11:20:33] [0000m.00s.159ms] [1] Install Id [2125240], Flow Id [PADS Professional Student Edition VX.2.7], Full Flow Name [PADS Pro Tools SE VX.2.7], Exact Access Date [2020/02/01]
+[2020.03.28 11:20:33] [0000m.00s.160ms] [1] Machine [ALLEN]  IP [127.0.0.1,192.168.1.166]  User [alle9]  PID [3792]
+[2020.03.28 11:20:33] [0000m.00s.163ms] [1] Operating system [Microsoft Windows 10 Business Edition, 64-bit (build 18363)]
+[2020.03.28 11:20:33] [0000m.00s.163ms] [1] Current working dir [D:\OneDrive\Personal\Mentor\Project2]
+[2020.03.28 11:20:33] [0000m.00s.163ms] [1] PATH [C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\bin;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\jre\default\bin;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSProVX.2.7\MGC_HOME.ixw\bin;C:\MentorGraphics\PADSProVX.2.7\MGC_HOME.ixw\lib;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2020a\bin;C:\Program Files\Git\cmd;C:\Users\alle9\AppData\Local\Microsoft\WindowsApps;C:\texlive\2019\bin\win32;C:\Users\alle9\AppData\Local\Programs\Microsoft VS Code\bin]
+[2020.03.28 11:20:33] [0000m.00s.163ms] [1] SDD_HOME [C:\MentorGraphics\PADSProVX.2.7\SDD_HOME] on file system [NTFS]
+[2020.03.28 11:20:33] [0000m.00s.163ms] [1] SDD_PLATFORM [win64]
+[2020.03.28 11:20:33] [0000m.00s.163ms] [1] WDIR [C:\WDIR\PADSProVX.2.7;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\standard;]
+[2020.03.28 11:20:33] [0000m.00s.163ms] [1] Local iCDB working dir [C:\WDIR\PADSProVX.2.7\iCDB] on file system [NTFS]
+[2020.03.28 11:20:33] [0000m.00s.163ms] [0] Creating database content backup before upgrade
+[2020.03.28 11:20:33] [0000m.00s.170ms] [0] Database content backed up to [D:\OneDrive\Personal\Mentor\Project2\database\cdbback\2020-03-28 11.20.33-3792.zip] of size [46 252 bytes (45.2 kB)] in [6ms 523us]
+[2020.03.28 11:20:33] [0000m.00s.172ms] [0] Upgrading constraint definitions from version [ce_ee.cns=7.10.69;user.cns=cd8a-899b-ac6c-e5b3-fdb8-c7e4-eb8c-7e50-1731-708f-5056-86c5]
+[2020.03.28 11:20:33] [0000m.00s.190ms] [0] Loading snapshot [1:DxD] version [3800]
+[2020.03.28 11:20:33] [0000m.00s.196ms] [0] Snapshot [1:DxD] loaded in [5ms 257us]
+[2020.03.28 11:20:33] [0000m.00s.196ms] [0] Upgrading constraint definitions for snapshot [1:DxD]
+[2020.03.28 11:20:33] [0000m.00s.198ms] [0] Constraint definitions for snapshot [1:DxD] upgraded in [2ms 535us]
+[2020.03.28 11:20:33] [0000m.00s.198ms] [0] Saving snapshot [1:DxD]
+[2020.03.28 11:20:33] [0000m.00s.201ms] [0] Snapshot [1:DxD] saved in [2ms 99us]
+[2020.03.28 11:20:33] [0000m.00s.207ms] [0] Loading snapshot [2:__ise_DxD] version [3800]
+[2020.03.28 11:20:33] [0000m.00s.208ms] [0] Snapshot [2:__ise_DxD] loaded in [640us]
+[2020.03.28 11:20:33] [0000m.00s.208ms] [0] Upgrading constraint definitions for snapshot [2:__ise_DxD]
+[2020.03.28 11:20:33] [0000m.00s.208ms] [0] Constraint definitions for snapshot [2:__ise_DxD] upgraded in [79us]
+[2020.03.28 11:20:33] [0000m.00s.208ms] [0] Saving snapshot [2:__ise_DxD]
+[2020.03.28 11:20:33] [0000m.00s.208ms] [0] Snapshot [2:__ise_DxD] saved in [172us]
+[2020.03.28 11:20:33] [0000m.00s.210ms] [0] Constraint definitions upgraded to version [ce_ee.cns=7.10.69]
+[2020.03.28 11:20:33] [0000m.00s.210ms] [0] DONE
+[2020.03.28 11:20:33] [0000m.00s.210ms] [0] .

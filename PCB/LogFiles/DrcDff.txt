@@ -1,0 +1,1664 @@
+
+                                     DRC DFF
+                                     -------
+
+                        05:27 PM Sunday, August 02, 2020
+      Job Name: D:\OneDrive\Personal\Mentor\MentorContest\PCB\Project2.pcb
+
+
+    Use DRC Window  : NO
+
+    Use Rule Areas  : NO
+
+    Same net proximity :NO
+    
+    Layers To Check : Layer 1
+                    : Layer 2
+                    : Layer 3
+                    : Layer 4
+                    : Layer 5
+                    : Layer 6
+                    : Layer 7
+                    : Layer 8
+                    : Layer 9
+                    : Layer 10
+
+
+    SIGNAL PROXIMITY
+    ----------------
+
+
+    Trace To Trace                       : YES
+        Layer 1
+            Severe Hazard Clearance   : 3th
+>>> Hazards Found : 377
+            Moderate Hazard Clearance : 4th
+>>> Hazards Found : 837
+            Warning Hazard Clearance  : 5th
+>>> Hazards Found : 538
+        Layer 2
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 3
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+>>> Hazards Found : 272
+            Warning Hazard Clearance  : 5th
+>>> Hazards Found : 50
+        Layer 4
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 5
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 6
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 7
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 8
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+>>> Hazards Found : 109
+            Warning Hazard Clearance  : 5th
+>>> Hazards Found : 23
+        Layer 9
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 10
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+>>> Hazards Found : 445
+            Warning Hazard Clearance  : 5th
+>>> Hazards Found : 88
+
+
+    Trace To Part Hole                   : YES
+        Layer 1
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 2
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 3
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 4
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 5
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 6
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 7
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 8
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 9
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 10
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+
+
+    Trace To Part Pad                    : YES
+        Layer 1
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 2
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 3
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 4
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 5
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 6
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 7
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 8
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 9
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 10
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+
+
+    Trace To SMD Pad                     : YES
+        Layer 1
+            Severe Hazard Clearance   : 3th
+>>> Hazards Found : 5
+            Moderate Hazard Clearance : 4th
+>>> Hazards Found : 32
+            Warning Hazard Clearance  : 5th
+>>> Hazards Found : 12
+        Layer 2
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 3
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 4
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 5
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 6
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 7
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 8
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 9
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 10
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+>>> Hazards Found : 3
+            Warning Hazard Clearance  : 5th
+>>> Hazards Found : 2
+
+
+    Trace To Via Hole                    : NO
+
+
+    Trace To Via Pad                     : YES
+        Layer 1
+            Severe Hazard Clearance   : 3th
+>>> Hazards Found : 32
+            Moderate Hazard Clearance : 4th
+>>> Hazards Found : 68
+            Warning Hazard Clearance  : 5th
+>>> Hazards Found : 46
+        Layer 2
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 3
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+>>> Hazards Found : 150
+            Warning Hazard Clearance  : 5th
+>>> Hazards Found : 42
+        Layer 4
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 5
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 6
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 7
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 8
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+>>> Hazards Found : 70
+            Warning Hazard Clearance  : 5th
+>>> Hazards Found : 22
+        Layer 9
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 10
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+>>> Hazards Found : 66
+            Warning Hazard Clearance  : 5th
+>>> Hazards Found : 7
+
+
+    Trace To Test Point Pad              : YES
+        Layer 1
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 2
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 3
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 4
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 5
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 6
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 7
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 8
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 9
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 10
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+
+
+    Part Hole To Part Hole               : YES
+        Layer 1
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 2
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 3
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 4
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 5
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 6
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 7
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 8
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 9
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 10
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+
+
+    Part Hole To SMD Pad                 : YES
+        Layer 1
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 2
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 3
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 4
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 5
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 6
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 7
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 8
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 9
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 10
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+
+
+    Part Hole To Via Hole                : NO
+
+
+    Part Hole To Via Pad                 : YES
+        Layer 1
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 2
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 3
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 4
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 5
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 6
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 7
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 8
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 9
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 10
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+
+
+    Part Hole To Test Point Pad          : YES
+        Layer 1
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 2
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 3
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 4
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 5
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 6
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 7
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 8
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 9
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 10
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+
+
+    Part Pad To Part Pad                 : YES
+        Layer 1
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 2
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 3
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 4
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 5
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 6
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 7
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 8
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 9
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 10
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+
+
+    Part Pad To Part Hole                : YES
+        Layer 1
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 2
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 3
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 4
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 5
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 6
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 7
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 8
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 9
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 10
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+
+
+    Part Pad To SMD Pad                  : YES
+        Layer 1
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 2
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 3
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 4
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 5
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 6
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 7
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 8
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 9
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 10
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+
+
+    Part Pad To Via Hole                 : NO
+
+
+    Part Pad To Via Pad                  : YES
+        Layer 1
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 2
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 3
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 4
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 5
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 6
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 7
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 8
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 9
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 10
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+
+
+    Part Pad To Test Point Pad           : YES
+        Layer 1
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 2
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 3
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 4
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 5
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 6
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 7
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 8
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 9
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 10
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+
+
+    SMD Pad To SMD Pad                   : YES
+        Layer 1
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 2
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 3
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 4
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 5
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 6
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 7
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 8
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 9
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 10
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+
+
+    SMD Pad To Via Hole                  : NO
+
+
+    SMD Pad To Via Pad                   : YES
+        Layer 1
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+>>> Hazards Found : 9
+            Warning Hazard Clearance  : 5th
+>>> Hazards Found : 7
+        Layer 2
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 3
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 4
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 5
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 6
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 7
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 8
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 9
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 10
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+>>> Hazards Found : 1
+
+
+    SMD Pad To Test Point Pad            : YES
+        Layer 1
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 2
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 3
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 4
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 5
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 6
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 7
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 8
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 9
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 10
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+
+
+    Via Hole To Test Point Pad           : NO
+
+
+    Via Hole To Via Hole                 : NO
+
+
+    Via Hole To Via Pad                  : NO
+
+
+    Via Pad To Via Pad                   : YES
+        Layer 1
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+>>> Hazards Found : 12
+            Warning Hazard Clearance  : 5th
+>>> Hazards Found : 4
+        Layer 2
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+>>> Hazards Found : 12
+            Warning Hazard Clearance  : 5th
+>>> Hazards Found : 4
+        Layer 3
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+>>> Hazards Found : 12
+            Warning Hazard Clearance  : 5th
+>>> Hazards Found : 4
+        Layer 4
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+>>> Hazards Found : 10
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 5
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+>>> Hazards Found : 10
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 6
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+>>> Hazards Found : 10
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 7
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+>>> Hazards Found : 10
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 8
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+>>> Hazards Found : 13
+            Warning Hazard Clearance  : 5th
+>>> Hazards Found : 3
+        Layer 9
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+>>> Hazards Found : 13
+            Warning Hazard Clearance  : 5th
+>>> Hazards Found : 3
+        Layer 10
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+>>> Hazards Found : 13
+            Warning Hazard Clearance  : 5th
+>>> Hazards Found : 3
+
+
+    Via Pad To Test Point Pad            : YES
+        Layer 1
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 2
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 3
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 4
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 5
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 6
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 7
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 8
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 9
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 10
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+
+
+    Test Point Pad To Test Point Pad     : YES
+        Layer 1
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 2
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 3
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 4
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 5
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 6
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 7
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 8
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 9
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+        Layer 10
+            Severe Hazard Clearance   : 3th
+    No Hazards.
+            Moderate Hazard Clearance : 4th
+    No Hazards.
+            Warning Hazard Clearance  : 5th
+    No Hazards.
+
+
+
+
+    SIGNAL SIZES
+    ------------
+
+
+    Trace Widths                          : YES
+        Layer 1
+            Minimum Trace Width : 10th
+>>> Hazards Found : 2410
+            Maximum Trace Width : 25th
+    No Hazards.
+        Layer 2
+            Minimum Trace Width : 10th
+    No Hazards.
+            Maximum Trace Width : 25th
+    No Hazards.
+        Layer 3
+            Minimum Trace Width : 10th
+>>> Hazards Found : 379
+            Maximum Trace Width : 25th
+    No Hazards.
+        Layer 4
+            Minimum Trace Width : 10th
+    No Hazards.
+            Maximum Trace Width : 25th
+    No Hazards.
+        Layer 5
+            Minimum Trace Width : 10th
+    No Hazards.
+            Maximum Trace Width : 25th
+    No Hazards.
+        Layer 6
+            Minimum Trace Width : 10th
+    No Hazards.
+            Maximum Trace Width : 25th
+    No Hazards.
+        Layer 7
+            Minimum Trace Width : 10th
+    No Hazards.
+            Maximum Trace Width : 25th
+    No Hazards.
+        Layer 8
+            Minimum Trace Width : 10th
+>>> Hazards Found : 126
+            Maximum Trace Width : 25th
+    No Hazards.
+        Layer 9
+            Minimum Trace Width : 10th
+    No Hazards.
+            Maximum Trace Width : 25th
+    No Hazards.
+        Layer 10
+            Minimum Trace Width : 10th
+>>> Hazards Found : 1181
+            Maximum Trace Width : 25th
+    No Hazards.
+
+
+    Trace Lengths                         : YES
+        Layer 1
+
+
+    The maximum number of DFF hazards (10000) has been exceeded.
+
+
+    DRC stopped.
+
+
+
+                         05:27 PM Sunday, August 02, 2020
+
+
+
+
+    SLIVER ANALYSIS      
+    ---------------------
+
+
+    SIGNAL RATIO BASED SLIVER        YES

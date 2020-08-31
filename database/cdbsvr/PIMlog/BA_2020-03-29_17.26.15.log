@@ -1,0 +1,179 @@
+--------------------------------------------------------------------------------
+ Project integration - START (2020-03-29 17:26:15) 
+--------------------------------------------------------------------------------
+FE snapshot name: DxD
+BE snapshot name: Board1_layout_temp
+Top level block: (2-1-5)
+Parameters: BAConnectivity,BAConstraints,FEWin,
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Connection synchronization - START (2020-03-29 17:26:15) 
+--------------------------------------------------------------------------------
+[Ok][Modification] - [BE->FE] [O: Block,Schematic1,(2-1-5)]
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_A31726-ND.1,(4-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,A121554TR-ND.1,(4-3-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_AT91SAM9N12-CU-ND.1,(2-4-8)]
+	Property: Cell Name, Operation: Change
+--------------------------------------------------------------------------------
+ Connection synchronization - END (2020-03-29 17:26:15) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ CES synchronization - START (2020-03-29 17:26:15) 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ TOPOLOGY synchronization - START (2020-03-29 17:26:15) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ TOPOLOGY synchronization - END (2020-03-29 17:26:15) 
+--------------------------------------------------------------------------------
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_1,(5-2-23)] [O: CesConstraint,DIELCONST,(5-43-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_2,(5-4-23)] [O: CesConstraint,DIELCONST,(5-94-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_2,(5-4-23)] [O: CesConstraint,LAYER_USAGE,(5-99-22)]
+[Ok][Deletion] - [BE->FE] [P: CesLayer,SIGNAL_2,(5-4-23)] [O: CesConstraint,LAYER_NARROW_SIDE,(5-103-22)]
+[Ok][Deletion] - [BE->FE] [P: CesLayer,SIGNAL_2,(5-4-23)] [O: CesConstraint,LAYER_ETCH_FACTOR,(5-106-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_3,(5-6-23)] [O: CesConstraint,DIELCONST,(5-145-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_4,(5-8-23)] [O: CesConstraint,DIELCONST,(5-196-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_5,(5-10-23)] [O: CesConstraint,DIELCONST,(5-247-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_5,(5-10-23)] [O: CesConstraint,LAYER_USAGE,(5-252-22)]
+[Ok][Deletion] - [BE->FE] [P: CesLayer,SIGNAL_5,(5-10-23)] [O: CesConstraint,LAYER_NARROW_SIDE,(5-256-22)]
+[Ok][Deletion] - [BE->FE] [P: CesLayer,SIGNAL_5,(5-10-23)] [O: CesConstraint,LAYER_ETCH_FACTOR,(5-259-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_6,(5-12-23)] [O: CesConstraint,DIELCONST,(5-298-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_1,(5-1-23)] [O: CesConstraint,ATTACHED_DIELECTRIC,(62-1-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_1,(5-1-23)] [O: CesConstraint,DIELCONST,(62-2-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_1,(5-1-23)] [O: CesConstraint,ER_FREQ,(62-3-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_1,(5-1-23)] [O: CesConstraint,LOSS_TAN_FREQ,(62-4-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_1,(5-1-23)] [O: CesConstraint,LOSS_TAN,(62-5-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_1,(5-1-23)] [O: CesConstraint,THERMAL_COND,(62-6-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_1,(5-1-23)] [O: CesConstraint,LAYER_TECH,(62-7-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_1,(5-2-23)] [O: CesConstraint,ATTACHED_DIELECTRIC,(62-8-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_1,(5-2-23)] [O: CesConstraint,LAYER_COLOR,(62-9-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_1,(5-2-23)] [O: CesConstraint,CONDUCTOR,(62-10-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_1,(5-2-23)] [O: CesConstraint,TEMP_COEF,(62-11-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_1,(5-2-23)] [O: CesConstraint,POUR_DRAW_STYLE,(62-12-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_1,(5-2-23)] [O: CesConstraint,ER_FREQ,(62-13-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_1,(5-2-23)] [O: CesConstraint,LOSS_TAN_FREQ,(62-14-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_1,(5-2-23)] [O: CesConstraint,LOSS_TAN,(62-15-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_1,(5-2-23)] [O: CesConstraint,THERMAL_COND,(62-16-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_1,(5-2-23)] [O: CesConstraint,TARGET_Z0,(62-17-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_1,(5-2-23)] [O: CesConstraint,ZZ_WIDTH,(62-18-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_1,(5-2-23)] [O: CesConstraint,GAP,(62-19-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_3,(5-3-23)] [O: CesConstraint,ATTACHED_DIELECTRIC,(62-20-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_3,(5-3-23)] [O: CesConstraint,ER_FREQ,(62-21-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_3,(5-3-23)] [O: CesConstraint,LOSS_TAN_FREQ,(62-22-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_3,(5-3-23)] [O: CesConstraint,LOSS_TAN,(62-23-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_3,(5-3-23)] [O: CesConstraint,THERMAL_COND,(62-24-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_3,(5-3-23)] [O: CesConstraint,LAYER_TECH,(62-25-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_2,(5-4-23)] [O: CesConstraint,PLANE_NETS,(62-26-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_2,(5-4-23)] [O: CesConstraint,PLANE_TYPE,(62-27-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_2,(5-4-23)] [O: CesConstraint,PNET_CLEARANCES,(62-28-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_2,(5-4-23)] [O: CesConstraint,PNET_UBORDERS,(62-29-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_2,(5-4-23)] [O: CesConstraint,ATTACHED_DIELECTRIC,(62-30-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_2,(5-4-23)] [O: CesConstraint,LAYER_COLOR,(62-31-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_2,(5-4-23)] [O: CesConstraint,CONDUCTOR,(62-32-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_2,(5-4-23)] [O: CesConstraint,TEMP_COEF,(62-33-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_2,(5-4-23)] [O: CesConstraint,POUR_DRAW_STYLE,(62-34-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_2,(5-4-23)] [O: CesConstraint,ER_FREQ,(62-35-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_2,(5-4-23)] [O: CesConstraint,LOSS_TAN_FREQ,(62-36-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_2,(5-4-23)] [O: CesConstraint,LOSS_TAN,(62-37-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_2,(5-4-23)] [O: CesConstraint,THERMAL_COND,(62-38-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_5,(5-5-23)] [O: CesConstraint,ATTACHED_DIELECTRIC,(62-39-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_5,(5-5-23)] [O: CesConstraint,ER_FREQ,(62-40-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_5,(5-5-23)] [O: CesConstraint,LOSS_TAN_FREQ,(62-41-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_5,(5-5-23)] [O: CesConstraint,LOSS_TAN,(62-42-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_5,(5-5-23)] [O: CesConstraint,THERMAL_COND,(62-43-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_5,(5-5-23)] [O: CesConstraint,LAYER_TECH,(62-44-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_3,(5-6-23)] [O: CesConstraint,ATTACHED_DIELECTRIC,(62-45-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_3,(5-6-23)] [O: CesConstraint,LAYER_COLOR,(62-46-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_3,(5-6-23)] [O: CesConstraint,CONDUCTOR,(62-47-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_3,(5-6-23)] [O: CesConstraint,TEMP_COEF,(62-48-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_3,(5-6-23)] [O: CesConstraint,POUR_DRAW_STYLE,(62-49-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_3,(5-6-23)] [O: CesConstraint,ER_FREQ,(62-50-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_3,(5-6-23)] [O: CesConstraint,LOSS_TAN_FREQ,(62-51-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_3,(5-6-23)] [O: CesConstraint,LOSS_TAN,(62-52-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_3,(5-6-23)] [O: CesConstraint,THERMAL_COND,(62-53-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_3,(5-6-23)] [O: CesConstraint,TARGET_Z0,(62-54-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_3,(5-6-23)] [O: CesConstraint,ZZ_WIDTH,(62-55-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_3,(5-6-23)] [O: CesConstraint,GAP,(62-56-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_7,(5-7-23)] [O: CesConstraint,ATTACHED_DIELECTRIC,(62-57-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_7,(5-7-23)] [O: CesConstraint,ER_FREQ,(62-58-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_7,(5-7-23)] [O: CesConstraint,LOSS_TAN_FREQ,(62-59-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_7,(5-7-23)] [O: CesConstraint,LOSS_TAN,(62-60-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_7,(5-7-23)] [O: CesConstraint,THERMAL_COND,(62-61-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_7,(5-7-23)] [O: CesConstraint,LAYER_TECH,(62-62-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_4,(5-8-23)] [O: CesConstraint,ATTACHED_DIELECTRIC,(62-63-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_4,(5-8-23)] [O: CesConstraint,LAYER_COLOR,(62-64-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_4,(5-8-23)] [O: CesConstraint,CONDUCTOR,(62-65-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_4,(5-8-23)] [O: CesConstraint,TEMP_COEF,(62-66-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_4,(5-8-23)] [O: CesConstraint,POUR_DRAW_STYLE,(62-67-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_4,(5-8-23)] [O: CesConstraint,ER_FREQ,(62-68-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_4,(5-8-23)] [O: CesConstraint,LOSS_TAN_FREQ,(62-69-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_4,(5-8-23)] [O: CesConstraint,LOSS_TAN,(62-70-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_4,(5-8-23)] [O: CesConstraint,THERMAL_COND,(62-71-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_4,(5-8-23)] [O: CesConstraint,TARGET_Z0,(62-72-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_4,(5-8-23)] [O: CesConstraint,ZZ_WIDTH,(62-73-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_4,(5-8-23)] [O: CesConstraint,GAP,(62-74-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_9,(5-9-23)] [O: CesConstraint,ATTACHED_DIELECTRIC,(62-75-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_9,(5-9-23)] [O: CesConstraint,ER_FREQ,(62-76-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_9,(5-9-23)] [O: CesConstraint,LOSS_TAN_FREQ,(62-77-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_9,(5-9-23)] [O: CesConstraint,LOSS_TAN,(62-78-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_9,(5-9-23)] [O: CesConstraint,THERMAL_COND,(62-79-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_9,(5-9-23)] [O: CesConstraint,LAYER_TECH,(62-80-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_5,(5-10-23)] [O: CesConstraint,PLANE_NETS,(62-81-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_5,(5-10-23)] [O: CesConstraint,PLANE_TYPE,(62-82-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_5,(5-10-23)] [O: CesConstraint,PNET_CLEARANCES,(62-83-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_5,(5-10-23)] [O: CesConstraint,PNET_UBORDERS,(62-84-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_5,(5-10-23)] [O: CesConstraint,ATTACHED_DIELECTRIC,(62-85-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_5,(5-10-23)] [O: CesConstraint,LAYER_COLOR,(62-86-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_5,(5-10-23)] [O: CesConstraint,CONDUCTOR,(62-87-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_5,(5-10-23)] [O: CesConstraint,TEMP_COEF,(62-88-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_5,(5-10-23)] [O: CesConstraint,POUR_DRAW_STYLE,(62-89-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_5,(5-10-23)] [O: CesConstraint,ER_FREQ,(62-90-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_5,(5-10-23)] [O: CesConstraint,LOSS_TAN_FREQ,(62-91-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_5,(5-10-23)] [O: CesConstraint,LOSS_TAN,(62-92-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_5,(5-10-23)] [O: CesConstraint,THERMAL_COND,(62-93-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_11,(5-11-23)] [O: CesConstraint,ATTACHED_DIELECTRIC,(62-94-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_11,(5-11-23)] [O: CesConstraint,ER_FREQ,(62-95-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_11,(5-11-23)] [O: CesConstraint,LOSS_TAN_FREQ,(62-96-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_11,(5-11-23)] [O: CesConstraint,LOSS_TAN,(62-97-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_11,(5-11-23)] [O: CesConstraint,THERMAL_COND,(62-98-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_11,(5-11-23)] [O: CesConstraint,LAYER_TECH,(62-99-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_6,(5-12-23)] [O: CesConstraint,ATTACHED_DIELECTRIC,(62-100-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_6,(5-12-23)] [O: CesConstraint,LAYER_COLOR,(62-101-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_6,(5-12-23)] [O: CesConstraint,CONDUCTOR,(62-102-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_6,(5-12-23)] [O: CesConstraint,TEMP_COEF,(62-103-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_6,(5-12-23)] [O: CesConstraint,POUR_DRAW_STYLE,(62-104-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_6,(5-12-23)] [O: CesConstraint,ER_FREQ,(62-105-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_6,(5-12-23)] [O: CesConstraint,LOSS_TAN_FREQ,(62-106-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_6,(5-12-23)] [O: CesConstraint,LOSS_TAN,(62-107-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_6,(5-12-23)] [O: CesConstraint,THERMAL_COND,(62-108-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_6,(5-12-23)] [O: CesConstraint,TARGET_Z0,(62-109-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_6,(5-12-23)] [O: CesConstraint,ZZ_WIDTH,(62-110-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_6,(5-12-23)] [O: CesConstraint,GAP,(62-111-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_13,(5-13-23)] [O: CesConstraint,ATTACHED_DIELECTRIC,(62-112-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_13,(5-13-23)] [O: CesConstraint,DIELCONST,(62-113-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_13,(5-13-23)] [O: CesConstraint,ER_FREQ,(62-114-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_13,(5-13-23)] [O: CesConstraint,LOSS_TAN_FREQ,(62-115-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_13,(5-13-23)] [O: CesConstraint,LOSS_TAN,(62-116-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_13,(5-13-23)] [O: CesConstraint,THERMAL_COND,(62-117-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_13,(5-13-23)] [O: CesConstraint,LAYER_TECH,(62-118-22)]
+[Ok][Addition] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesConstraint,DSN_AUTO_CALCULATE_ER,(62-119-22)]
+[Ok][Addition] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesConstraint,DSN_SURFACE_ROUGHNESS_ENABLED,(62-120-22)]
+[Ok][Addition] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesConstraint,DSN_TRAPEZOIDAL_TRACE_SHAPES_ENABLED,(62-121-22)]
+[Ok][Addition] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesConstraint,DSN_SURFACE_ROUGHNESS_MODEL,(62-122-22)]
+[Ok][Addition] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesConstraint,DSN_SURFACE_ROUGHNESS_MODEL_FACTOR,(62-123-22)]
+[Ok][Addition] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesConstraint,DSN_SURFACE_ROUGHNESS_PARAM,(62-124-22)]
+--------------------------------------------------------------------------------
+ CES synchronization - END (2020-03-29 17:26:15) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ VMVariant synchronization - START (2020-03-29 17:26:15) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ VMVariant synchronization - END (2020-03-29 17:26:15) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Project integration - END (2020-03-29 17:26:15) 
+--------------------------------------------------------------------------------

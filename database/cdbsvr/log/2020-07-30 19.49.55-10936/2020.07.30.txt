@@ -1,0 +1,125 @@
+[2020.07.30 19:49:55] [0000m.00s.019ms] [0] WELCOME
+[2020.07.30 19:49:55] [0000m.00s.020ms] [1] iCDB Server ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449115 created 2019-12-19 14:22:14, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2020.07.30 19:49:55] [0000m.00s.020ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2020.07.30 19:49:55] [0000m.00s.020ms] [1] Base flow version [VX.2.7]
+[2020.07.30 19:49:55] [0000m.00s.020ms] [1] Install Id [2125240], Flow Id [PADS Professional Student Edition VX.2.7], Full Flow Name [PADS Pro Tools SE VX.2.7], Exact Access Date [2020/02/01]
+[2020.07.30 19:49:55] [0000m.00s.030ms] [1] Machine [ALLEN]  IP [127.0.0.1,192.168.1.166,192.168.56.1]  User [alle9]  PID [10936]
+[2020.07.30 19:49:55] [0000m.00s.031ms] [1] Operating system [Microsoft Windows 10 Business Edition, 64-bit (build 18363)]
+[2020.07.30 19:49:55] [0000m.00s.031ms] [1] Current working dir [D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB]
+[2020.07.30 19:49:55] [0000m.00s.031ms] [1] PATH [C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\bin;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\jre\default\bin;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSProVX.2.7\MGC_HOME.ixw\bin;C:\MentorGraphics\PADSProVX.2.7\MGC_HOME.ixw\lib;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\wg\win64\lib;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2020a\bin;D:\Programs\MPLABx\xc16\v1.50\bin;D:\Programs\MPLABx\xc8\v2.20\bin;C:\Program Files\Git\cmd;C:\Users\alle9\AppData\Local\Microsoft\WindowsApps;C:\texlive\2019\bin\win32;C:\Users\alle9\AppData\Local\Programs\Microsoft VS Code\bin;C:\cygwin64\bin;C:\Program Files\JetBrains\CLion 2020.1.1\bin;C:\MinGW\bin;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common3D\win64\lib]
+[2020.07.30 19:49:55] [0000m.00s.031ms] [1] SDD_HOME [C:\MentorGraphics\PADSProVX.2.7\SDD_HOME] on file system [NTFS]
+[2020.07.30 19:49:55] [0000m.00s.031ms] [1] SDD_PLATFORM [win64]
+[2020.07.30 19:49:55] [0000m.00s.031ms] [1] WDIR [C:\WDIR\PADSProVX.2.7;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\standard;]
+[2020.07.30 19:49:55] [0000m.00s.031ms] [1] Local iCDB working dir [C:\WDIR\PADSProVX.2.7\iCDB] on file system [NTFS]
+[2020.07.30 19:49:55] [0000m.00s.031ms] [2] S: Loading config files
+[2020.07.30 19:49:55] [0000m.00s.039ms] [1] Config file [D:\OneDrive\Personal\Mentor\ALLPCB_v1\database\cdbsvr\Server.cfg] not found
+[2020.07.30 19:49:55] [0000m.00s.042ms] [3] S: Config loaded
+[2020.07.30 19:49:55] [0000m.00s.045ms] [0] S: Project path [D:\OneDrive\Personal\Mentor\ALLPCB_v1\database] on file system [NTFS]
+[2020.07.30 19:49:55] [0000m.00s.045ms] [0] S: Project file (.prj) path [D:\OneDrive\Personal\Mentor\ALLPCB_v1\Project2.prj] on file system [NTFS]
+[2020.07.30 19:49:55] [0000m.00s.045ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2020.07.30 19:49:55] [0000m.00s.045ms] [0] S: Single-user mode (auto)
+[2020.07.30 19:49:55] [0000m.00s.045ms] [0] S: Event polling mode autodetection
+[2020.07.30 19:49:55] [0000m.00s.046ms] [0] S: Started up automatically by iCDB Client: ALLEN:alle9:11364
+[2020.07.30 19:49:55] [0000m.00s.046ms] [0] S: Auto close mode
+[2020.07.30 19:49:55] [0000m.00s.046ms] [0] S: Database ID [7019-9539-f7af-9f95-a317-6def-3176-de50-3aca-7675-73b9-0aa8]
+[2020.07.30 19:49:55] [0000m.00s.046ms] [0] PathTranslator: BEGIN dumping
+[2020.07.30 19:49:55] [0000m.00s.046ms] [0] PathTranslator: Local -> global path prefix list
+[2020.07.30 19:49:55] [0000m.00s.046ms] [0] PathTranslator: Global -> local path prefix list
+[2020.07.30 19:49:55] [0000m.00s.046ms] [0] PathTranslator: END dumping
+[2020.07.30 19:49:55] [0000m.00s.046ms] [0] S: START
+[2020.07.30 19:49:55] [0000m.00s.046ms] [0] S: Server startup lock file created
+[2020.07.30 19:49:55] [0000m.00s.046ms] [0] S: Listening for client connections on port [10001]
+[2020.07.30 19:49:55] [0000m.00s.049ms] [0] S: Server network ID [Allen:192.168.1.166,192.168.56.1,Allen:10001]
+[2020.07.30 19:49:55] [0000m.00s.049ms] [0] S: Server GUID [4da3-21e2-3d3a-4fdb-3480-32f8-4803-2f50-b43c-7675-73b9-0aa8]
+[2020.07.30 19:49:55] [0000m.00s.049ms] [0] S: Project GUID [7019-9539-f7af-9f95-a317-6def-3176-de50-3aca-7675-73b9-0aa8]
+[2020.07.30 19:49:55] [0000m.00s.050ms] [0] S: Wrote data to server address file
+[2020.07.30 19:49:55] [0000m.00s.051ms] [0] S: Server startup lock file removed
+[2020.07.30 19:49:55] [0000m.00s.051ms] [1] ProjectBackupManager: Setting project file (.prj) path: [D:\OneDrive\Personal\Mentor\ALLPCB_v1\Project2.prj]
+[2020.07.30 19:49:55] [0000m.00s.124ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2020.07.30 19:49:55] [0000m.00s.124ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\iCDB\win64\bin]
+[2020.07.30 19:49:55] [0000m.00s.124ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\bin]
+[2020.07.30 19:49:55] [0000m.00s.125ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2020.07.30 19:49:55] [0000m.00s.125ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2020.07.30 19:49:55] [0000m.00s.125ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2020.07.30 19:49:55] [0000m.00s.125ms] [0] S: Local disc access time: 48 us
+[2020.07.30 19:49:55] [0000m.00s.125ms] [0] S: File server access time: 55 us
+[2020.07.30 19:49:55] [0000m.00s.128ms] [0] Single file [D:\OneDrive\Personal\Mentor\ALLPCB_v1\database\icdb.dat] size [361656 (353.2 kB)]
+[2020.07.30 19:49:55] [0000m.00s.128ms] [1] Single file [D:\OneDrive\Personal\Mentor\ALLPCB_v1\database\icdb.dat] opened in read-write mode
+[2020.07.30 19:49:55] [0000m.00s.128ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2020.07.30 19:49:55] [0000m.00s.128ms] [0] Database GUARD OK: [361656]
+[2020.07.30 19:49:55] [0000m.00s.129ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2020.07.30 19:49:55] [0000m.00s.129ms] [0] Database GUARD OK: [361656]
+[2020.07.30 19:49:55] [0000m.00s.129ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2020.07.30 19:49:55] [0000m.00s.129ms] [0] Database GUARD OK: [361656]
+[2020.07.30 19:49:55] [0000m.00s.129ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2020.07.30 19:49:55] [0000m.00s.129ms] [0] Database GUARD OK: [361656]
+[2020.07.30 19:49:55] [0000m.00s.129ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2020.07.30 19:49:55] [0000m.00s.130ms] [0] Database GUARD OK: [361656]
+[2020.07.30 19:49:55] [0000m.00s.130ms] [0] SingleFile: [4eea-799e-accf-78ae] SFI version check [1009] [1009]
+[2020.07.30 19:49:55] [0000m.00s.136ms] [0] SingleFile: [4eea-799e-accf-78ae] Database SFI header has been read in [6ms 999us]
+[2020.07.30 19:49:55] [0000m.00s.140ms] [0] iCDB Server PI: Server & plugin session [410]
+[2020.07.30 19:49:55] [0000m.00s.140ms] [0] iCDB Server PI: Opening database [D:\OneDrive\Personal\Mentor\ALLPCB_v1\database]
+[2020.07.30 19:49:55] [0000m.00s.140ms] [0] iCDB Server PI: Database [D:\OneDrive\Personal\Mentor\ALLPCB_v1\database] opened
+[2020.07.30 19:49:55] [0000m.00s.188ms] [0] iCDB Database: Checking existence of constraint definitions
+[2020.07.30 19:49:55] [0000m.00s.188ms] [0] iCDB Database: Checking constraint definitions version
+[2020.07.30 19:49:55] [0000m.00s.212ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.69] up to date
+[2020.07.30 19:49:55] [0000m.00s.216ms] [0] iCDB Server PI: Initializing plugins
+[2020.07.30 19:49:55] [0000m.00s.217ms] [0] iCDB Server PI: Plugins initialized
+[2020.07.30 19:49:55] [0000m.00s.217ms] [0] S: iCDB database loaded
+[2020.07.30 19:49:55] [0000m.00s.218ms] [0] S: Starting threads
+[2020.07.30 19:49:55] [0000m.00s.219ms] [0] BT: Listening for broadcast messages on port [10000]
+[2020.07.30 19:49:55] [0000m.00s.219ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2020.07.30 19:49:55] [0000m.00s.220ms] [0] IT: Session [411] for host [Allen] user [alle9] client type[0] clsvrPluginID[0] with process ID [11364] created
+[2020.07.30 19:49:55] [0000m.00s.223ms] [0] MWT: WindowProc: WM_NCCREATE
+[2020.07.30 19:49:55] [0000m.00s.229ms] [1] SC[411]: Registered sub-client [Expedition PE_881419968] with ID [1] for session ID [411] host [Allen] user [alle9] process ID [11364]
+[2020.07.30 19:49:55] [0000m.00s.323ms] [1] SC[411]: Registered sub-client [EEVM_EEVM_765098848] with ID [2] for session ID [411] host [Allen] user [alle9] process ID [11364]
+[2020.07.30 19:49:55] [0000m.00s.326ms] [1] CMT: There are [1] clients now: 411
+[2020.07.30 19:49:55] [0000m.00s.346ms] [1] SC[411]: UnRegistered sub-client [EEVM_EEVM_765098848] with ID [2] for session ID [411] host [Allen] user [alle9] process ID [11364]
+[2020.07.30 19:49:55] [0000m.00s.349ms] [1] SC[411]: Registered sub-client [EEVM_EEVM_765098848] with ID [3] for session ID [411] host [Allen] user [alle9] process ID [11364]
+[2020.07.30 19:49:55] [0000m.00s.362ms] [1] SC[411]: UnRegistered sub-client [EEVM_EEVM_765098848] with ID [3] for session ID [411] host [Allen] user [alle9] process ID [11364]
+[2020.07.30 19:49:56] [0000m.00s.670ms] [1] SC[411]: Registered sub-client [JobPrefsDBPI_881420734] with ID [4] for session ID [411] host [Allen] user [alle9] process ID [11364]
+[2020.07.30 19:49:56] [0000m.00s.677ms] [1] SC[411]: UnRegistered sub-client [JobPrefsDBPI_881420734] with ID [4] for session ID [411] host [Allen] user [alle9] process ID [11364]
+[2020.07.30 19:49:56] [0000m.01s.029ms] [1] PrjBackupMgr: Successfully created Project Backup [D:\OneDrive\Personal\Mentor\ALLPCB_v1\ProjectBackup\backups\2020-07-30 19.49.55 - auto.zip] with GUID [f058-6fa3-c6ed-55c7-3480-32f8-4803-2f50-7faa-7675-73b9-0aa8]
+[2020.07.30 19:49:56] [0000m.01s.030ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[2d4e-90a7-83c5-d364-b78a-12f0-88a1-2f50-3e2a-7675-73b9-0aa8] CreationTime[Wednesday, July 29, 2020 16:48:59] Type[Autosave] Creator[iCDB Server (2020-07-29 18.48.58-21704)] ApplicationName[iCDB Server (2020-07-29 18.48.58-21704)] UserName[alle9] MachineName[ALLEN] Description[Autosave] FullFlowName[PADS Pro Tools SE VX.2.7] FlowId[PADSProVX.2.7] GBSInstallId[2125240] GBSBuildId[15449115] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[D:\OneDrive\Personal\Mentor\ALLPCB_v1\ProjectBackup\backups\2020-07-29 18.48.59 - auto.zip] BackupFileSize[5279354] Persistent[FALSE]
+[2020.07.30 19:49:56] [0000m.01s.030ms] [0] PrjBackupMgr: Project Backup file [D:\OneDrive\Personal\Mentor\ALLPCB_v1\ProjectBackup\backups\2020-07-29 18.48.59 - auto.zip] with GUID [2d4e-90a7-83c5-d364-b78a-12f0-88a1-2f50-3e2a-7675-73b9-0aa8] removed
+[2020.07.30 19:49:56] [0000m.01s.031ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[f058-6fa3-c6ed-55c7-3480-32f8-4803-2f50-7faa-7675-73b9-0aa8] CreationTime[Thursday, July 30, 2020 17:49:55] Type[Autosave] Creator[iCDB Server (2020-07-30 19.49.55-10936)] ApplicationName[iCDB Server (2020-07-30 19.49.55-10936)] UserName[alle9] MachineName[ALLEN] Description[Autosave] FullFlowName[PADS Pro Tools SE VX.2.7] FlowId[PADSProVX.2.7] GBSInstallId[2125240] GBSBuildId[15449115] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[D:\OneDrive\Personal\Mentor\ALLPCB_v1\ProjectBackup\backups\2020-07-30 19.49.55 - auto.zip] BackupFileSize[5453966] Persistent[FALSE]
+[2020.07.30 19:49:58] [0000m.02s.609ms] [1] SC[411]: Registered sub-client [JobPrefsDBPI_881422671] with ID [5] for session ID [411] host [Allen] user [alle9] process ID [11364]
+[2020.07.30 19:49:58] [0000m.02s.644ms] [1] SC[411]: UnRegistered sub-client [JobPrefsDBPI_881422671] with ID [5] for session ID [411] host [Allen] user [alle9] process ID [11364]
+[2020.07.30 19:49:58] [0000m.02s.750ms] [1] SC[411]: Registered sub-client [JobPrefsDBPI_881422812] with ID [6] for session ID [411] host [Allen] user [alle9] process ID [11364]
+[2020.07.30 19:49:58] [0000m.02s.785ms] [1] SC[411]: UnRegistered sub-client [JobPrefsDBPI_881422812] with ID [6] for session ID [411] host [Allen] user [alle9] process ID [11364]
+[2020.07.30 19:49:58] [0000m.02s.854ms] [1] SC[411]: Registered sub-client [ExpeditionCrossProber] with ID [7] for session ID [411] host [Allen] user [alle9] process ID [11364]
+[2020.07.30 19:49:58] [0000m.02s.858ms] [1] SC[411]: Registered sub-client [StartServerClient3280] with ID [8] for session ID [411] host [Allen] user [alle9] process ID [11364]
+[2020.07.30 19:49:58] [0000m.02s.858ms] [1] SC[411]: UnRegistered sub-client [StartServerClient3280] with ID [8] for session ID [411] host [Allen] user [alle9] process ID [11364]
+[2020.07.30 19:50:16] [0000m.21s.053ms] [0] DFAMT: File server access time: 72 us
+[2020.07.30 19:50:57] [0001m.02s.126ms] [0] IT: Session [412] for host [Allen] user [alle9] client type[0] clsvrPluginID[0] with process ID [3132] created
+[2020.07.30 19:50:57] [0001m.02s.126ms] [1] SC[412]: Registered sub-client [alle9 (BE CES)] with ID [1] for session ID [412] host [Allen] user [alle9] process ID [3132]
+[2020.07.30 19:50:57] [0001m.02s.220ms] [1] CMT: There are [2] clients now: 411, 412
+[2020.07.30 19:51:51] [0001m.55s.618ms] [1] SC[412]: UnRegistered sub-client [alle9 (BE CES)] with ID [1] for session ID [412] host [Allen] user [alle9] process ID [3132]
+[2020.07.30 19:51:51] [0001m.55s.689ms] [1] CMT: Removed client [412]
+[2020.07.30 19:51:51] [0001m.55s.689ms] [1] CMT: There are [1] clients now: 411
+[2020.07.30 19:51:57] [0002m.01s.954ms] [1] SC[411]: UnRegistered sub-client [ExpeditionCrossProber] with ID [7] for session ID [411] host [Allen] user [alle9] process ID [11364]
+[2020.07.30 19:51:59] [0002m.04s.133ms] [1] SC[411]: UnRegistered sub-client [Expedition PE_881419968] with ID [1] for session ID [411] host [Allen] user [alle9] process ID [11364]
+[2020.07.30 19:51:59] [0002m.04s.154ms] [1] CMT: Removed client [411]
+[2020.07.30 19:51:59] [0002m.04s.154ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2020.07.30 19:52:01] [0002m.05s.663ms] [0] CMT: Starting server auto-close
+[2020.07.30 19:52:01] [0002m.05s.729ms] [0] S: Closing server
+[2020.07.30 19:52:01] [0002m.05s.786ms] [0] iCDB Server PI: Closing plugins
+[2020.07.30 19:52:01] [0002m.05s.787ms] [0] iCDB Server PI: Plugins closed
+[2020.07.30 19:52:01] [0002m.05s.787ms] [0] iCDB Server PI: Unloading database
+[2020.07.30 19:52:01] [0002m.05s.787ms] [0] iCDB Server PI: Saving storage
+[2020.07.30 19:52:01] [0002m.05s.787ms] [0] iCDB Server PI: Closing database
+[2020.07.30 19:52:01] [0002m.05s.787ms] [1] Hole: zero line at 361596 of size 8 bytes.
+[2020.07.30 19:52:01] [0002m.05s.796ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[14%] data[93%]
+[2020.07.30 19:52:01] [0002m.05s.796ms] [1] iCDB Server PI: Stats: Database file size [361656 (353.2 kB)]
+[2020.07.30 19:52:01] [0002m.05s.796ms] [1] Hole: zero line at 361596 of size 8 bytes.
+[2020.07.30 19:52:01] [0002m.05s.800ms] [0] iCDB Server PI: Database closed
+[2020.07.30 19:52:01] [0002m.05s.800ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [118860] ticks
+[2020.07.30 19:52:01] [0002m.05s.800ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [11886] microseconds
+[2020.07.30 19:52:01] [0002m.05s.800ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [169]
+[2020.07.30 19:52:01] [0002m.05s.800ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [14218] commands per second
+[2020.07.30 19:52:01] [0002m.05s.800ms] [1] iCDB Server PI: Stats: Mem[14454784]
+[2020.07.30 19:52:01] [0002m.05s.800ms] [1] iCDB Server PI: Stats: MemPeak[35172352]
+[2020.07.30 19:52:01] [0002m.05s.801ms] [0] Single file [D:\OneDrive\Personal\Mentor\ALLPCB_v1\database\icdb.dat] closed with size [361656 (353.2 kB)]
+[2020.07.30 19:52:01] [0002m.05s.930ms] [0] MWT: Destroy the shutdown block reason.
+[2020.07.30 19:52:01] [0002m.05s.932ms] [0] MWT: STOP
+[2020.07.30 19:52:01] [0002m.05s.933ms] [0] S: STOP

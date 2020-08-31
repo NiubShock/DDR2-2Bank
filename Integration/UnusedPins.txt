@@ -1,0 +1,48 @@
+
+Schematic unused pins from : Packager  31-Jul-2020  09:06
+
+------------------------------------------------------------------------
+            Part/Reference             |          Unused pins
+                                       |  (G) - Gate, (P) - Partial Gate
+------------------------------------------------------------------------
+ Part ABRACONLLC_ABLS7M2-16_000MHZ-D2Y-T |
+ Part ABRACONLLC_ABS25-32_768KHZ-T     |
+  Y1                                   | (P)  2 3
+ Part ADESTOTECHNOLOGIES_AT45DB161E-SSHF-T |
+ Part CYPRESSSEMICONDUCTOR_S34ML04G200BHI000 |
+  IC10                                 | (P)  A1 A2 A9 A10 B1 B9 B10
+                                       |  D6 D7 D8 E3 E4 E5 E6 E7 E8 F3
+                                       |  F4 F5 F6 F8 G3 G5 G6 G7 G8 H3
+                                       |  H5 H6 H7 J3 J5 L1 L2 L9 L10 M1
+                                       |  M2 M9 M10
+ Part C0603-1R2-100-025                |
+ Part C1206-010-50-025                 |
+ Part DIODESINCORPORATED_APX823-31W5G-7 |
+  IC8                                  | (P)  4
+ Part DIODESINCORPORATED_AP7333-33SRG-7 |
+ Part DIODESINCORPORATED_PAM2320BECADJR |
+  IC11                                 | (P)  1 9 8 6
+ Part MICROCHIPTECHNOLOGY_AT91SAM9N12-CU |
+  IC2                                  | (P)  A1 A5 B1 B4 B5 C1 C2 C3
+                                       |  D1 D2 D3 D4 E1 E2 E3 E4 E17 F1
+                                       |  F2 F3 F4 F17 G1 G2 G3 G4 G16
+                                       |  G17 H1 H2 H3 H4 H15 H16 H17 J1
+                                       |  J2 J3 J15 K1 K2 K3 K4 L1 L2 M1
+                                       |  M2 M3 M4 N1 N2 N3 N4 N15 P1 P2
+                                       |  P3 P4 P5 P8 R1 R2 R3 R4 R5 R6
+                                       |  R7 R8 R9 R10 R11 R12 T1 T2 T3
+                                       |  T4 T7 T8 T9 T10 T11 T12 T13
+                                       |  T14 U1 U2 U3 U4 U6 U8 U9 U10
+                                       |  U11 U12 U13 U14
+ Part MURATAELECTRONICS_GRM155R71C103KA01J |
+ Part MURATAELECTRONICS_LQP03TN3N3B02D |
+ Part TDKCORPORATION_VLS201612ET-2R2M  |
+ Part TECONNECTIVITYAMPCONNECTORS_292303-1 |
+ Part TECONNECTIVITYAMPCONNECTORS_1734035-4 |
+  J2                                   | (P)  4
+ Part TEXASINSTRUMENTS_TLV71210DBVR    |
+  IC7                                  | (P)  4
+ Part WINBONDELECTRONICS_W9751G6KB-25  |
+  IC3                                  | (P)  A2 A8 E2 E8 L1 R3 R7 R8
+  IC4                                  | (P)  A2 A8 E2 E8 L1 R3 R7 R8
+ Part YAGEO_RC0402JR-070RL             |

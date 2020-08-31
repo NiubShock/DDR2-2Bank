@@ -1,0 +1,22 @@
+
+                ----------
+                EDX Import
+                ----------
+
+Start time: 2020-03-29 09:19:52
+
+
+    Importing Model Data
+        Settings
+            Package: pq_edx
+        
+        Processing model container edx/ModelContainer1.xml
+            Processing 3D Model partition: Partquest
+                Fetching 3D Model: ADESTOTECHNOLOGIES_AT45DB161E-SSHF-T
+                    Data extracted succesfully.
+        
+        Import of 3D Models in native format
+
+    Completed.
+
+End time: 2020-03-29 09:20:01

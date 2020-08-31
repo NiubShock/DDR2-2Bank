@@ -1,0 +1,631 @@
+--------------------------------------------------------------------------------
+ Project integration - START (2020-07-30 07:32:27) 
+--------------------------------------------------------------------------------
+FE snapshot name: DxD
+BE snapshot name: Board1_layout_temp
+Top level block: (2-1-5)
+Parameters: BAConnectivity,BAConstraints,FEWin,
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Connection synchronization - START (2020-07-30 07:32:27) 
+--------------------------------------------------------------------------------
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_A31726-ND.1,(4-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(18-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6728-2-ND.1,(20-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_AP7333-33SRG-7DITR-ND.1,(33-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_445-6620-2-ND.1,(16-2-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(18-2-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-2-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_APX823-31W5GDITR-ND.1,(33-2-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,A121554TR-ND.1,(4-3-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(14-3-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_311-0_0JRTR-ND.1,(16-3-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-3-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_311-0_0JRTR-ND.1,(22-3-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-3-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_AT45DB161E-SSHF-TTR-ND.1,(33-3-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_AT91SAM9N12-CU-ND.1,(2-4-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_296-29737-2-ND.1,(4-4-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_311-0_0JRTR-ND.1,(16-4-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_311-0_0JRTR-ND.1,(20-4-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_311-0_0JRTR-ND.1,(22-4-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-4-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_1274-1062-ND.1,(33-4-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(16-5-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(22-5-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-5-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_W9751G6KB-25-ND.1,(33-5-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(22-6-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_W9751G6KB-25-ND.1,(33-6-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(20-7-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(22-7-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-7-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-9-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-9-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(18-10-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-10-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_PAM2320BECADJRDITR-ND.1,(33-10-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(18-11-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6728-2-ND.1,(20-11-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(22-11-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-11-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_311-0_0JRTR-ND.1,(20-12-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_311-0_0JRTR-ND.1,(22-12-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-12-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(20-14-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-14-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-15-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-15-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-16-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(18-17-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-17-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(18-18-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(18-19-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(24-19-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(18-20-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6728-2-ND.1,(24-20-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_311-0_0JRTR-ND.1,(18-21-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-21-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_311-0_0JRTR-ND.1,(20-22-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_311-0_0JRTR-ND.1,(24-22-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_311-0_0JRTR-ND.1,(20-23-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_311-0_0JRTR-ND.1,(24-23-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_535-9166-2-ND.1,(20-26-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-26-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_535-12830-2-ND.1,(20-27-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(24-27-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-28-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_311-0_0JRTR-ND.1,(24-28-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-29-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-30-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-31-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-36-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-37-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-38-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-39-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-40-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-41-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-42-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-43-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-44-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-45-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-46-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-47-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-48-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-49-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-50-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-51-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-58-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-60-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-61-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-63-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-64-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-65-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-66-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-67-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-68-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-69-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-71-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-73-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-75-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-76-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-77-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-80-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6326-2-ND.1,(20-81-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_311-0_0JRTR-ND.1,(20-82-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_311-0_0JRTR-ND.1,(20-83-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(20-84-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490-6728-2-ND.1,(20-85-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_311-0_0JRTR-ND.1,(20-86-8)]
+	Property: Cell Name, Operation: Change
+--------------------------------------------------------------------------------
+ Connection synchronization - END (2020-07-30 07:32:27) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ CES synchronization - START (2020-07-30 07:32:27) 
+--------------------------------------------------------------------------------
+[Ok][Addition] - [BE->FE] [P: CesConfig,,(2-1-63)] [O: CesGraphicalStyle,Color 1,(361-1-86)]
+[Ok][Addition] - [BE->FE] [P: CesConfig,,(2-1-63)] [O: CesGraphicalStyle,Color 2,(361-2-86)]
+[Ok][Addition] - [BE->FE] [P: CesConfig,,(2-1-63)] [O: CesGraphicalStyle,Color 3,(361-3-86)]
+[Ok][Addition] - [BE->FE] [P: CesConfig,,(2-1-63)] [O: CesGraphicalStyle,Color 4,(361-4-86)]
+[Ok][Modification] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesConstraintClass,DD3_ADDR,(31-2-26)]
+[Ok][Addition] - [BE->FE] [P: CesConfig,CesConfig,(2-1-63)] [O: CesDiffPair,nSDCK,SDCK,(378-1-46)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,A0,(24-1-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,A1,(24-2-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,A2,(24-3-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,A3,(24-4-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,SDA10,(24-13-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,CAS,(24-22-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,RAS,(24-23-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,SDWE,(24-24-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,SDCKE,(24-25-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,nSDCK,(24-26-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,SDCK,(24-27-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,NWR3,(24-28-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,NWR1,(24-29-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,NWR0,(24-30-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,NCS1,(24-31-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,NRD,(24-33-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,D0,(24-34-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,D1,(24-35-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,D2,(24-36-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,D3,(24-37-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,D4,(24-38-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,D5,(24-39-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,D6,(24-40-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,D7,(24-41-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,D8,(24-42-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,D9,(24-43-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,D10,(24-44-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,DQM1,(24-45-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,DQM0,(24-46-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,DQS1,(24-47-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,D14,(24-49-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,D13,(24-50-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,D12,(24-51-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,D11,(24-52-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,D15,(24-53-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,A4,(24-72-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,A5,(24-73-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,A6,(24-74-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,A7,(24-75-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,A8,(24-76-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,A9,(24-77-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,A10,(24-78-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,A11,(24-79-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,A12,(24-80-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,A13,(24-81-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,A14,(24-82-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,A15,(24-83-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,A16,(24-84-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,A17,(24-85-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,A18,(24-86-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,A19,(24-87-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,DQS0,(24-88-49)]
+[Ok][Modification] - [BE->FE] [O: CesPhysicalNet,NCS0,(24-113-49)]
+[Ok][Modification] - [BE->FE] [O: CesElectricalNet,A0,(24-1-47)]
+[Ok][Modification] - [BE->FE] [O: CesElectricalNet,A1,(24-2-47)]
+[Ok][Modification] - [BE->FE] [O: CesElectricalNet,NWR3,(24-28-47)]
+[Ok][Modification] - [BE->FE] [O: CesElectricalNet,NWR1,(24-29-47)]
+[Ok][Modification] - [BE->FE] [O: CesElectricalNet,NWR0,(24-30-47)]
+[Ok][Modification] - [BE->FE] [O: CesElectricalNet,NRD,(24-33-47)]
+[Ok][Modification] - [BE->FE] [O: CesElectricalNet,A12,(24-80-47)]
+[Ok][Modification] - [BE->FE] [O: CesElectricalNet,A15,(24-83-47)]
+[Ok][Modification] - [BE->FE] [O: CesElectricalNet,A18,(24-86-47)]
+[Ok][Modification] - [BE->FE] [O: CesElectricalNet,A19,(24-87-47)]
+
+--------------------------------------------------------------------------------
+ TOPOLOGY synchronization - START (2020-07-30 07:32:27) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ TOPOLOGY synchronization - END (2020-07-30 07:32:27) 
+--------------------------------------------------------------------------------
+[Ok][Modification] - [BE->FE] [P: CesConstraintClass,(All),(2-1-26)] [O: CesConstraint,ORDER_TYPE,(31-92-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,D0,(24-34-47)] [O: CesConstraint,MATCH_TOLERANCE,(34-17-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,D1,(24-35-47)] [O: CesConstraint,MATCH_TOLERANCE,(34-18-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,D2,(24-36-47)] [O: CesConstraint,MATCH_TOLERANCE,(34-19-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,D3,(24-37-47)] [O: CesConstraint,MATCH_TOLERANCE,(34-20-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,D4,(24-38-47)] [O: CesConstraint,MATCH_TOLERANCE,(34-21-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,D5,(24-39-47)] [O: CesConstraint,MATCH_TOLERANCE,(34-22-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,D6,(24-40-47)] [O: CesConstraint,MATCH_TOLERANCE,(34-23-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,D7,(24-41-47)] [O: CesConstraint,MATCH_TOLERANCE,(34-24-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,D8,(24-42-47)] [O: CesConstraint,MATCH_TOLERANCE,(34-25-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,D9,(24-43-47)] [O: CesConstraint,MATCH_TOLERANCE,(34-26-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,D10,(24-44-47)] [O: CesConstraint,MATCH_TOLERANCE,(34-27-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,D11,(24-52-47)] [O: CesConstraint,MATCH_TOLERANCE,(34-28-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,D12,(24-51-47)] [O: CesConstraint,MATCH_TOLERANCE,(34-29-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,D13,(24-50-47)] [O: CesConstraint,MATCH_TOLERANCE,(34-30-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,D14,(24-49-47)] [O: CesConstraint,MATCH_TOLERANCE,(34-31-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,D15,(24-53-47)] [O: CesConstraint,MATCH_TOLERANCE,(34-32-22)]
+[Ok][Modification] - [BE->FE] [P: CesConstraintClass,DDR3_DATA,(31-1-26)] [O: CesConstraint,ORDER_TYPE,(34-33-22)]
+[Ok][Modification] - [BE->FE] [P: CesConstraintClass,DD3_ADDR,(31-2-26)] [O: CesConstraint,ORDER_TYPE,(34-34-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,A0,(24-1-47)] [O: CesConstraint,ORDER_TYPE,(34-35-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,A1,(24-2-47)] [O: CesConstraint,ORDER_TYPE,(34-36-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,A2,(24-3-47)] [O: CesConstraint,ORDER_TYPE,(34-37-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,A3,(24-4-47)] [O: CesConstraint,ORDER_TYPE,(34-38-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,A4,(24-72-47)] [O: CesConstraint,ORDER_TYPE,(34-39-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,A5,(24-73-47)] [O: CesConstraint,ORDER_TYPE,(34-40-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,A6,(24-74-47)] [O: CesConstraint,ORDER_TYPE,(34-41-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,A7,(24-75-47)] [O: CesConstraint,ORDER_TYPE,(34-42-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,A8,(24-76-47)] [O: CesConstraint,ORDER_TYPE,(34-43-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,A9,(24-77-47)] [O: CesConstraint,ORDER_TYPE,(34-44-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,A10,(24-78-47)] [O: CesConstraint,ORDER_TYPE,(34-45-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,A11,(24-79-47)] [O: CesConstraint,ORDER_TYPE,(34-46-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,A12,(24-80-47)] [O: CesConstraint,ORDER_TYPE,(34-47-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,A13,(24-81-47)] [O: CesConstraint,ORDER_TYPE,(34-48-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,A14,(24-82-47)] [O: CesConstraint,ORDER_TYPE,(34-49-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,A15,(24-83-47)] [O: CesConstraint,ORDER_TYPE,(34-50-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,A16,(24-84-47)] [O: CesConstraint,ORDER_TYPE,(34-51-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,A17,(24-85-47)] [O: CesConstraint,ORDER_TYPE,(34-52-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,A18,(24-86-47)] [O: CesConstraint,ORDER_TYPE,(34-53-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,A19,(24-87-47)] [O: CesConstraint,ORDER_TYPE,(34-54-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,SDA10,(24-13-47)] [O: CesConstraint,ORDER_TYPE,(34-55-22)]
+[Ok][Modification] - [BE->FE] [P: CesPhysicalNet,A0,(24-1-49)] [O: CesConstraint,ORDER_TYPE,(34-56-22)]
+[Ok][Modification] - [BE->FE] [P: CesPhysicalNet,A1,(24-2-49)] [O: CesConstraint,ORDER_TYPE,(34-57-22)]
+[Ok][Modification] - [BE->FE] [P: CesPhysicalNet,A12,(24-80-49)] [O: CesConstraint,ORDER_TYPE,(34-68-22)]
+[Ok][Modification] - [BE->FE] [P: CesPhysicalNet,A15,(24-83-49)] [O: CesConstraint,ORDER_TYPE,(34-71-22)]
+[Ok][Modification] - [BE->FE] [P: CesPhysicalNet,A18,(24-86-49)] [O: CesConstraint,ORDER_TYPE,(34-74-22)]
+[Ok][Modification] - [BE->FE] [P: CesPhysicalNet,A19,(24-87-49)] [O: CesConstraint,ORDER_TYPE,(34-75-22)]
+[Ok][Deletion] - [BE->FE] [P: CesElectricalNet,A0,(24-1-47)] [O: CesConstraint,IMPEDANCE,(34-78-22)]
+[Ok][Deletion] - [BE->FE] [P: CesPhysicalNet,A0,(24-1-49)] [O: CesConstraint,IMPEDANCE,(34-79-22)]
+[Ok][Deletion] - [BE->FE] [P: CesElectricalNet,A1,(24-2-47)] [O: CesConstraint,IMPEDANCE,(34-80-22)]
+[Ok][Deletion] - [BE->FE] [P: CesPhysicalNet,A1,(24-2-49)] [O: CesConstraint,IMPEDANCE,(34-81-22)]
+[Ok][Deletion] - [BE->FE] [P: CesElectricalNet,A12,(24-80-47)] [O: CesConstraint,IMPEDANCE,(34-102-22)]
+[Ok][Deletion] - [BE->FE] [P: CesPhysicalNet,A12,(24-80-49)] [O: CesConstraint,IMPEDANCE,(34-103-22)]
+[Ok][Deletion] - [BE->FE] [P: CesElectricalNet,A15,(24-83-47)] [O: CesConstraint,IMPEDANCE,(34-108-22)]
+[Ok][Deletion] - [BE->FE] [P: CesPhysicalNet,A15,(24-83-49)] [O: CesConstraint,IMPEDANCE,(34-109-22)]
+[Ok][Deletion] - [BE->FE] [P: CesElectricalNet,A18,(24-86-47)] [O: CesConstraint,IMPEDANCE,(34-114-22)]
+[Ok][Deletion] - [BE->FE] [P: CesPhysicalNet,A18,(24-86-49)] [O: CesConstraint,IMPEDANCE,(34-115-22)]
+[Ok][Deletion] - [BE->FE] [P: CesElectricalNet,A19,(24-87-47)] [O: CesConstraint,IMPEDANCE,(34-116-22)]
+[Ok][Deletion] - [BE->FE] [P: CesPhysicalNet,A19,(24-87-49)] [O: CesConstraint,IMPEDANCE,(34-117-22)]
+[Ok][Deletion] - [BE->FE] [P: CesElectricalNet,A0,(24-1-47)] [O: CesConstraint,IMPEDANCE_TOL,(34-121-22)]
+[Ok][Deletion] - [BE->FE] [P: CesPhysicalNet,A0,(24-1-49)] [O: CesConstraint,IMPEDANCE_TOL,(34-122-22)]
+[Ok][Deletion] - [BE->FE] [P: CesElectricalNet,A1,(24-2-47)] [O: CesConstraint,IMPEDANCE_TOL,(34-123-22)]
+[Ok][Deletion] - [BE->FE] [P: CesPhysicalNet,A1,(24-2-49)] [O: CesConstraint,IMPEDANCE_TOL,(34-124-22)]
+[Ok][Deletion] - [BE->FE] [P: CesElectricalNet,A12,(24-80-47)] [O: CesConstraint,IMPEDANCE_TOL,(34-145-22)]
+[Ok][Deletion] - [BE->FE] [P: CesPhysicalNet,A12,(24-80-49)] [O: CesConstraint,IMPEDANCE_TOL,(34-146-22)]
+[Ok][Deletion] - [BE->FE] [P: CesElectricalNet,A15,(24-83-47)] [O: CesConstraint,IMPEDANCE_TOL,(34-151-22)]
+[Ok][Deletion] - [BE->FE] [P: CesPhysicalNet,A15,(24-83-49)] [O: CesConstraint,IMPEDANCE_TOL,(34-152-22)]
+[Ok][Deletion] - [BE->FE] [P: CesElectricalNet,A18,(24-86-47)] [O: CesConstraint,IMPEDANCE_TOL,(34-157-22)]
+[Ok][Deletion] - [BE->FE] [P: CesPhysicalNet,A18,(24-86-49)] [O: CesConstraint,IMPEDANCE_TOL,(34-158-22)]
+[Ok][Deletion] - [BE->FE] [P: CesElectricalNet,A19,(24-87-47)] [O: CesConstraint,IMPEDANCE_TOL,(34-159-22)]
+[Ok][Deletion] - [BE->FE] [P: CesPhysicalNet,A19,(24-87-49)] [O: CesConstraint,IMPEDANCE_TOL,(34-160-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,D0,(24-34-47)] [O: CesConstraint,ORDER_TYPE,(34-163-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,D1,(24-35-47)] [O: CesConstraint,ORDER_TYPE,(34-164-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,D2,(24-36-47)] [O: CesConstraint,ORDER_TYPE,(34-165-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,D3,(24-37-47)] [O: CesConstraint,ORDER_TYPE,(34-166-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,D4,(24-38-47)] [O: CesConstraint,ORDER_TYPE,(34-167-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,D5,(24-39-47)] [O: CesConstraint,ORDER_TYPE,(34-168-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,D6,(24-40-47)] [O: CesConstraint,ORDER_TYPE,(34-169-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,D7,(24-41-47)] [O: CesConstraint,ORDER_TYPE,(34-170-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,D8,(24-42-47)] [O: CesConstraint,ORDER_TYPE,(34-171-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,D9,(24-43-47)] [O: CesConstraint,ORDER_TYPE,(34-172-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,D10,(24-44-47)] [O: CesConstraint,ORDER_TYPE,(34-173-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,D11,(24-52-47)] [O: CesConstraint,ORDER_TYPE,(34-174-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,D12,(24-51-47)] [O: CesConstraint,ORDER_TYPE,(34-175-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,D13,(24-50-47)] [O: CesConstraint,ORDER_TYPE,(34-176-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,D14,(24-49-47)] [O: CesConstraint,ORDER_TYPE,(34-177-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,D15,(24-53-47)] [O: CesConstraint,ORDER_TYPE,(34-178-22)]
+[Ok][Modification] - [BE->FE] [P: CesPhysicalNet,D0,(24-34-49)] [O: CesConstraint,ORDER_TYPE,(34-179-22)]
+[Ok][Modification] - [BE->FE] [P: CesPhysicalNet,D1,(24-35-49)] [O: CesConstraint,ORDER_TYPE,(34-180-22)]
+[Ok][Modification] - [BE->FE] [P: CesPhysicalNet,D2,(24-36-49)] [O: CesConstraint,ORDER_TYPE,(34-181-22)]
+[Ok][Modification] - [BE->FE] [P: CesPhysicalNet,D3,(24-37-49)] [O: CesConstraint,ORDER_TYPE,(34-182-22)]
+[Ok][Modification] - [BE->FE] [P: CesPhysicalNet,D4,(24-38-49)] [O: CesConstraint,ORDER_TYPE,(34-183-22)]
+[Ok][Modification] - [BE->FE] [P: CesPhysicalNet,D5,(24-39-49)] [O: CesConstraint,ORDER_TYPE,(34-184-22)]
+[Ok][Modification] - [BE->FE] [P: CesPhysicalNet,D6,(24-40-49)] [O: CesConstraint,ORDER_TYPE,(34-185-22)]
+[Ok][Modification] - [BE->FE] [P: CesPhysicalNet,D7,(24-41-49)] [O: CesConstraint,ORDER_TYPE,(34-186-22)]
+[Ok][Modification] - [BE->FE] [P: CesPhysicalNet,D8,(24-42-49)] [O: CesConstraint,ORDER_TYPE,(34-187-22)]
+[Ok][Modification] - [BE->FE] [P: CesPhysicalNet,D9,(24-43-49)] [O: CesConstraint,ORDER_TYPE,(34-188-22)]
+[Ok][Modification] - [BE->FE] [P: CesPhysicalNet,D10,(24-44-49)] [O: CesConstraint,ORDER_TYPE,(34-189-22)]
+[Ok][Modification] - [BE->FE] [P: CesPhysicalNet,D11,(24-52-49)] [O: CesConstraint,ORDER_TYPE,(34-190-22)]
+[Ok][Modification] - [BE->FE] [P: CesPhysicalNet,D12,(24-51-49)] [O: CesConstraint,ORDER_TYPE,(34-191-22)]
+[Ok][Modification] - [BE->FE] [P: CesPhysicalNet,D13,(24-50-49)] [O: CesConstraint,ORDER_TYPE,(34-192-22)]
+[Ok][Modification] - [BE->FE] [P: CesPhysicalNet,D14,(24-49-49)] [O: CesConstraint,ORDER_TYPE,(34-193-22)]
+[Ok][Modification] - [BE->FE] [P: CesPhysicalNet,D15,(24-53-49)] [O: CesConstraint,ORDER_TYPE,(34-194-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,A0,(24-1-47)] [O: CesConstraint,STUB_LENGTH,(269-98-22)]
+[Ok][Modification] - [BE->FE] [P: CesPhysicalNet,A0,(24-1-49)] [O: CesConstraint,STUB_LENGTH,(269-99-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,A1,(24-2-47)] [O: CesConstraint,STUB_LENGTH,(269-100-22)]
+[Ok][Modification] - [BE->FE] [P: CesPhysicalNet,A1,(24-2-49)] [O: CesConstraint,STUB_LENGTH,(269-101-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,A12,(24-80-47)] [O: CesConstraint,STUB_LENGTH,(269-124-22)]
+[Ok][Modification] - [BE->FE] [P: CesPhysicalNet,A12,(24-80-49)] [O: CesConstraint,STUB_LENGTH,(269-125-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,A15,(24-83-47)] [O: CesConstraint,STUB_LENGTH,(269-130-22)]
+[Ok][Modification] - [BE->FE] [P: CesPhysicalNet,A15,(24-83-49)] [O: CesConstraint,STUB_LENGTH,(269-131-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,A18,(24-86-47)] [O: CesConstraint,STUB_LENGTH,(269-136-22)]
+[Ok][Modification] - [BE->FE] [P: CesPhysicalNet,A18,(24-86-49)] [O: CesConstraint,STUB_LENGTH,(269-137-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,A19,(24-87-47)] [O: CesConstraint,STUB_LENGTH,(269-138-22)]
+[Ok][Modification] - [BE->FE] [P: CesPhysicalNet,A19,(24-87-49)] [O: CesConstraint,STUB_LENGTH,(269-139-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,NWR3,(24-28-47)] [O: CesConstraint,STUB_LENGTH,(269-153-22)]
+[Ok][Modification] - [BE->FE] [P: CesPhysicalNet,NWR3,(24-28-49)] [O: CesConstraint,STUB_LENGTH,(269-154-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,NWR1,(24-29-47)] [O: CesConstraint,STUB_LENGTH,(269-155-22)]
+[Ok][Modification] - [BE->FE] [P: CesPhysicalNet,NWR1,(24-29-49)] [O: CesConstraint,STUB_LENGTH,(269-156-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,NWR0,(24-30-47)] [O: CesConstraint,STUB_LENGTH,(269-157-22)]
+[Ok][Modification] - [BE->FE] [P: CesPhysicalNet,NWR0,(24-30-49)] [O: CesConstraint,STUB_LENGTH,(269-158-22)]
+[Ok][Modification] - [BE->FE] [P: CesElectricalNet,NRD,(24-33-47)] [O: CesConstraint,STUB_LENGTH,(269-163-22)]
+[Ok][Modification] - [BE->FE] [P: CesPhysicalNet,NRD,(24-33-49)] [O: CesConstraint,STUB_LENGTH,(269-164-22)]
+[Ok][Addition] - [BE->FE] [P: CesConstraintClass,DDR3_CTRL,(31-3-26)] [O: CesConstraint,MATCH_TOLERANCE,(326-2-22)]
+[Ok][Addition] - [BE->FE] [P: CesConstraintClass,DD3_ADDR,(31-2-26)] [O: CesConstraint,MATCH_TOLERANCE,(326-3-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,$1N451,(16-2-47)] [O: CesConstraint,ORDER_TYPE,(328-1-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,$1N451,(16-2-49)] [O: CesConstraint,ORDER_TYPE,(328-2-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,+3.3V,(16-3-47)] [O: CesConstraint,ORDER_TYPE,(328-3-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,+3.3V,(16-3-49)] [O: CesConstraint,ORDER_TYPE,(328-4-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,FB,(16-4-47)] [O: CesConstraint,ORDER_TYPE,(328-5-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,FB,(16-4-49)] [O: CesConstraint,ORDER_TYPE,(328-6-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,+5.0V,(16-8-47)] [O: CesConstraint,ORDER_TYPE,(328-7-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,+5.0V,(16-8-49)] [O: CesConstraint,ORDER_TYPE,(328-8-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,$1N989,(20-10-47)] [O: CesConstraint,ORDER_TYPE,(328-9-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,$1N989,(20-10-49)] [O: CesConstraint,ORDER_TYPE,(328-10-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,$1N1053,(20-12-47)] [O: CesConstraint,ORDER_TYPE,(328-11-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,$1N1053,(20-12-49)] [O: CesConstraint,ORDER_TYPE,(328-12-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,$1N688,(18-5-47)] [O: CesConstraint,ORDER_TYPE,(328-13-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,$1N688,(18-5-49)] [O: CesConstraint,ORDER_TYPE,(328-14-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,RESET,(18-6-47)] [O: CesConstraint,ORDER_TYPE,(328-15-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,RESET,(18-6-49)] [O: CesConstraint,ORDER_TYPE,(328-16-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,$1N788,(20-1-47)] [O: CesConstraint,ORDER_TYPE,(328-17-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,$1N788,(20-1-49)] [O: CesConstraint,ORDER_TYPE,(328-18-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,$1N790,(20-2-47)] [O: CesConstraint,ORDER_TYPE,(328-19-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,$1N790,(20-2-49)] [O: CesConstraint,ORDER_TYPE,(328-20-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,$1N817,(20-4-47)] [O: CesConstraint,ORDER_TYPE,(328-21-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,$1N817,(20-4-49)] [O: CesConstraint,ORDER_TYPE,(328-22-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,$1N816,(20-5-47)] [O: CesConstraint,ORDER_TYPE,(328-23-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,$1N816,(20-5-49)] [O: CesConstraint,ORDER_TYPE,(328-24-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,$1N1056,(20-13-47)] [O: CesConstraint,ORDER_TYPE,(328-25-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,$1N1056,(20-13-49)] [O: CesConstraint,ORDER_TYPE,(328-26-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,+1V,(20-7-47)] [O: CesConstraint,ORDER_TYPE,(328-27-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,+1V,(20-7-49)] [O: CesConstraint,ORDER_TYPE,(328-28-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,$1N1790,(22-1-47)] [O: CesConstraint,ORDER_TYPE,(328-29-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,$1N1790,(22-1-49)] [O: CesConstraint,ORDER_TYPE,(328-30-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,$1N1059,(20-14-47)] [O: CesConstraint,ORDER_TYPE,(328-31-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,$1N1059,(20-14-49)] [O: CesConstraint,ORDER_TYPE,(328-32-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,$1N1061,(20-15-47)] [O: CesConstraint,ORDER_TYPE,(328-33-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,$1N1061,(20-15-49)] [O: CesConstraint,ORDER_TYPE,(328-34-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,VREF1,(20-32-47)] [O: CesConstraint,ORDER_TYPE,(328-35-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,VREF1,(20-32-49)] [O: CesConstraint,ORDER_TYPE,(328-36-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,PVREF1,(20-35-47)] [O: CesConstraint,ORDER_TYPE,(328-37-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,PVREF1,(20-35-49)] [O: CesConstraint,ORDER_TYPE,(328-38-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,+1.8V,(20-36-47)] [O: CesConstraint,ORDER_TYPE,(328-39-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,+1.8V,(20-36-49)] [O: CesConstraint,ORDER_TYPE,(328-40-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,$1N1792,(22-2-47)] [O: CesConstraint,ORDER_TYPE,(328-41-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,$1N1792,(22-2-49)] [O: CesConstraint,ORDER_TYPE,(328-42-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,$1N1827,(22-3-47)] [O: CesConstraint,ORDER_TYPE,(328-43-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,$1N1827,(22-3-49)] [O: CesConstraint,ORDER_TYPE,(328-44-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,$1N2324,(24-117-47)] [O: CesConstraint,ORDER_TYPE,(328-45-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,$1N2324,(24-117-49)] [O: CesConstraint,ORDER_TYPE,(328-46-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,PVREF2,(24-118-47)] [O: CesConstraint,ORDER_TYPE,(328-47-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,PVREF2,(24-118-49)] [O: CesConstraint,ORDER_TYPE,(328-48-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,VREF2,(24-119-47)] [O: CesConstraint,ORDER_TYPE,(328-49-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,VREF2,(24-119-49)] [O: CesConstraint,ORDER_TYPE,(328-50-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,$1N2253,(24-111-47)] [O: CesConstraint,ORDER_TYPE,(328-51-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,$1N2253,(24-111-49)] [O: CesConstraint,ORDER_TYPE,(328-52-22)]
+[Ok][Addition] - [BE->FE] [P: CesConstraintClass,DDR3_CTRL,(31-3-26)] [O: CesConstraint,ORDER_TYPE,(328-53-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,CAS,(24-22-47)] [O: CesConstraint,ORDER_TYPE,(328-54-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,CAS,(24-22-49)] [O: CesConstraint,ORDER_TYPE,(328-55-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,RAS,(24-23-47)] [O: CesConstraint,ORDER_TYPE,(328-56-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,RAS,(24-23-49)] [O: CesConstraint,ORDER_TYPE,(328-57-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,SDWE,(24-24-47)] [O: CesConstraint,ORDER_TYPE,(328-58-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,SDWE,(24-24-49)] [O: CesConstraint,ORDER_TYPE,(328-59-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,SDCKE,(24-25-47)] [O: CesConstraint,ORDER_TYPE,(328-60-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,SDCKE,(24-25-49)] [O: CesConstraint,ORDER_TYPE,(328-61-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,nSDCK,(24-26-47)] [O: CesConstraint,ORDER_TYPE,(328-62-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,nSDCK,(24-26-49)] [O: CesConstraint,ORDER_TYPE,(328-63-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,SDCK,(24-27-47)] [O: CesConstraint,ORDER_TYPE,(328-64-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,SDCK,(24-27-49)] [O: CesConstraint,ORDER_TYPE,(328-65-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,NWR3,(24-28-47)] [O: CesConstraint,ORDER_TYPE,(328-66-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,NWR3,(24-28-49)] [O: CesConstraint,ORDER_TYPE,(328-67-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,NWR1,(24-29-47)] [O: CesConstraint,ORDER_TYPE,(328-68-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,NWR1,(24-29-49)] [O: CesConstraint,ORDER_TYPE,(328-69-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,NWR0,(24-30-47)] [O: CesConstraint,ORDER_TYPE,(328-70-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,NWR0,(24-30-49)] [O: CesConstraint,ORDER_TYPE,(328-71-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,NCS1,(24-31-47)] [O: CesConstraint,ORDER_TYPE,(328-72-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,NCS1,(24-31-49)] [O: CesConstraint,ORDER_TYPE,(328-73-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,DQS0,(24-88-47)] [O: CesConstraint,ORDER_TYPE,(328-74-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,DQS0,(24-88-49)] [O: CesConstraint,ORDER_TYPE,(328-75-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,NRD,(24-33-47)] [O: CesConstraint,ORDER_TYPE,(328-76-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,NRD,(24-33-49)] [O: CesConstraint,ORDER_TYPE,(328-77-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,DQM1,(24-45-47)] [O: CesConstraint,ORDER_TYPE,(328-78-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,DQM1,(24-45-49)] [O: CesConstraint,ORDER_TYPE,(328-79-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,DQM0,(24-46-47)] [O: CesConstraint,ORDER_TYPE,(328-80-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,DQM0,(24-46-49)] [O: CesConstraint,ORDER_TYPE,(328-81-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,DQS1,(24-47-47)] [O: CesConstraint,ORDER_TYPE,(328-82-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,DQS1,(24-47-49)] [O: CesConstraint,ORDER_TYPE,(328-83-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,NCS0,(24-113-47)] [O: CesConstraint,ORDER_TYPE,(328-84-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,NCS0,(24-113-49)] [O: CesConstraint,ORDER_TYPE,(328-85-22)]
+[Ok][Addition] - [BE->FE] [P: CesConstraintClass,NAND_DA,(31-4-26)] [O: CesConstraint,ORDER_TYPE,(328-86-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,ND2,(24-89-47)] [O: CesConstraint,ORDER_TYPE,(328-87-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,ND2,(24-89-49)] [O: CesConstraint,ORDER_TYPE,(328-88-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,ND1,(24-64-47)] [O: CesConstraint,ORDER_TYPE,(328-89-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,ND1,(24-64-49)] [O: CesConstraint,ORDER_TYPE,(328-90-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,ND3,(24-90-47)] [O: CesConstraint,ORDER_TYPE,(328-91-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,ND3,(24-90-49)] [O: CesConstraint,ORDER_TYPE,(328-92-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,ND4,(24-91-47)] [O: CesConstraint,ORDER_TYPE,(328-93-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,ND4,(24-91-49)] [O: CesConstraint,ORDER_TYPE,(328-94-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,ND5,(24-92-47)] [O: CesConstraint,ORDER_TYPE,(328-95-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,ND5,(24-92-49)] [O: CesConstraint,ORDER_TYPE,(328-96-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,ND6,(24-93-47)] [O: CesConstraint,ORDER_TYPE,(328-97-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,ND6,(24-93-49)] [O: CesConstraint,ORDER_TYPE,(328-98-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,ND7,(24-94-47)] [O: CesConstraint,ORDER_TYPE,(328-99-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,ND7,(24-94-49)] [O: CesConstraint,ORDER_TYPE,(328-100-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,ND8,(24-95-47)] [O: CesConstraint,ORDER_TYPE,(328-101-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,ND8,(24-95-49)] [O: CesConstraint,ORDER_TYPE,(328-102-22)]
+[Ok][Addition] - [BE->FE] [P: CesConstraintClass,NAND_CTRL,(31-5-26)] [O: CesConstraint,ORDER_TYPE,(328-103-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,NANDOE,(24-58-47)] [O: CesConstraint,ORDER_TYPE,(328-104-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,NANDOE,(24-58-49)] [O: CesConstraint,ORDER_TYPE,(328-105-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,NANDWE,(24-59-47)] [O: CesConstraint,ORDER_TYPE,(328-106-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,NANDWE,(24-59-49)] [O: CesConstraint,ORDER_TYPE,(328-107-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,NANDALE,(24-60-47)] [O: CesConstraint,ORDER_TYPE,(328-108-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,NANDALE,(24-60-49)] [O: CesConstraint,ORDER_TYPE,(328-109-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,NANDCLE,(24-61-47)] [O: CesConstraint,ORDER_TYPE,(328-110-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,NANDCLE,(24-61-49)] [O: CesConstraint,ORDER_TYPE,(328-111-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,NANDCS,(24-62-47)] [O: CesConstraint,ORDER_TYPE,(328-112-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,NANDCS,(24-62-49)] [O: CesConstraint,ORDER_TYPE,(328-113-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,NWAIT,(24-63-47)] [O: CesConstraint,ORDER_TYPE,(328-114-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,NWAIT,(24-63-49)] [O: CesConstraint,ORDER_TYPE,(328-115-22)]
+[Ok][Addition] - [BE->FE] [P: CesConstraintClass,MEM,(66-1-26)] [O: CesConstraint,ORDER_TYPE,(328-116-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,MISO,(24-54-47)] [O: CesConstraint,ORDER_TYPE,(328-117-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,MISO,(24-54-49)] [O: CesConstraint,ORDER_TYPE,(328-118-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,MOSI,(24-55-47)] [O: CesConstraint,ORDER_TYPE,(328-119-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,MOSI,(24-55-49)] [O: CesConstraint,ORDER_TYPE,(328-120-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,SCK,(24-56-47)] [O: CesConstraint,ORDER_TYPE,(328-121-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,SCK,(24-56-49)] [O: CesConstraint,ORDER_TYPE,(328-122-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,NPCS,(24-57-47)] [O: CesConstraint,ORDER_TYPE,(328-123-22)]
+[Ok][Addition] - [BE->FE] [P: CesPhysicalNet,NPCS,(24-57-49)] [O: CesConstraint,ORDER_TYPE,(328-124-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,D12,(24-51-47)] [O: CesConstraint,DELAY_TYPE,(328-125-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,DQS0,(24-88-47)] [O: CesConstraint,MATCH_GROUP,(334-1-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,DQS0,(24-88-47)] [O: CesConstraint,MATCH_TOLERANCE,(334-2-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,DQM0,(24-46-47)] [O: CesConstraint,MATCH_GROUP,(334-3-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,DQM0,(24-46-47)] [O: CesConstraint,MATCH_TOLERANCE,(334-4-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,DQS1,(24-47-47)] [O: CesConstraint,MATCH_GROUP,(334-5-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,DQS1,(24-47-47)] [O: CesConstraint,MATCH_TOLERANCE,(334-6-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,DQM1,(24-45-47)] [O: CesConstraint,MATCH_GROUP,(334-7-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,DQM1,(24-45-47)] [O: CesConstraint,MATCH_TOLERANCE,(334-8-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,nSDCK,(24-26-47)] [O: CesConstraint,MATCH_GROUP,(334-10-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,SDCK,(24-27-47)] [O: CesConstraint,MATCH_GROUP,(334-11-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,nSDCK,(24-26-47)] [O: CesConstraint,MATCH_TOLERANCE,(334-12-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,SDCK,(24-27-47)] [O: CesConstraint,MATCH_TOLERANCE,(334-13-22)]
+[Ok][Addition] - [BE->FE] [P: CesConstraintClass,DD3_ADDR,(31-2-26)] [O: CesConstraint,SIM_DELAY_MATCH_TO,(367-1-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,A2,(24-3-47)] [O: CesConstraint,MATCH_GROUP,(367-6-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,A3,(24-4-47)] [O: CesConstraint,MATCH_GROUP,(367-7-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,A4,(24-72-47)] [O: CesConstraint,MATCH_GROUP,(367-8-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,A5,(24-73-47)] [O: CesConstraint,MATCH_GROUP,(367-9-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,A6,(24-74-47)] [O: CesConstraint,MATCH_GROUP,(367-10-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,A7,(24-75-47)] [O: CesConstraint,MATCH_GROUP,(367-11-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,A8,(24-76-47)] [O: CesConstraint,MATCH_GROUP,(367-12-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,A9,(24-77-47)] [O: CesConstraint,MATCH_GROUP,(367-13-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,A10,(24-78-47)] [O: CesConstraint,MATCH_GROUP,(367-14-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,A11,(24-79-47)] [O: CesConstraint,MATCH_GROUP,(367-15-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,A13,(24-81-47)] [O: CesConstraint,MATCH_GROUP,(367-17-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,A14,(24-82-47)] [O: CesConstraint,MATCH_GROUP,(367-18-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,A16,(24-84-47)] [O: CesConstraint,MATCH_GROUP,(367-20-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,A17,(24-85-47)] [O: CesConstraint,MATCH_GROUP,(367-21-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,SDA10,(24-13-47)] [O: CesConstraint,MATCH_GROUP,(367-24-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,CAS,(24-22-47)] [O: CesConstraint,MATCH_GROUP,(367-25-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,NCS0,(24-113-47)] [O: CesConstraint,MATCH_GROUP,(367-26-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,NCS1,(24-31-47)] [O: CesConstraint,MATCH_GROUP,(367-27-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,RAS,(24-23-47)] [O: CesConstraint,MATCH_GROUP,(367-32-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,SDCKE,(24-25-47)] [O: CesConstraint,MATCH_GROUP,(367-33-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,SDWE,(24-24-47)] [O: CesConstraint,MATCH_GROUP,(367-34-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,CAS,(24-22-47)] [O: CesConstraint,MATCH_TOLERANCE,(367-35-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,A2,(24-3-47)] [O: CesConstraint,MATCH_TOLERANCE,(367-38-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,A3,(24-4-47)] [O: CesConstraint,MATCH_TOLERANCE,(367-39-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,A4,(24-72-47)] [O: CesConstraint,MATCH_TOLERANCE,(367-40-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,A5,(24-73-47)] [O: CesConstraint,MATCH_TOLERANCE,(367-41-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,A6,(24-74-47)] [O: CesConstraint,MATCH_TOLERANCE,(367-42-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,A7,(24-75-47)] [O: CesConstraint,MATCH_TOLERANCE,(367-43-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,A8,(24-76-47)] [O: CesConstraint,MATCH_TOLERANCE,(367-44-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,A9,(24-77-47)] [O: CesConstraint,MATCH_TOLERANCE,(367-45-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,A10,(24-78-47)] [O: CesConstraint,MATCH_TOLERANCE,(367-46-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,A11,(24-79-47)] [O: CesConstraint,MATCH_TOLERANCE,(367-47-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,A13,(24-81-47)] [O: CesConstraint,MATCH_TOLERANCE,(367-49-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,A14,(24-82-47)] [O: CesConstraint,MATCH_TOLERANCE,(367-50-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,A16,(24-84-47)] [O: CesConstraint,MATCH_TOLERANCE,(367-52-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,A17,(24-85-47)] [O: CesConstraint,MATCH_TOLERANCE,(367-53-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,SDA10,(24-13-47)] [O: CesConstraint,MATCH_TOLERANCE,(367-56-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,NCS0,(24-113-47)] [O: CesConstraint,MATCH_TOLERANCE,(367-57-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,NCS1,(24-31-47)] [O: CesConstraint,MATCH_TOLERANCE,(367-58-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,RAS,(24-23-47)] [O: CesConstraint,MATCH_TOLERANCE,(367-63-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,SDCKE,(24-25-47)] [O: CesConstraint,MATCH_TOLERANCE,(367-64-22)]
+[Ok][Addition] - [BE->FE] [P: CesElectricalNet,SDWE,(24-24-47)] [O: CesConstraint,MATCH_TOLERANCE,(367-65-22)]
+[Ok][Addition] - [BE->FE] [P: CesDiffPair,nSDCK,SDCK,(378-1-46)] [O: CesConstraint,ORDER_TYPE,(378-1-22)]
+[Ok][Addition] - [BE->FE] [P: CesDiffPair,nSDCK,SDCK,(378-1-46)] [O: CesConstraint,MATCH_GROUP,(378-2-22)]
+[Ok][Addition] - [BE->FE] [P: CesDiffPair,nSDCK,SDCK,(378-1-46)] [O: CesConstraint,MATCH_TOLERANCE,(378-3-22)]
+[Ok][Addition] - [BE->FE] [P: CesDiffPair,nSDCK,SDCK,(378-1-46)] [O: CesConstraint,STUB_LENGTH,(378-4-22)]
+--------------------------------------------------------------------------------
+ CES synchronization - END (2020-07-30 07:32:27) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ VMVariant synchronization - START (2020-07-30 07:32:27) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ VMVariant synchronization - END (2020-07-30 07:32:27) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Project integration - END (2020-07-30 07:32:27) 
+--------------------------------------------------------------------------------

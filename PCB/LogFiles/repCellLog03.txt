@@ -1,0 +1,27 @@
+=======================================================================
+PADS Professional Layout - Version 120.0.1554.9886
+=======================================================================
+
+RELOAD CELLS
+
+Job Directory:  D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\
+
+
+Design Units:(th)
+
+Replace Cell Log:   repCellLog03.txt
+
+Fri Jul 31 09:06:42 2020
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RELOAD CELLS  Fri Jul 31 09:06:42 2020  ---------------
+
+
+
+
+---------------    Fri Jul 31 09:06:42 2020  ---------------
+
+

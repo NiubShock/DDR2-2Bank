@@ -1,0 +1,159 @@
+[2020-03-28 09.14.40] -------------------- CREATE --------------------
+[2020-03-28 09.14.40] Creating Project Backup infrastructure for project [D:\OneDrive\Personal\Mentor\Project2\Project2.prj].
+[2020-03-28 09.15.10] Successfully created [AutoSave] backup [2020-03-28 09.15.10 - auto.zip] requested by [ALLEN:alle9].
+[2020-03-28 11.20.33] Successfully created [Constraints Definition Upgrade] backup [2020-03-28 11.20.33 - consDefUpgr.zip] requested by [ALLEN:alle9].
+[2020-03-28 11.20.33] Migrated iCDB content backup file [cdbback\2020-03-28 11.20.33-3792.zip] removed.
+[2020-03-28 19.06.40] Successfully created [AutoSave] backup [2020-03-28 19.06.39 - auto.zip] requested by [ALLEN:alle9].
+[2020-03-28 23.06.39] Successfully created [AutoSave] backup [2020-03-28 23.06.39 - auto.zip] requested by [ALLEN:alle9].
+[2020-03-29 09.17.32] Successfully created [AutoSave] backup [2020-03-29 09.17.31 - auto.zip] requested by [ALLEN:alle9].
+[2020-03-29 09.17.32] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\Project2\ProjectBackup\backups\2020-03-28 09.15.10 - auto.zip].
+[2020-03-29 09.17.32] [AutoSave] backup file [Project2\ProjectBackup\backups\2020-03-28 09.15.10 - auto.zip] removed.
+[2020-03-29 15.04.43] Successfully created [AutoSave] backup [2020-03-29 15.04.43 - auto.zip] requested by [ALLEN:alle9].
+[2020-03-29 15.04.43] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\Project2\ProjectBackup\backups\2020-03-28 19.06.39 - auto.zip].
+[2020-03-29 15.04.43] [AutoSave] backup file [Project2\ProjectBackup\backups\2020-03-28 19.06.39 - auto.zip] removed.
+[2020-03-29 19.04.43] Successfully created [AutoSave] backup [2020-03-29 19.04.43 - auto.zip] requested by [ALLEN:alle9].
+[2020-03-29 19.04.44] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\Project2\ProjectBackup\backups\2020-03-28 23.06.39 - auto.zip].
+[2020-03-29 19.04.44] [AutoSave] backup file [Project2\ProjectBackup\backups\2020-03-28 23.06.39 - auto.zip] removed.
+[2020-03-30 09.04.26] Successfully created [AutoSave] backup [2020-03-30 09.04.26 - auto.zip] requested by [ALLEN:alle9].
+[2020-03-30 09.04.26] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\Project2\ProjectBackup\backups\2020-03-29 09.17.31 - auto.zip].
+[2020-03-30 09.04.26] [AutoSave] backup file [Project2\ProjectBackup\backups\2020-03-29 09.17.31 - auto.zip] removed.
+[2020-03-31 17.20.56] Successfully created [AutoSave] backup [2020-03-31 17.20.55 - auto.zip] requested by [ALLEN:alle9].
+[2020-03-31 17.20.56] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\Project2\ProjectBackup\backups\2020-03-29 15.04.43 - auto.zip].
+[2020-03-31 17.20.56] [AutoSave] backup file [Project2\ProjectBackup\backups\2020-03-29 15.04.43 - auto.zip] removed.
+[2020-04-01 10.37.45] Successfully created [AutoSave] backup [2020-04-01 10.37.44 - auto.zip] requested by [ALLEN:alle9].
+[2020-04-01 10.37.45] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\Project2\ProjectBackup\backups\2020-03-29 19.04.43 - auto.zip].
+[2020-04-01 10.37.45] [AutoSave] backup file [Project2\ProjectBackup\backups\2020-03-29 19.04.43 - auto.zip] removed.
+[2020-04-01 23.36.58] Successfully created [AutoSave] backup [2020-04-01 23.36.58 - auto.zip] requested by [ALLEN:alle9].
+[2020-04-01 23.36.58] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\Project2\ProjectBackup\backups\2020-03-30 09.04.26 - auto.zip].
+[2020-04-01 23.36.59] [AutoSave] backup file [Project2\ProjectBackup\backups\2020-03-30 09.04.26 - auto.zip] removed.
+[2020-04-02 11.58.51] Successfully created [AutoSave] backup [2020-04-02 11.58.50 - auto.zip] requested by [ALLEN:alle9].
+[2020-04-02 11.58.51] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\Project2\ProjectBackup\backups\2020-03-31 17.20.55 - auto.zip].
+[2020-04-02 11.58.51] [AutoSave] backup file [Project2\ProjectBackup\backups\2020-03-31 17.20.55 - auto.zip] removed.
+[2020-04-02 16.55.43] Successfully created [AutoSave] backup [2020-04-02 16.55.42 - auto.zip] requested by [ALLEN:alle9].
+[2020-04-02 16.55.43] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\Project2\ProjectBackup\backups\2020-04-01 10.37.44 - auto.zip].
+[2020-04-02 16.55.43] [AutoSave] backup file [Project2\ProjectBackup\backups\2020-04-01 10.37.44 - auto.zip] removed.
+[2020-04-23 18.45.45] Successfully created [AutoSave] backup [2020-04-23 18.45.44 - auto.zip] requested by [ALLEN:alle9].
+[2020-04-23 18.45.45] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\Project2\ProjectBackup\backups\2020-04-01 23.36.58 - auto.zip].
+[2020-04-23 18.45.45] [AutoSave] backup file [Project2\ProjectBackup\backups\2020-04-01 23.36.58 - auto.zip] removed.
+[2020-04-24 22.31.29] Successfully created [AutoSave] backup [2020-04-24 22.31.28 - auto.zip] requested by [ALLEN:alle9].
+[2020-04-24 22.31.29] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\Project2\ProjectBackup\backups\2020-04-02 11.58.50 - auto.zip].
+[2020-04-24 22.31.29] [AutoSave] backup file [Project2\ProjectBackup\backups\2020-04-02 11.58.50 - auto.zip] removed.
+[2020-04-25 10.22.37] Successfully created [AutoSave] backup [2020-04-25 10.22.36 - auto.zip] requested by [ALLEN:alle9].
+[2020-04-25 10.22.37] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\Project2\ProjectBackup\backups\2020-04-02 16.55.42 - auto.zip].
+[2020-04-25 10.22.37] [AutoSave] backup file [Project2\ProjectBackup\backups\2020-04-02 16.55.42 - auto.zip] removed.
+[2020-05-05 11.59.15] Successfully created [AutoSave] backup [2020-05-05 11.59.14 - auto.zip] requested by [ALLEN:alle9].
+[2020-05-05 11.59.15] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\Project2\ProjectBackup\backups\2020-04-23 18.45.44 - auto.zip].
+[2020-05-05 11.59.15] [AutoSave] backup file [Project2\ProjectBackup\backups\2020-04-23 18.45.44 - auto.zip] removed.
+[2020-05-05 16.38.51] Successfully created [AutoSave] backup [2020-05-05 16.38.50 - auto.zip] requested by [ALLEN:alle9].
+[2020-05-05 16.38.51] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\Project2\ProjectBackup\backups\2020-04-24 22.31.28 - auto.zip].
+[2020-05-05 16.38.51] [AutoSave] backup file [Project2\ProjectBackup\backups\2020-04-24 22.31.28 - auto.zip] removed.
+[2020-05-06 11.27.07] Successfully created [AutoSave] backup [2020-05-06 11.27.06 - auto.zip] requested by [ALLEN:alle9].
+[2020-05-06 11.27.07] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\Project2\ProjectBackup\backups\2020-04-25 10.22.36 - auto.zip].
+[2020-05-06 11.27.07] [AutoSave] backup file [Project2\ProjectBackup\backups\2020-04-25 10.22.36 - auto.zip] removed.
+[2020-05-15 11.34.36] Successfully created [AutoSave] backup [2020-05-15 11.34.35 - auto.zip] requested by [ALLEN:alle9].
+[2020-05-15 11.34.36] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\Project2\ProjectBackup\backups\2020-05-05 11.59.14 - auto.zip].
+[2020-05-15 11.34.36] [AutoSave] backup file [Project2\ProjectBackup\backups\2020-05-05 11.59.14 - auto.zip] removed.
+[2020-05-16 11.21.50] Successfully created [AutoSave] backup [2020-05-16 11.21.49 - auto.zip] requested by [ALLEN:alle9].
+[2020-05-16 11.21.50] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\Project2\ProjectBackup\backups\2020-05-05 16.38.50 - auto.zip].
+[2020-05-16 11.21.50] [AutoSave] backup file [Project2\ProjectBackup\backups\2020-05-05 16.38.50 - auto.zip] removed.
+[2020-05-16 16.34.31] Successfully created [AutoSave] backup [2020-05-16 16.34.30 - auto.zip] requested by [ALLEN:alle9].
+[2020-05-16 16.34.31] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\Project2\ProjectBackup\backups\2020-05-06 11.27.06 - auto.zip].
+[2020-05-16 16.34.31] [AutoSave] backup file [Project2\ProjectBackup\backups\2020-05-06 11.27.06 - auto.zip] removed.
+[2020-05-19 16.32.50] Successfully created [AutoSave] backup [2020-05-19 16.32.49 - auto.zip] requested by [ALLEN:alle9].
+[2020-05-19 16.32.50] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\Project2\ProjectBackup\backups\2020-05-15 11.34.35 - auto.zip].
+[2020-05-19 16.32.50] [AutoSave] backup file [Project2\ProjectBackup\backups\2020-05-15 11.34.35 - auto.zip] removed.
+[2020-05-20 11.51.53] Successfully created [AutoSave] backup [2020-05-20 11.51.52 - auto.zip] requested by [ALLEN:alle9].
+[2020-05-20 11.51.53] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\Project2\ProjectBackup\backups\2020-05-16 11.21.49 - auto.zip].
+[2020-05-20 11.51.53] [AutoSave] backup file [Project2\ProjectBackup\backups\2020-05-16 11.21.49 - auto.zip] removed.
+[2020-05-26 10.58.24] Successfully created [AutoSave] backup [2020-05-26 10.58.24 - auto.zip] requested by [ALLEN:alle9].
+[2020-05-26 10.58.24] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\Project2\ProjectBackup\backups\2020-05-16 16.34.30 - auto.zip].
+[2020-05-26 10.58.24] [AutoSave] backup file [Project2\ProjectBackup\backups\2020-05-16 16.34.30 - auto.zip] removed.
+[2020-05-29 10.02.46] Successfully created [AutoSave] backup [2020-05-29 10.02.45 - auto.zip] requested by [ALLEN:alle9].
+[2020-05-29 10.02.46] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\Project2\ProjectBackup\backups\2020-05-19 16.32.49 - auto.zip].
+[2020-05-29 10.02.46] [AutoSave] backup file [Project2\ProjectBackup\backups\2020-05-19 16.32.49 - auto.zip] removed.
+[2020-05-29 14.02.45] Successfully created [AutoSave] backup [2020-05-29 14.02.45 - auto.zip] requested by [ALLEN:alle9].
+[2020-05-29 14.02.45] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\Project2\ProjectBackup\backups\2020-05-20 11.51.52 - auto.zip].
+[2020-05-29 14.02.45] [AutoSave] backup file [Project2\ProjectBackup\backups\2020-05-20 11.51.52 - auto.zip] removed.
+[2020-06-02 17.30.31] Successfully created [AutoSave] backup [2020-06-02 17.30.30 - auto.zip] requested by [ALLEN:alle9].
+[2020-06-02 17.30.31] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\Project2\ProjectBackup\backups\2020-05-26 10.58.24 - auto.zip].
+[2020-06-02 17.30.31] [AutoSave] backup file [Project2\ProjectBackup\backups\2020-05-26 10.58.24 - auto.zip] removed.
+[2020-06-04 12.35.19] Successfully created [AutoSave] backup [2020-06-04 12.35.18 - auto.zip] requested by [ALLEN:alle9].
+[2020-06-04 12.35.19] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\ALLPCB_v1\ProjectBackup\backups\2020-05-29 10.02.45 - auto.zip].
+[2020-06-04 12.35.19] [AutoSave] backup file [ALLPCB_v1\ProjectBackup\backups\2020-05-29 10.02.45 - auto.zip] removed.
+[2020-06-12 17.38.36] Successfully created [AutoSave] backup [2020-06-12 17.38.34 - auto.zip] requested by [ALLEN:alle9].
+[2020-06-12 17.38.36] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\ALLPCB_v1\ProjectBackup\backups\2020-05-29 14.02.45 - auto.zip].
+[2020-06-12 17.38.36] [AutoSave] backup file [ALLPCB_v1\ProjectBackup\backups\2020-05-29 14.02.45 - auto.zip] removed.
+[2020-06-15 13.56.22] Successfully created [AutoSave] backup [2020-06-15 13.56.21 - auto.zip] requested by [ALLEN:alle9].
+[2020-06-15 13.56.22] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\ALLPCB_v1\ProjectBackup\backups\2020-06-02 17.30.30 - auto.zip].
+[2020-06-15 13.56.22] [AutoSave] backup file [ALLPCB_v1\ProjectBackup\backups\2020-06-02 17.30.30 - auto.zip] removed.
+[2020-06-17 18.27.50] Successfully created [AutoSave] backup [2020-06-17 18.27.49 - auto.zip] requested by [ALLEN:alle9].
+[2020-06-17 18.27.50] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\ALLPCB_v1\ProjectBackup\backups\2020-06-04 12.35.18 - auto.zip].
+[2020-06-17 18.27.50] [AutoSave] backup file [ALLPCB_v1\ProjectBackup\backups\2020-06-04 12.35.18 - auto.zip] removed.
+[2020-06-18 11.42.06] Successfully created [AutoSave] backup [2020-06-18 11.42.05 - auto.zip] requested by [ALLEN:alle9].
+[2020-06-18 11.42.06] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\ALLPCB_v1\ProjectBackup\backups\2020-06-12 17.38.34 - auto.zip].
+[2020-06-18 11.42.06] [AutoSave] backup file [ALLPCB_v1\ProjectBackup\backups\2020-06-12 17.38.34 - auto.zip] removed.
+[2020-07-01 19.16.05] Successfully created [AutoSave] backup [2020-07-01 19.16.04 - auto.zip] requested by [ALLEN:alle9].
+[2020-07-01 19.16.05] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\ALLPCB_v1\ProjectBackup\backups\2020-06-15 13.56.21 - auto.zip].
+[2020-07-01 19.16.05] [AutoSave] backup file [ALLPCB_v1\ProjectBackup\backups\2020-06-15 13.56.21 - auto.zip] removed.
+[2020-07-02 12.06.18] Successfully created [AutoSave] backup [2020-07-02 12.06.18 - auto.zip] requested by [ALLEN:alle9].
+[2020-07-02 12.06.18] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\ALLPCB_v1\ProjectBackup\backups\2020-06-17 18.27.49 - auto.zip].
+[2020-07-02 12.06.18] [AutoSave] backup file [ALLPCB_v1\ProjectBackup\backups\2020-06-17 18.27.49 - auto.zip] removed.
+[2020-07-02 17.27.37] Successfully created [AutoSave] backup [2020-07-02 17.27.36 - auto.zip] requested by [ALLEN:alle9].
+[2020-07-02 17.27.37] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\ALLPCB_v1\ProjectBackup\backups\2020-06-18 11.42.05 - auto.zip].
+[2020-07-02 17.27.37] [AutoSave] backup file [ALLPCB_v1\ProjectBackup\backups\2020-06-18 11.42.05 - auto.zip] removed.
+[2020-07-03 07.42.39] Successfully created [AutoSave] backup [2020-07-03 07.42.38 - auto.zip] requested by [ALLEN:alle9].
+[2020-07-03 07.42.39] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\ALLPCB_v1\ProjectBackup\backups\2020-07-01 19.16.04 - auto.zip].
+[2020-07-03 07.42.39] [AutoSave] backup file [ALLPCB_v1\ProjectBackup\backups\2020-07-01 19.16.04 - auto.zip] removed.
+[2020-07-03 11.56.28] Successfully created [AutoSave] backup [2020-07-03 11.56.27 - auto.zip] requested by [ALLEN:alle9].
+[2020-07-03 11.56.28] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\ALLPCB_v1\ProjectBackup\backups\2020-07-02 12.06.18 - auto.zip].
+[2020-07-03 11.56.28] [AutoSave] backup file [ALLPCB_v1\ProjectBackup\backups\2020-07-02 12.06.18 - auto.zip] removed.
+[2020-07-03 17.47.21] Successfully created [AutoSave] backup [2020-07-03 17.47.21 - auto.zip] requested by [ALLEN:alle9].
+[2020-07-03 17.47.21] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\ALLPCB_v1\ProjectBackup\backups\2020-07-02 17.27.36 - auto.zip].
+[2020-07-03 17.47.21] [AutoSave] backup file [ALLPCB_v1\ProjectBackup\backups\2020-07-02 17.27.36 - auto.zip] removed.
+[2020-07-04 08.02.42] Successfully created [AutoSave] backup [2020-07-04 08.02.41 - auto.zip] requested by [ALLEN:alle9].
+[2020-07-04 08.02.42] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\ALLPCB_v1\ProjectBackup\backups\2020-07-03 07.42.38 - auto.zip].
+[2020-07-04 08.02.42] [AutoSave] backup file [ALLPCB_v1\ProjectBackup\backups\2020-07-03 07.42.38 - auto.zip] removed.
+[2020-07-05 08.05.20] Successfully created [AutoSave] backup [2020-07-05 08.05.20 - auto.zip] requested by [ALLEN:alle9].
+[2020-07-05 08.05.20] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\ALLPCB_v1\ProjectBackup\backups\2020-07-03 11.56.27 - auto.zip].
+[2020-07-05 08.05.20] [AutoSave] backup file [ALLPCB_v1\ProjectBackup\backups\2020-07-03 11.56.27 - auto.zip] removed.
+[2020-07-07 18.45.19] ERROR: Cannot create Project Backup file. Requested [AutoSave] backup by [ALLEN:alle9] will not be created.
+[2020-07-07 18.45.25] Successfully created [AutoSave] backup [2020-07-07 18.45.24 - auto.zip] requested by [ALLEN:alle9].
+[2020-07-07 18.45.25] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\ALLPCB_v1\ProjectBackup\backups\2020-07-03 17.47.21 - auto.zip].
+[2020-07-07 18.45.25] [AutoSave] backup file [ALLPCB_v1\ProjectBackup\backups\2020-07-03 17.47.21 - auto.zip] removed.
+[2020-07-10 11.34.34] Successfully created [AutoSave] backup [2020-07-10 11.34.33 - auto.zip] requested by [ALLEN:alle9].
+[2020-07-10 11.34.34] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\ALLPCB_v1\ProjectBackup\backups\2020-07-04 08.02.41 - auto.zip].
+[2020-07-10 11.34.34] [AutoSave] backup file [ALLPCB_v1\ProjectBackup\backups\2020-07-04 08.02.41 - auto.zip] removed.
+[2020-07-29 18.49.00] Successfully created [AutoSave] backup [2020-07-29 18.48.59 - auto.zip] requested by [ALLEN:alle9].
+[2020-07-29 18.49.00] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\ALLPCB_v1\ProjectBackup\backups\2020-07-05 08.05.20 - auto.zip].
+[2020-07-29 18.49.00] [AutoSave] backup file [ALLPCB_v1\ProjectBackup\backups\2020-07-05 08.05.20 - auto.zip] removed.
+[2020-07-30 06.20.33] Successfully created [AutoSave] backup [2020-07-30 06.20.32 - auto.zip] requested by [ALLEN:alle9].
+[2020-07-30 06.20.33] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\ALLPCB_v1\ProjectBackup\backups\2020-07-07 18.45.24 - auto.zip].
+[2020-07-30 06.20.33] [AutoSave] backup file [ALLPCB_v1\ProjectBackup\backups\2020-07-07 18.45.24 - auto.zip] removed.
+[2020-07-30 12.26.55] Successfully created [AutoSave] backup [2020-07-30 12.26.54 - auto.zip] requested by [ALLEN:alle9].
+[2020-07-30 12.26.55] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\ALLPCB_v1\ProjectBackup\backups\2020-07-10 11.34.33 - auto.zip].
+[2020-07-30 12.26.55] [AutoSave] backup file [ALLPCB_v1\ProjectBackup\backups\2020-07-10 11.34.33 - auto.zip] removed.
+[2020-07-30 19.49.56] Successfully created [AutoSave] backup [2020-07-30 19.49.55 - auto.zip] requested by [ALLEN:alle9].
+[2020-07-30 19.49.56] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\ALLPCB_v1\ProjectBackup\backups\2020-07-29 18.48.59 - auto.zip].
+[2020-07-30 19.49.56] [AutoSave] backup file [ALLPCB_v1\ProjectBackup\backups\2020-07-29 18.48.59 - auto.zip] removed.
+[2020-07-31 09.04.41] Successfully created [AutoSave] backup [2020-07-31 09.04.40 - auto.zip] requested by [ALLEN:alle9].
+[2020-07-31 09.04.41] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\ALLPCB_v1\ProjectBackup\backups\2020-07-30 06.20.32 - auto.zip].
+[2020-07-31 09.04.41] [AutoSave] backup file [ALLPCB_v1\ProjectBackup\backups\2020-07-30 06.20.32 - auto.zip] removed.
+[2020-07-31 09.05.40] Successfully created [Symbol Update] backup [2020-07-31 09.05.39 - symUpd.zip] requested by [ALLEN:alle9].
+[2020-08-02 12.56.04] Successfully created [AutoSave] backup [2020-08-02 12.56.03 - auto.zip] requested by [ALLEN:alle9].
+[2020-08-02 12.56.04] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\MentorContest\ProjectBackup\backups\2020-07-30 12.26.54 - auto.zip].
+[2020-08-02 12.56.04] [AutoSave] backup file [MentorContest\ProjectBackup\backups\2020-07-30 12.26.54 - auto.zip] removed.
+[2020-08-02 16.56.04] Successfully created [AutoSave] backup [2020-08-02 16.56.03 - auto.zip] requested by [ALLEN:alle9].
+[2020-08-02 16.56.04] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\MentorContest\ProjectBackup\backups\2020-07-30 19.49.55 - auto.zip].
+[2020-08-02 16.56.04] [AutoSave] backup file [MentorContest\ProjectBackup\backups\2020-07-30 19.49.55 - auto.zip] removed.
+[2020-08-03 10.59.45] Successfully created [AutoSave] backup [2020-08-03 10.59.43 - auto.zip] requested by [ALLEN:alle9].
+[2020-08-03 10.59.45] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\MentorContest\ProjectBackup\backups\2020-07-31 09.04.40 - auto.zip].
+[2020-08-03 10.59.45] [AutoSave] backup file [MentorContest\ProjectBackup\backups\2020-07-31 09.04.40 - auto.zip] removed.
+[2020-08-03 17.24.35] Successfully created [AutoSave] backup [2020-08-03 17.24.34 - auto.zip] requested by [ALLEN:alle9].
+[2020-08-03 17.24.35] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\MentorContest\ProjectBackup\backups\2020-08-02 12.56.03 - auto.zip].
+[2020-08-03 17.24.35] [AutoSave] backup file [MentorContest\ProjectBackup\backups\2020-08-02 12.56.03 - auto.zip] removed.
+[2020-08-04 11.10.50] Successfully created [AutoSave] backup [2020-08-04 11.10.49 - auto.zip] requested by [ALLEN:alle9].
+[2020-08-04 11.10.50] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\MentorContest\ProjectBackup\backups\2020-08-02 16.56.03 - auto.zip].
+[2020-08-04 11.10.50] [AutoSave] backup file [MentorContest\ProjectBackup\backups\2020-08-02 16.56.03 - auto.zip] removed.
+[2020-08-05 10.54.36] Successfully created [AutoSave] backup [2020-08-05 10.54.34 - auto.zip] requested by [ALLEN:alle9].
+[2020-08-05 10.54.36] Removing excessive [AutoSave] backup file [D:\OneDrive\Personal\Mentor\MentorContest\ProjectBackup\backups\2020-08-03 10.59.43 - auto.zip].
+[2020-08-05 10.54.36] [AutoSave] backup file [MentorContest\ProjectBackup\backups\2020-08-03 10.59.43 - auto.zip] removed.

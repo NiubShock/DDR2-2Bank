@@ -1,0 +1,11 @@
+.FILETYPE LAYER_STACKUP_SETTINGS
+.VERSION "VX2.1"
+.CREATOR "Mentor Graphics Corporation"
+.DATE "Monday August 03 17:32:51 2020"
+
+.LayerStackup
+  ..FontName    "VeriBest Gerber 0"
+  ..FontSize     1270000
+  ..PenWidth 127000
+  ..IncludeMaster 1
+  ..MultipleUserLayers 0

@@ -1,0 +1,192 @@
+[2020.08.05 10:54:34] [0000m.00s.021ms] [0] WELCOME
+[2020.08.05 10:54:34] [0000m.00s.021ms] [1] iCDB Server ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449115 created 2019-12-19 14:22:14, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2020.08.05 10:54:34] [0000m.00s.021ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2020.08.05 10:54:34] [0000m.00s.021ms] [1] Base flow version [VX.2.7]
+[2020.08.05 10:54:34] [0000m.00s.021ms] [1] Install Id [2125240], Flow Id [PADS Professional Student Edition VX.2.7], Full Flow Name [PADS Pro Tools SE VX.2.7], Exact Access Date [2020/02/01]
+[2020.08.05 10:54:34] [0000m.00s.030ms] [1] Machine [ALLEN]  IP [127.0.0.1,192.168.1.166,192.168.56.1]  User [alle9]  PID [18928]
+[2020.08.05 10:54:34] [0000m.00s.033ms] [1] Operating system [Microsoft Windows 10 Business Edition, 64-bit (build 18363)]
+[2020.08.05 10:54:34] [0000m.00s.033ms] [1] Current working dir [D:\OneDrive\Personal\Mentor\MentorContest\PCB]
+[2020.08.05 10:54:34] [0000m.00s.033ms] [1] PATH [C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\bin;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\jre\default\bin;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSProVX.2.7\MGC_HOME.ixw\bin;C:\MentorGraphics\PADSProVX.2.7\MGC_HOME.ixw\lib;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\wg\win64\lib;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2020a\bin;D:\Programs\MPLABx\xc16\v1.50\bin;D:\Programs\MPLABx\xc8\v2.20\bin;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\Users\alle9\AppData\Local\Microsoft\WindowsApps;C:\texlive\2019\bin\win32;C:\Users\alle9\AppData\Local\Programs\Microsoft VS Code\bin;C:\cygwin64\bin;C:\Program Files\JetBrains\CLion 2020.1.1\bin;C:\MinGW\bin;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common3D\win64\lib]
+[2020.08.05 10:54:34] [0000m.00s.033ms] [1] SDD_HOME [C:\MentorGraphics\PADSProVX.2.7\SDD_HOME] on file system [NTFS]
+[2020.08.05 10:54:34] [0000m.00s.033ms] [1] SDD_PLATFORM [win64]
+[2020.08.05 10:54:34] [0000m.00s.033ms] [1] WDIR [C:\WDIR\PADSProVX.2.7;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\standard;]
+[2020.08.05 10:54:34] [0000m.00s.033ms] [1] Local iCDB working dir [C:\WDIR\PADSProVX.2.7\iCDB] on file system [NTFS]
+[2020.08.05 10:54:34] [0000m.00s.033ms] [2] S: Loading config files
+[2020.08.05 10:54:34] [0000m.00s.040ms] [1] Config file [D:\OneDrive\Personal\Mentor\MentorContest\database\cdbsvr\Server.cfg] not found
+[2020.08.05 10:54:34] [0000m.00s.043ms] [3] S: Config loaded
+[2020.08.05 10:54:34] [0000m.00s.048ms] [0] S: Project path [D:\OneDrive\Personal\Mentor\MentorContest\database] on file system [NTFS]
+[2020.08.05 10:54:34] [0000m.00s.048ms] [0] S: Project file (.prj) path [D:\OneDrive\Personal\Mentor\MentorContest\Project2.prj] on file system [NTFS]
+[2020.08.05 10:54:34] [0000m.00s.048ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2020.08.05 10:54:34] [0000m.00s.048ms] [0] S: Single-user mode (auto)
+[2020.08.05 10:54:34] [0000m.00s.048ms] [0] S: Event polling mode autodetection
+[2020.08.05 10:54:34] [0000m.00s.049ms] [0] S: Started up automatically by iCDB Client: ALLEN:alle9:12720
+[2020.08.05 10:54:34] [0000m.00s.049ms] [0] S: Auto close mode
+[2020.08.05 10:54:34] [0000m.00s.049ms] [0] S: Database ID [6979-5e66-ff6c-9489-aecc-32ff-ecc3-2f50-3efa-7675-73b9-0aa8]
+[2020.08.05 10:54:34] [0000m.00s.049ms] [0] PathTranslator: BEGIN dumping
+[2020.08.05 10:54:34] [0000m.00s.049ms] [0] PathTranslator: Local -> global path prefix list
+[2020.08.05 10:54:34] [0000m.00s.049ms] [0] PathTranslator: Global -> local path prefix list
+[2020.08.05 10:54:34] [0000m.00s.049ms] [0] PathTranslator: END dumping
+[2020.08.05 10:54:34] [0000m.00s.049ms] [0] S: START
+[2020.08.05 10:54:34] [0000m.00s.049ms] [0] S: Server startup lock file created
+[2020.08.05 10:54:34] [0000m.00s.049ms] [0] S: Listening for client connections on port [10000]
+[2020.08.05 10:54:34] [0000m.00s.052ms] [0] S: Server network ID [Allen:192.168.1.166,192.168.56.1,Allen:10000]
+[2020.08.05 10:54:34] [0000m.00s.052ms] [0] S: Server GUID [abb5-e22d-6d31-cfe7-ac37-a2ff-c37a-2f50-bb0d-7675-73b9-0aa8]
+[2020.08.05 10:54:34] [0000m.00s.052ms] [0] S: Project GUID [6979-5e66-ff6c-9489-aecc-32ff-ecc3-2f50-3efa-7675-73b9-0aa8]
+[2020.08.05 10:54:34] [0000m.00s.054ms] [0] S: Wrote data to server address file
+[2020.08.05 10:54:34] [0000m.00s.054ms] [0] S: Server startup lock file removed
+[2020.08.05 10:54:34] [0000m.00s.054ms] [1] ProjectBackupManager: Setting project file (.prj) path: [D:\OneDrive\Personal\Mentor\MentorContest\Project2.prj]
+[2020.08.05 10:54:34] [0000m.00s.195ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2020.08.05 10:54:34] [0000m.00s.196ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\iCDB\win64\bin]
+[2020.08.05 10:54:34] [0000m.00s.196ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\bin]
+[2020.08.05 10:54:34] [0000m.00s.198ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2020.08.05 10:54:34] [0000m.00s.198ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2020.08.05 10:54:34] [0000m.00s.198ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2020.08.05 10:54:34] [0000m.00s.198ms] [0] S: Local disc access time: 51 us
+[2020.08.05 10:54:34] [0000m.00s.198ms] [0] S: File server access time: 61 us
+[2020.08.05 10:54:34] [0000m.00s.203ms] [0] Single file [D:\OneDrive\Personal\Mentor\MentorContest\database\icdb.dat] size [402928 (393.5 kB)]
+[2020.08.05 10:54:34] [0000m.00s.203ms] [1] Single file [D:\OneDrive\Personal\Mentor\MentorContest\database\icdb.dat] opened in read-write mode
+[2020.08.05 10:54:34] [0000m.00s.203ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2020.08.05 10:54:34] [0000m.00s.203ms] [0] Database GUARD OK: [402928]
+[2020.08.05 10:54:34] [0000m.00s.204ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2020.08.05 10:54:34] [0000m.00s.204ms] [0] Database GUARD OK: [402928]
+[2020.08.05 10:54:34] [0000m.00s.204ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2020.08.05 10:54:34] [0000m.00s.204ms] [0] Database GUARD OK: [402928]
+[2020.08.05 10:54:34] [0000m.00s.205ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2020.08.05 10:54:34] [0000m.00s.205ms] [0] Database GUARD OK: [402928]
+[2020.08.05 10:54:34] [0000m.00s.205ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2020.08.05 10:54:34] [0000m.00s.205ms] [0] Database GUARD OK: [402928]
+[2020.08.05 10:54:34] [0000m.00s.205ms] [0] SingleFile: [3641-17db-50f9-cd82] SFI version check [1009] [1009]
+[2020.08.05 10:54:34] [0000m.00s.212ms] [0] SingleFile: [3641-17db-50f9-cd82] Database SFI header has been read in [7ms 73us]
+[2020.08.05 10:54:34] [0000m.00s.216ms] [0] iCDB Server PI: Server & plugin session [698]
+[2020.08.05 10:54:34] [0000m.00s.216ms] [0] iCDB Server PI: Opening database [D:\OneDrive\Personal\Mentor\MentorContest\database]
+[2020.08.05 10:54:34] [0000m.00s.216ms] [0] iCDB Server PI: Database [D:\OneDrive\Personal\Mentor\MentorContest\database] opened
+[2020.08.05 10:54:34] [0000m.00s.277ms] [0] iCDB Database: Checking existence of constraint definitions
+[2020.08.05 10:54:34] [0000m.00s.277ms] [0] iCDB Database: Checking constraint definitions version
+[2020.08.05 10:54:34] [0000m.00s.312ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.69] up to date
+[2020.08.05 10:54:34] [0000m.00s.318ms] [0] iCDB Server PI: Initializing plugins
+[2020.08.05 10:54:34] [0000m.00s.321ms] [0] iCDB Server PI: Plugins initialized
+[2020.08.05 10:54:34] [0000m.00s.321ms] [0] S: iCDB database loaded
+[2020.08.05 10:54:34] [0000m.00s.322ms] [0] S: Starting threads
+[2020.08.05 10:54:34] [0000m.00s.323ms] [0] BT: Listening for broadcast messages on port [10000]
+[2020.08.05 10:54:34] [0000m.00s.323ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2020.08.05 10:54:34] [0000m.00s.325ms] [0] IT: Session [699] for host [Allen] user [alle9] client type[0] clsvrPluginID[0] with process ID [12720] created
+[2020.08.05 10:54:34] [0000m.00s.328ms] [0] MWT: WindowProc: WM_NCCREATE
+[2020.08.05 10:54:34] [0000m.00s.333ms] [1] SC[699]: Registered sub-client [Expedition PE_1367698906] with ID [1] for session ID [699] host [Allen] user [alle9] process ID [12720]
+[2020.08.05 10:54:34] [0000m.00s.439ms] [1] CMT: There are [1] clients now: 699
+[2020.08.05 10:54:34] [0000m.00s.515ms] [1] SC[699]: Registered sub-client [EEVM_EEVM_1029571168] with ID [2] for session ID [699] host [Allen] user [alle9] process ID [12720]
+[2020.08.05 10:54:34] [0000m.00s.536ms] [1] SC[699]: UnRegistered sub-client [EEVM_EEVM_1029571168] with ID [2] for session ID [699] host [Allen] user [alle9] process ID [12720]
+[2020.08.05 10:54:34] [0000m.00s.541ms] [1] SC[699]: Registered sub-client [EEVM_EEVM_1029571168] with ID [3] for session ID [699] host [Allen] user [alle9] process ID [12720]
+[2020.08.05 10:54:34] [0000m.00s.554ms] [1] SC[699]: UnRegistered sub-client [EEVM_EEVM_1029571168] with ID [3] for session ID [699] host [Allen] user [alle9] process ID [12720]
+[2020.08.05 10:54:35] [0000m.00s.997ms] [1] SC[699]: Registered sub-client [JobPrefsDBPI_1367700078] with ID [4] for session ID [699] host [Allen] user [alle9] process ID [12720]
+[2020.08.05 10:54:35] [0000m.01s.004ms] [1] SC[699]: UnRegistered sub-client [JobPrefsDBPI_1367700078] with ID [4] for session ID [699] host [Allen] user [alle9] process ID [12720]
+[2020.08.05 10:54:36] [0000m.02s.324ms] [1] PrjBackupMgr: Successfully created Project Backup [D:\OneDrive\Personal\Mentor\MentorContest\ProjectBackup\backups\2020-08-05 10.54.34 - auto.zip] with GUID [d446-4566-6356-74fb-ac37-a2ff-c37a-2f50-fdda-7675-73b9-0aa8]
+[2020.08.05 10:54:36] [0000m.02s.325ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[0c21-3265-3b22-1612-ff1d-72f4-02d7-2f50-b3ac-7695-83b9-0aa8] CreationTime[Monday, August 03, 2020 08:59:43] Type[Autosave] Creator[iCDB Server (2020-08-03 10.59.43-27100)] ApplicationName[iCDB Server (2020-08-03 10.59.43-27100)] UserName[alle9] MachineName[ALLEN] Description[Autosave] FullFlowName[PADS Pro Tools SE VX.2.7] FlowId[PADSProVX.2.7] GBSInstallId[2125240] GBSBuildId[15449115] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[D:\OneDrive\Personal\Mentor\MentorContest\ProjectBackup\backups\2020-08-03 10.59.43 - auto.zip] BackupFileSize[11249663] Persistent[FALSE]
+[2020.08.05 10:54:36] [0000m.02s.325ms] [0] PrjBackupMgr: Project Backup file [D:\OneDrive\Personal\Mentor\MentorContest\ProjectBackup\backups\2020-08-03 10.59.43 - auto.zip] with GUID [0c21-3265-3b22-1612-ff1d-72f4-02d7-2f50-b3ac-7695-83b9-0aa8] removed
+[2020.08.05 10:54:36] [0000m.02s.326ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[d446-4566-6356-74fb-ac37-a2ff-c37a-2f50-fdda-7675-73b9-0aa8] CreationTime[Wednesday, August 05, 2020 08:54:34] Type[Autosave] Creator[iCDB Server (2020-08-05 10.54.34-18928)] ApplicationName[iCDB Server (2020-08-05 10.54.34-18928)] UserName[alle9] MachineName[ALLEN] Description[Autosave] FullFlowName[PADS Pro Tools SE VX.2.7] FlowId[PADSProVX.2.7] GBSInstallId[2125240] GBSBuildId[15449115] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[D:\OneDrive\Personal\Mentor\MentorContest\ProjectBackup\backups\2020-08-05 10.54.34 - auto.zip] BackupFileSize[11267983] Persistent[FALSE]
+[2020.08.05 10:54:38] [0000m.04s.195ms] [1] SC[699]: Registered sub-client [JobPrefsDBPI_1367703281] with ID [5] for session ID [699] host [Allen] user [alle9] process ID [12720]
+[2020.08.05 10:54:38] [0000m.04s.228ms] [1] SC[699]: UnRegistered sub-client [JobPrefsDBPI_1367703281] with ID [5] for session ID [699] host [Allen] user [alle9] process ID [12720]
+[2020.08.05 10:54:38] [0000m.04s.502ms] [1] SC[699]: Registered sub-client [JobPrefsDBPI_1367703578] with ID [6] for session ID [699] host [Allen] user [alle9] process ID [12720]
+[2020.08.05 10:54:38] [0000m.04s.536ms] [1] SC[699]: UnRegistered sub-client [JobPrefsDBPI_1367703578] with ID [6] for session ID [699] host [Allen] user [alle9] process ID [12720]
+[2020.08.05 10:54:39] [0000m.04s.593ms] [1] SC[699]: Registered sub-client [ExpeditionCrossProber] with ID [7] for session ID [699] host [Allen] user [alle9] process ID [12720]
+[2020.08.05 10:54:39] [0000m.04s.601ms] [1] SC[699]: Registered sub-client [StartServerClient4900] with ID [8] for session ID [699] host [Allen] user [alle9] process ID [12720]
+[2020.08.05 10:54:39] [0000m.04s.602ms] [1] SC[699]: UnRegistered sub-client [StartServerClient4900] with ID [8] for session ID [699] host [Allen] user [alle9] process ID [12720]
+[2020.08.05 10:55:15] [0000m.40s.945ms] [0] DFAMT: File server access time: 87 us
+[2020.08.05 10:58:16] [0003m.42s.274ms] [1] SC[699]: Registered sub-client [JobPrefsDBPI_1367921343] with ID [9] for session ID [699] host [Allen] user [alle9] process ID [12720]
+[2020.08.05 10:58:16] [0003m.42s.281ms] [1] SC[699]: UnRegistered sub-client [JobPrefsDBPI_1367921343] with ID [9] for session ID [699] host [Allen] user [alle9] process ID [12720]
+[2020.08.05 10:58:16] [0003m.42s.391ms] [1] SC[699]: Registered sub-client [NetClassDBPI_1367921468] with ID [10] for session ID [699] host [Allen] user [alle9] process ID [12720]
+[2020.08.05 10:58:16] [0003m.42s.402ms] [1] SC[699]: UnRegistered sub-client [NetClassDBPI_1367921468] with ID [10] for session ID [699] host [Allen] user [alle9] process ID [12720]
+[2020.08.05 10:58:16] [0003m.42s.409ms] [1] SC[699]: Registered sub-client [JobPrefsDBPI_1367921484] with ID [11] for session ID [699] host [Allen] user [alle9] process ID [12720]
+[2020.08.05 10:58:16] [0003m.42s.416ms] [1] SC[699]: UnRegistered sub-client [JobPrefsDBPI_1367921484] with ID [11] for session ID [699] host [Allen] user [alle9] process ID [12720]
+[2020.08.05 10:58:19] [0003m.44s.594ms] [1] SC[699]: Registered sub-client [JobPrefsDBPI_1367923671] with ID [12] for session ID [699] host [Allen] user [alle9] process ID [12720]
+[2020.08.05 10:58:19] [0003m.44s.681ms] [1] SC[699]: UnRegistered sub-client [JobPrefsDBPI_1367923671] with ID [12] for session ID [699] host [Allen] user [alle9] process ID [12720]
+[2020.08.05 10:58:19] [0003m.44s.962ms] [0] IT: Session [700] for host [Allen] user [alle9] client type[0] clsvrPluginID[0] with process ID [11188] created
+[2020.08.05 10:58:19] [0003m.44s.963ms] [1] SC[700]: Registered sub-client [JobPrefsDBPI_1367923953] with ID [1] for session ID [700] host [Allen] user [alle9] process ID [11188]
+[2020.08.05 10:58:19] [0003m.44s.964ms] [0] IT: Session [701] for host [Allen] user [alle9] client type[0] clsvrPluginID[0] with process ID [9368] created
+[2020.08.05 10:58:19] [0003m.44s.965ms] [1] SC[701]: Registered sub-client [JobPrefsDBPI_1367923953] with ID [1] for session ID [701] host [Allen] user [alle9] process ID [9368]
+[2020.08.05 10:58:19] [0003m.45s.039ms] [1] CMT: There are [3] clients now: 699, 700, 701
+[2020.08.05 10:58:19] [0003m.45s.065ms] [1] SC[700]: Registered sub-client [JobPrefsDBPI_1367924140] with ID [2] for session ID [700] host [Allen] user [alle9] process ID [11188]
+[2020.08.05 10:58:19] [0003m.45s.067ms] [1] SC[701]: Registered sub-client [JobPrefsDBPI_1367924140] with ID [2] for session ID [701] host [Allen] user [alle9] process ID [9368]
+[2020.08.05 10:58:19] [0003m.45s.082ms] [1] SC[700]: Registered sub-client [NetClassDBPI_1367924156] with ID [3] for session ID [700] host [Allen] user [alle9] process ID [11188]
+[2020.08.05 10:58:19] [0003m.45s.084ms] [1] SC[701]: Registered sub-client [NetClassDBPI_1367924156] with ID [3] for session ID [701] host [Allen] user [alle9] process ID [9368]
+[2020.08.05 10:58:19] [0003m.45s.099ms] [1] SC[700]: Registered sub-client [Expedition_1367924171] with ID [4] for session ID [700] host [Allen] user [alle9] process ID [11188]
+[2020.08.05 10:58:19] [0003m.45s.105ms] [1] SC[700]: UnRegistered sub-client [Expedition_1367924171] with ID [4] for session ID [700] host [Allen] user [alle9] process ID [11188]
+[2020.08.05 10:58:19] [0003m.45s.238ms] [0] IT: Session [702] for host [Allen] user [alle9] client type[0] clsvrPluginID[0] with process ID [20404] created
+[2020.08.05 10:58:19] [0003m.45s.240ms] [1] SC[702]: Registered sub-client [JobPrefsDBPI_1367924234] with ID [1] for session ID [702] host [Allen] user [alle9] process ID [20404]
+[2020.08.05 10:58:19] [0003m.45s.258ms] [1] CMT: There are [4] clients now: 699, 700, 701, 702
+[2020.08.05 10:58:19] [0003m.45s.266ms] [1] SC[702]: Registered sub-client [NetClassDBPI_1367924343] with ID [2] for session ID [702] host [Allen] user [alle9] process ID [20404]
+[2020.08.05 10:58:19] [0003m.45s.342ms] [1] SC[702]: Registered sub-client [JobPrefsDBPI_1367924421] with ID [3] for session ID [702] host [Allen] user [alle9] process ID [20404]
+[2020.08.05 10:58:19] [0003m.45s.385ms] [1] SC[701]: UnRegistered sub-client [JobPrefsDBPI_1367924140] with ID [2] for session ID [701] host [Allen] user [alle9] process ID [9368]
+[2020.08.05 10:58:19] [0003m.45s.388ms] [1] SC[701]: UnRegistered sub-client [JobPrefsDBPI_1367923953] with ID [1] for session ID [701] host [Allen] user [alle9] process ID [9368]
+[2020.08.05 10:58:19] [0003m.45s.395ms] [1] SC[701]: UnRegistered sub-client [NetClassDBPI_1367924156] with ID [3] for session ID [701] host [Allen] user [alle9] process ID [9368]
+[2020.08.05 10:58:19] [0003m.45s.477ms] [1] CMT: Removed client [701]
+[2020.08.05 10:58:19] [0003m.45s.477ms] [1] CMT: There are [3] clients now: 699, 700, 702
+[2020.08.05 10:58:20] [0003m.45s.658ms] [1] SC[702]: Registered sub-client [Expedition_1367924734] with ID [4] for session ID [702] host [Allen] user [alle9] process ID [20404]
+[2020.08.05 10:58:20] [0003m.45s.974ms] [0] IT: Session [703] for host [Allen] user [alle9] client type[0] clsvrPluginID[0] with process ID [33632] created
+[2020.08.05 10:58:20] [0003m.45s.975ms] [1] SC[703]: Registered sub-client [JobPrefsDBPI_1367924968] with ID [1] for session ID [703] host [Allen] user [alle9] process ID [33632]
+[2020.08.05 10:58:20] [0003m.46s.024ms] [1] CMT: There are [4] clients now: 699, 700, 702, 703
+[2020.08.05 10:58:20] [0003m.46s.069ms] [1] SC[703]: Registered sub-client [JobPrefsDBPI_1367925140] with ID [2] for session ID [703] host [Allen] user [alle9] process ID [33632]
+[2020.08.05 10:58:20] [0003m.46s.086ms] [1] SC[703]: Registered sub-client [NetClassDBPI_1367925156] with ID [3] for session ID [703] host [Allen] user [alle9] process ID [33632]
+[2020.08.05 10:58:21] [0003m.46s.596ms] [1] SC[700]: UnRegistered sub-client [JobPrefsDBPI_1367924140] with ID [2] for session ID [700] host [Allen] user [alle9] process ID [11188]
+[2020.08.05 10:58:21] [0003m.46s.599ms] [1] SC[700]: UnRegistered sub-client [JobPrefsDBPI_1367923953] with ID [1] for session ID [700] host [Allen] user [alle9] process ID [11188]
+[2020.08.05 10:58:21] [0003m.46s.605ms] [1] SC[700]: UnRegistered sub-client [NetClassDBPI_1367924156] with ID [3] for session ID [700] host [Allen] user [alle9] process ID [11188]
+[2020.08.05 10:58:21] [0003m.46s.680ms] [1] CMT: Removed client [700]
+[2020.08.05 10:58:21] [0003m.46s.680ms] [1] CMT: There are [3] clients now: 699, 702, 703
+[2020.08.05 10:58:21] [0003m.46s.788ms] [1] SC[702]: UnRegistered sub-client [Expedition_1367924734] with ID [4] for session ID [702] host [Allen] user [alle9] process ID [20404]
+[2020.08.05 10:58:21] [0003m.46s.954ms] [1] SC[702]: UnRegistered sub-client [JobPrefsDBPI_1367924421] with ID [3] for session ID [702] host [Allen] user [alle9] process ID [20404]
+[2020.08.05 10:58:21] [0003m.46s.957ms] [1] SC[702]: UnRegistered sub-client [JobPrefsDBPI_1367924234] with ID [1] for session ID [702] host [Allen] user [alle9] process ID [20404]
+[2020.08.05 10:58:21] [0003m.46s.963ms] [1] SC[702]: UnRegistered sub-client [NetClassDBPI_1367924343] with ID [2] for session ID [702] host [Allen] user [alle9] process ID [20404]
+[2020.08.05 10:58:21] [0003m.47s.008ms] [1] CMT: Removed client [702]
+[2020.08.05 10:58:21] [0003m.47s.008ms] [1] CMT: There are [2] clients now: 699, 703
+[2020.08.05 10:58:22] [0003m.47s.663ms] [1] SC[703]: UnRegistered sub-client [JobPrefsDBPI_1367925140] with ID [2] for session ID [703] host [Allen] user [alle9] process ID [33632]
+[2020.08.05 10:58:22] [0003m.47s.666ms] [1] SC[703]: UnRegistered sub-client [JobPrefsDBPI_1367924968] with ID [1] for session ID [703] host [Allen] user [alle9] process ID [33632]
+[2020.08.05 10:58:22] [0003m.47s.673ms] [1] SC[703]: UnRegistered sub-client [NetClassDBPI_1367925156] with ID [3] for session ID [703] host [Allen] user [alle9] process ID [33632]
+[2020.08.05 10:58:22] [0003m.47s.773ms] [1] CMT: Removed client [703]
+[2020.08.05 10:58:22] [0003m.47s.773ms] [1] CMT: There are [1] clients now: 699
+[2020.08.05 10:59:27] [0004m.53s.439ms] [1] SC[699]: Registered sub-client [EEVM_EEVM_24231496] with ID [13] for session ID [699] host [Allen] user [alle9] process ID [12720]
+[2020.08.05 10:59:27] [0004m.53s.440ms] [1] SC[699]: UnRegistered sub-client [EEVM_EEVM_24231496] with ID [13] for session ID [699] host [Allen] user [alle9] process ID [12720]
+[2020.08.05 10:59:28] [0004m.53s.736ms] [0] IT: Session [704] for host [Allen] user [alle9] client type[0] clsvrPluginID[0] with process ID [23432] created
+[2020.08.05 10:59:28] [0004m.53s.737ms] [1] SC[704]: Registered sub-client [Expedition_1367992734] with ID [1] for session ID [704] host [Allen] user [alle9] process ID [23432]
+[2020.08.05 10:59:28] [0004m.53s.816ms] [1] CMT: There are [2] clients now: 699, 704
+[2020.08.05 10:59:28] [0004m.53s.822ms] [1] SC[704]: UnRegistered sub-client [Expedition_1367992734] with ID [1] for session ID [704] host [Allen] user [alle9] process ID [23432]
+[2020.08.05 10:59:28] [0004m.53s.926ms] [1] CMT: Removed client [704]
+[2020.08.05 10:59:28] [0004m.53s.926ms] [1] CMT: There are [1] clients now: 699
+[2020.08.05 11:02:40] [0008m.06s.003ms] [1] SC[699]: Registered sub-client [EEVM_EEVM_24231496] with ID [14] for session ID [699] host [Allen] user [alle9] process ID [12720]
+[2020.08.05 11:02:40] [0008m.06s.004ms] [1] SC[699]: UnRegistered sub-client [EEVM_EEVM_24231496] with ID [14] for session ID [699] host [Allen] user [alle9] process ID [12720]
+[2020.08.05 11:02:40] [0008m.06s.250ms] [0] IT: Session [705] for host [Allen] user [alle9] client type[0] clsvrPluginID[0] with process ID [1976] created
+[2020.08.05 11:02:40] [0008m.06s.251ms] [1] SC[705]: Registered sub-client [Expedition_1368185265] with ID [1] for session ID [705] host [Allen] user [alle9] process ID [1976]
+[2020.08.05 11:02:40] [0008m.06s.317ms] [1] SC[705]: UnRegistered sub-client [Expedition_1368185265] with ID [1] for session ID [705] host [Allen] user [alle9] process ID [1976]
+[2020.08.05 11:02:40] [0008m.06s.325ms] [1] CMT: There are [2] clients now: 699, 705
+[2020.08.05 11:02:40] [0008m.06s.325ms] [1] CMT: Removed client [705]
+[2020.08.05 11:02:40] [0008m.06s.326ms] [1] CMT: There are [1] clients now: 699
+[2020.08.05 11:03:04] [0008m.29s.962ms] [1] SC[699]: Registered sub-client [EEVM_EEVM_24231496] with ID [15] for session ID [699] host [Allen] user [alle9] process ID [12720]
+[2020.08.05 11:03:04] [0008m.29s.963ms] [1] SC[699]: UnRegistered sub-client [EEVM_EEVM_24231496] with ID [15] for session ID [699] host [Allen] user [alle9] process ID [12720]
+[2020.08.05 11:03:04] [0008m.30s.209ms] [0] IT: Session [706] for host [Allen] user [alle9] client type[0] clsvrPluginID[0] with process ID [1564] created
+[2020.08.05 11:03:04] [0008m.30s.210ms] [1] SC[706]: Registered sub-client [Expedition_1368209218] with ID [1] for session ID [706] host [Allen] user [alle9] process ID [1564]
+[2020.08.05 11:03:04] [0008m.30s.277ms] [1] SC[706]: UnRegistered sub-client [Expedition_1368209218] with ID [1] for session ID [706] host [Allen] user [alle9] process ID [1564]
+[2020.08.05 11:03:04] [0008m.30s.289ms] [1] CMT: There are [2] clients now: 699, 706
+[2020.08.05 11:03:04] [0008m.30s.289ms] [1] CMT: Removed client [706]
+[2020.08.05 11:03:04] [0008m.30s.289ms] [1] CMT: There are [1] clients now: 699
+[2020.08.05 11:03:07] [0008m.33s.155ms] [1] SC[699]: UnRegistered sub-client [ExpeditionCrossProber] with ID [7] for session ID [699] host [Allen] user [alle9] process ID [12720]
+[2020.08.05 11:03:09] [0008m.35s.137ms] [1] SC[699]: UnRegistered sub-client [Expedition PE_1367698906] with ID [1] for session ID [699] host [Allen] user [alle9] process ID [12720]
+[2020.08.05 11:03:09] [0008m.35s.210ms] [1] CMT: Removed client [699]
+[2020.08.05 11:03:09] [0008m.35s.210ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2020.08.05 11:03:11] [0008m.36s.631ms] [0] CMT: Starting server auto-close
+[2020.08.05 11:03:11] [0008m.36s.647ms] [0] S: Closing server
+[2020.08.05 11:03:11] [0008m.36s.787ms] [0] iCDB Server PI: Closing plugins
+[2020.08.05 11:03:11] [0008m.36s.787ms] [0] iCDB Server PI: Plugins closed
+[2020.08.05 11:03:11] [0008m.36s.787ms] [0] iCDB Server PI: Unloading database
+[2020.08.05 11:03:11] [0008m.36s.788ms] [0] iCDB Server PI: Saving storage
+[2020.08.05 11:03:11] [0008m.36s.788ms] [0] iCDB Server PI: Closing database
+[2020.08.05 11:03:11] [0008m.36s.798ms] [1] iCDB Server PI: Stats: Database defragmentation: max[1] avg[1] holes[9%] data[96%]
+[2020.08.05 11:03:11] [0008m.36s.798ms] [1] iCDB Server PI: Stats: Database file size [402928 (393.5 kB)]
+[2020.08.05 11:03:11] [0008m.36s.805ms] [0] iCDB Server PI: Database closed
+[2020.08.05 11:03:11] [0008m.36s.805ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [183116] ticks
+[2020.08.05 11:03:11] [0008m.36s.805ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [18311] microseconds
+[2020.08.05 11:03:11] [0008m.36s.805ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [356]
+[2020.08.05 11:03:11] [0008m.36s.805ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [19441] commands per second
+[2020.08.05 11:03:11] [0008m.36s.805ms] [1] iCDB Server PI: Stats: Mem[15220736]
+[2020.08.05 11:03:11] [0008m.36s.805ms] [1] iCDB Server PI: Stats: MemPeak[32800768]
+[2020.08.05 11:03:11] [0008m.36s.806ms] [0] Single file [D:\OneDrive\Personal\Mentor\MentorContest\database\icdb.dat] closed with size [402928 (393.5 kB)]
+[2020.08.05 11:03:11] [0008m.36s.928ms] [0] MWT: Destroy the shutdown block reason.
+[2020.08.05 11:03:11] [0008m.36s.930ms] [0] MWT: STOP
+[2020.08.05 11:03:11] [0008m.36s.931ms] [0] S: STOP

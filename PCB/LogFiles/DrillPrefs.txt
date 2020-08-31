@@ -1,0 +1,18 @@
+ ----------------------------
+|      Drill Prefs Log       |
+|          Started           |
+|  Mon Aug 03 17:37:49 2020  |
+ ----------------------------
+
+
+Error: on opening parser input file (D:\OneDrive\Personal\Mentor\MentorContest\PCB\Config\DrillSymbols.hkp) for reading.
+(check for a file or directory permission problem)
+
+Error HKParser initialization error <3>
+Error reading Drill Preferences File D:\OneDrive\Personal\Mentor\MentorContest\PCB\Config\DrillSymbols.hkp 
+ ----------------------------
+|      Drill Prefs Log       |
+|          Finished          |
+|  Mon Aug 03 17:37:49 2020  |
+ ----------------------------
+

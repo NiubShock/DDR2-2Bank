@@ -1,0 +1,13 @@
+
+PADS Professional Layout Version: 120.0.1554.9886
+
+Successfully read the design.
+Saved the design...
+Saved the design...
+Time spent Generating UPG
+
+Lap Elapsed Time  = 00:00:00	Total Elapsed time = 00:00:00
+Lap CPU  Time     = 00:00:00.00	Total CPU  Time    = 00:00:00.00
+
+Saved the design...
+Saved the design...

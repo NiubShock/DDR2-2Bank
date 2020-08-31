@@ -1,0 +1,115 @@
+=======================================================================
+PADS Professional Layout - Version 120.0.1554.9886
+=======================================================================
+
+Job Directory:        D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\
+
+Design Status Report: D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\LogFiles\DesignStatus_00.txt
+
+Thu Jul 30 07:28:57 2020
+
+=======================================================================
+DESIGN STATUS
+=======================================================================
+Board Size Extents  ............ 1,7 X 2,4 (in)
+Route Border Extents  .......... 9,3 X 5,15 (in)
+Actual Board Area  ............. 4,08 (in)
+Actual Route Area  ............. 47,9 (in)
+
+Placement Areas: Name             Available         Required          Required/Available
+                 Entire Board     8,16 Sq. (in)     2,25 Sq. (in)     27.53 %
+
+Pins  .......................... 693
+Pins per Route Area  ........... 14,47 Pins/Sq. (in)
+
+Layers  ........................ 10
+    Layer 1 is a signal layer
+        Trace Widths  .......... 3, 4, 5, 8, 20
+    Layer 2 is a Positive Plane Layer with nets
+        GND
+        Trace Widths  .......... None.
+    Layer 3 is a signal layer
+        Trace Widths  .......... 4, 5
+    Layer 4 is a Positive Plane Layer with nets
+        (Shield Area)
+        Trace Widths  .......... None.
+    Layer 5 is a Positive Plane Layer with nets
+        +1.8V
+        +1V
+        +3.3V
+        +5.0V
+        Trace Widths  .......... None.
+    Layer 6 is a Positive Plane Layer with nets
+        +1.8V
+        +1V
+        +3.3V
+        +5.0V
+        Trace Widths  .......... None.
+    Layer 7 is a Positive Plane Layer with nets
+        (Shield Area)
+        Trace Widths  .......... 4
+    Layer 8 is a signal layer
+        Trace Widths  .......... 4
+    Layer 9 is a Positive Plane Layer with nets
+        GND
+        Trace Widths  .......... None.
+    Layer 10 is a signal layer
+        Trace Widths  .......... 4, 5, 8, 20
+
+Nets  .......................... 102
+Connections  ................... 445
+Open Connections  .............. 81
+Differential Pairs  ............ 3
+Differential Pair Names:   nSDCK   SDCK
+                           USBDM   USBDP
+                           USBHM   USBHP
+                           
+Percent Routed  ................ 81.80 %
+
+Netline Length  ................ 7,87E-08 (in)
+Netline Manhattan Length  ...... 7,87E-08 (in)
+Total Trace Length  ............ 97,86 (in)
+
+Trace Widths Used (th)  ........ 3, 4, 5, 8, 20
+Vias  .......................... 446
+Via Span  Name                   Quantity
+   1-10   VC025D010P_UVIA_NSM    1
+          VC045D020P             40
+          VC035D020P             162
+   1-3    VC025D010P_UVIA_NSM    227
+   7-8    VC025D010P_UVIA_NSM    16
+
+Teardrops....................... 0
+    Pad Teardrops............... 0
+    Trace Teardrops............. 0
+    Custom Teardrops............ 0
+Tracedrops...................... 0
+
+Virtual Pins.................... 0
+Guide Pins ..................... 0
+
+Parts Placed  .................. 109
+    Parts Mounted on Top  ...... 69
+        SMD  ................... 68
+        Through  ............... 1
+        Test Points  ........... 0
+        Mechanical  ............ 0
+    Parts Mounted on Bottom  ... 40
+        SMD  ................... 40
+        Through  ............... 0
+        Test Points  ........... 0
+        Mechanical  ............ 0
+    Embedded Components ........ 0
+        Capacitors ............. 0
+        Resistors .............. 0
+    Edge Connector Parts  ...... 0
+
+Parts not Placed  .............. 0
+
+Nested Cells  .................. 0
+
+Jumpers  ....................... 0
+
+Through Holes  ................. 209
+    Holes per Board Area  ...... 51,23 Holes/Sq. (in)
+Mounting Holes  ................ 0

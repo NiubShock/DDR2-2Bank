@@ -1,0 +1,57 @@
+[2020.07.31 09:48:58] [0000m.10s.473ms] [0] WELCOME
+[2020.07.31 09:48:58] [0000m.10s.474ms] [1] iCDB Database ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449115 created 2019-12-19 14:22:14, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2020.07.31 09:48:58] [0000m.10s.474ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2020.07.31 09:48:58] [0000m.10s.474ms] [1] Base flow version [VX.2.7]
+[2020.07.31 09:48:58] [0000m.10s.474ms] [1] Install Id [2125240], Flow Id [PADS Professional Student Edition VX.2.7], Full Flow Name [PADS Pro Tools SE VX.2.7], Exact Access Date [2020/02/01]
+[2020.07.31 09:48:58] [0000m.10s.475ms] [1] Machine [ALLEN]  IP [127.0.0.1,192.168.1.166,192.168.56.1]  User [alle9]  PID [17832]
+[2020.07.31 09:48:58] [0000m.10s.478ms] [1] Operating system [Microsoft Windows 8 Business Edition, 64-bit (build 9200)]
+[2020.07.31 09:48:58] [0000m.10s.478ms] [1] Current working dir [D:\OneDrive\Personal\Mentor\MentorContest]
+[2020.07.31 09:48:58] [0000m.10s.478ms] [1] PATH [C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\bin;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\jre\default\bin;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSProVX.2.7\MGC_HOME.ixw\bin;C:\MentorGraphics\PADSProVX.2.7\MGC_HOME.ixw\lib;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2020a\bin;D:\Programs\MPLABx\xc16\v1.50\bin;D:\Programs\MPLABx\xc8\v2.20\bin;C:\Program Files\Git\cmd;C:\Users\alle9\AppData\Local\Microsoft\WindowsApps;C:\texlive\2019\bin\win32;C:\Users\alle9\AppData\Local\Programs\Microsoft VS Code\bin;C:\cygwin64\bin;C:\Program Files\JetBrains\CLion 2020.1.1\bin;C:\MinGW\bin;]
+[2020.07.31 09:48:58] [0000m.10s.478ms] [1] SDD_HOME [C:\MentorGraphics\PADSProVX.2.7\SDD_HOME] on file system [NTFS]
+[2020.07.31 09:48:58] [0000m.10s.478ms] [1] SDD_PLATFORM [win64]
+[2020.07.31 09:48:58] [0000m.10s.478ms] [1] WDIR [C:\WDIR\PADSProVX.2.7;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\standard;]
+[2020.07.31 09:48:58] [0000m.10s.478ms] [1] Local iCDB working dir [C:\WDIR\PADSProVX.2.7\iCDB] on file system [NTFS]
+[2020.07.31 09:48:58] [0000m.10s.478ms] [3] WARNING: Database [D:\OneDrive\Personal\Mentor\MentorContest\database\icdb.dat] was manually copied
+[2020.07.31 09:48:58] [0000m.10s.478ms] [3] File change time:        [2020-07-31 09.48.24]
+[2020.07.31 09:48:58] [0000m.10s.478ms] [3] File modification time:  [2020-07-31 09.47.22]
+[2020.07.31 09:48:58] [0000m.10s.478ms] [3] Last change time:        [2020-07-31 09.47.22]
+[2020.07.31 09:48:58] [0000m.10s.478ms] [3] Last database open information:
+[2020.07.31 09:48:58] [0000m.10s.478ms] [3] Time:             [2020-07-31 09.34.51]
+[2020.07.31 09:48:58] [0000m.10s.478ms] [3] Location:         [D:\OneDrive\Personal\Mentor\ALLPCB_v1\database\icdb.dat]
+[2020.07.31 09:48:58] [0000m.10s.478ms] [3] Machine:          [ALLEN]
+[2020.07.31 09:48:58] [0000m.10s.478ms] [3] User:             [alle9]
+[2020.07.31 09:48:58] [0000m.10s.478ms] [3] PID:              [16296]
+[2020.07.31 09:48:58] [0000m.10s.478ms] [3] Application:      [iCDB Server]
+[2020.07.31 09:48:58] [0000m.10s.478ms] [3] Operating system: [Microsoft Windows 10 Business Edition, 64-bit (build 18363)]
+[2020.07.31 09:48:58] [0000m.10s.478ms] [3] WARNING: Regenerating database GUID
+[2020.07.31 09:48:58] [0000m.10s.478ms] [3] Previous database GUID [7019-9539-f7af-9f95-a317-6def-3176-de50-3aca-7675-73b9-0aa8]
+[2020.07.31 09:48:58] [0000m.10s.479ms] [3] Current database GUID  [2b8e-6579-2e4a-5998-aecc-32ff-ecc3-2f50-3efa-7675-73b9-0aa8]
+[2020.07.31 09:48:58] [0000m.10s.479ms] [0] .
+[2020.07.31 09:48:58] [0000m.10s.481ms] [0] WELCOME
+[2020.07.31 09:48:58] [0000m.10s.481ms] [1] iCDB Database ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449115 created 2019-12-19 14:22:14, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2020.07.31 09:48:58] [0000m.10s.481ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2020.07.31 09:48:58] [0000m.10s.481ms] [1] Base flow version [VX.2.7]
+[2020.07.31 09:48:58] [0000m.10s.481ms] [1] Install Id [2125240], Flow Id [PADS Professional Student Edition VX.2.7], Full Flow Name [PADS Pro Tools SE VX.2.7], Exact Access Date [2020/02/01]
+[2020.07.31 09:48:58] [0000m.10s.481ms] [1] Machine [ALLEN]  IP [127.0.0.1,192.168.1.166,192.168.56.1]  User [alle9]  PID [17832]
+[2020.07.31 09:48:58] [0000m.10s.482ms] [1] Operating system [Microsoft Windows 8 Business Edition, 64-bit (build 9200)]
+[2020.07.31 09:48:58] [0000m.10s.482ms] [1] Current working dir [D:\OneDrive\Personal\Mentor\MentorContest]
+[2020.07.31 09:48:58] [0000m.10s.482ms] [1] PATH [C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\bin;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\jre\default\bin;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSProVX.2.7\MGC_HOME.ixw\bin;C:\MentorGraphics\PADSProVX.2.7\MGC_HOME.ixw\lib;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2020a\bin;D:\Programs\MPLABx\xc16\v1.50\bin;D:\Programs\MPLABx\xc8\v2.20\bin;C:\Program Files\Git\cmd;C:\Users\alle9\AppData\Local\Microsoft\WindowsApps;C:\texlive\2019\bin\win32;C:\Users\alle9\AppData\Local\Programs\Microsoft VS Code\bin;C:\cygwin64\bin;C:\Program Files\JetBrains\CLion 2020.1.1\bin;C:\MinGW\bin;]
+[2020.07.31 09:48:58] [0000m.10s.482ms] [1] SDD_HOME [C:\MentorGraphics\PADSProVX.2.7\SDD_HOME] on file system [NTFS]
+[2020.07.31 09:48:58] [0000m.10s.482ms] [1] SDD_PLATFORM [win64]
+[2020.07.31 09:48:58] [0000m.10s.482ms] [1] WDIR [C:\WDIR\PADSProVX.2.7;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\standard;]
+[2020.07.31 09:48:58] [0000m.10s.482ms] [1] Local iCDB working dir [C:\WDIR\PADSProVX.2.7\iCDB] on file system [NTFS]
+[2020.07.31 09:48:58] [0000m.10s.482ms] [3] File change time:        [2020-07-31 09.48.58]
+[2020.07.31 09:48:58] [0000m.10s.482ms] [3] File modification time:  [2020-07-31 09.48.58]
+[2020.07.31 09:48:58] [0000m.10s.482ms] [3] Last change time:        [2020-07-31 09.48.58]
+[2020.07.31 09:48:58] [0000m.10s.482ms] [3] Last database open information:
+[2020.07.31 09:48:58] [0000m.10s.482ms] [3] Time:             [2020-07-31 09.34.51]
+[2020.07.31 09:48:58] [0000m.10s.482ms] [3] Location:         [D:\OneDrive\Personal\Mentor\ALLPCB_v1\database\icdb.dat]
+[2020.07.31 09:48:58] [0000m.10s.482ms] [3] Machine:          [ALLEN]
+[2020.07.31 09:48:58] [0000m.10s.482ms] [3] User:             [alle9]
+[2020.07.31 09:48:58] [0000m.10s.482ms] [3] PID:              [16296]
+[2020.07.31 09:48:58] [0000m.10s.482ms] [3] Application:      [iCDB Server]
+[2020.07.31 09:48:58] [0000m.10s.482ms] [3] Operating system: [Microsoft Windows 10 Business Edition, 64-bit (build 18363)]
+[2020.07.31 09:48:58] [0000m.10s.482ms] [3] Database GUID must be regenerated
+[2020.07.31 09:48:58] [0000m.10s.482ms] [3] Previous database GUID [2b8e-6579-2e4a-5998-aecc-32ff-ecc3-2f50-3efa-7675-73b9-0aa8]
+[2020.07.31 09:48:58] [0000m.10s.482ms] [3] Current database GUID  [6979-5e66-ff6c-9489-aecc-32ff-ecc3-2f50-3efa-7675-73b9-0aa8]
+[2020.07.31 09:48:58] [0000m.10s.482ms] [0] .

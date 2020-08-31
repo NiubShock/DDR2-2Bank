@@ -1,0 +1,8 @@
+2020-07-30 08:33:40 19012     [INFO] ****** HyperLynx v2.7 build 15548567 
+2020-07-30 08:33:40 19012     [INFO]        C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\hyperlynx64\\BSW.exe -LTAG:D:\OneDrive\Personal\Mentor\ALLPCB_v1\Project2.prj D:\OneDrive\Personal\Mentor\ALLPCB_v1\HighSpeed\HyperLynx\PostLayoutLineSim\D14.ffs 
+2020-07-30 08:33:40 19012     [INFO] Opening Project D:\OneDrive\Personal\Mentor\ALLPCB_v1\HighSpeed\HyperLynx\PostLayoutLineSim\D14.ffs
+2020-07-30 08:33:40 19012     [INFO] Opened Schematic: D:\OneDrive\Personal\Mentor\ALLPCB_v1\HighSpeed\HyperLynx\PostLayoutLineSim\D14.ffs
+2020-07-30 08:34:20 19012  [WARNING] No IC output on selected net (i.e., no driver). Stopping.
+2020-07-30 08:35:12 19012     [INFO] HyperLynx: Salvare le modifiche a D14.ffs? - The "No" button was selected
+2020-07-30 08:35:13 19012     [INFO] Closing Schematic: D14.ffs
+2020-07-30 08:35:13 19012     [INFO] ****** Closing HyperLynx 

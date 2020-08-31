@@ -1,0 +1,15 @@
+
+				----------
+				CCZ Export
+				----------
+
+09:06:25 AM Friday, July 31, 2020
+
+Job name:    D:\OneDrive\Personal\Mentor\ALLPCB_v1\PCB\Project2.pcb
+Output file: D:\OneDrive\Personal\Mentor\ALLPCB_v1\eExp\Project2.cce
+
+Info:	Begin export
+Info:	CCZ export completed successfully.
+Info:	End export
+
+09:06:30 AM Friday, July 31, 2020
